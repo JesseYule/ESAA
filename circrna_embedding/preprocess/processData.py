@@ -3,28 +3,28 @@ import numpy as np
 
 # 把alias分成多行，每行表示一个circRNA
 
-data = pd.read_csv('association2.csv', header=0)
+data = pd.read_csv('association.csv', header=0)
 circRNA = data['circRNA']
-region = data['Region']
+disease = data['disease']
 
-result = pd.DataFrame(columns=["circRNA", "Region"])
+result = pd.DataFrame(columns=["circRNA", "disease"])
 
 for i in range(len(circRNA)):
     if "/" in circRNA[i]:
         tmp = circRNA[i].split("/")
         for j in range(len(tmp)):
             result = result.append(
-                pd.DataFrame({'circRNA': [tmp[j]], 'Region': [region[i]]}),
+                pd.DataFrame({'circRNA': [tmp[j]], 'disease': [disease[i]]}),
                 ignore_index=True)
     else:
         result = result.append(
-            pd.DataFrame({'circRNA': [circRNA[i]],  'Region': [region[i]]}),
+            pd.DataFrame({'circRNA': [circRNA[i]],  'disease': [disease[i]]}),
             ignore_index=True)
 
 result = result.drop_duplicates()
 circRNA = result['circRNA']
-region = result['Region']
-result.to_csv("circRNA_info.csv", index=None, encoding='utf_8_sig')
+disease = result['disease']
+result.to_csv("edited_association.csv", index=None, encoding='utf_8_sig')
 
 # 这里用excel处理一下，加上index
 

@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 
+
 # data = pd.read_csv('gene_disease.tsv', sep='\t')
 # data = data[['diseaseName', 'geneId']]
 #
@@ -34,6 +35,7 @@ import numpy as np
 # 后续还要后处理，一方面是去除重复值，一方面是筛选出gene_disease和circR2Disease共有的disease
 
 # 然后通过excel为disease和gene加上index
+# gene_disease.csv就是gene_disease(circR2Disease).csv通过excel处理过的文件
 
 
 data = pd.read_csv('gene_disease.csv')

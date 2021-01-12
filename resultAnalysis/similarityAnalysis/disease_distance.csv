@@ -1,0 +1,2486 @@
+,disease 1,disease 2,distance
+0,acne,acute myeloid leukemia,4.046098127165435
+0,acne,acute promyelocytic leukemia,3.871323578934897
+0,acne,acute respiratory distress syndrome,4.065784378024165
+0,acne,alzheimer's disease,3.7928864629510306
+0,acne,atherosclerosis,3.7783087791021246
+0,acne,basal cell carcinoma,3.804480898472361
+0,acne,bladder cancer,4.040630618287715
+0,acne,bladder urothelial carcinoma,4.0080571017198166
+0,acne,breast cancer,3.696269147690298
+0,acne,cardiovascular disease,3.7752197224591684
+0,acne,cervical cancer,3.828790728133165
+0,acne,cervical carcinoma,4.193010264528713
+0,acne,cholangiocarcinoma,3.810115734046222
+0,acne,clear cell renal cell carcinoma,4.337445039313719
+0,acne,colon cancer,4.162434622296871
+0,acne,colorectal cancer,3.9684318378538372
+0,acne,coronary artery disease,4.103838607565083
+0,acne,cutaneous squamous cell carcinoma,3.947005097304338
+0,acne,diabetes mellitus,3.9404988821875375
+0,acne,diabetic retinopathy,3.812523003402547
+0,acne,dilated cardiomyopathy,4.709222257944716
+0,acne,endometrial cancer,4.365534522058167
+0,acne,esophageal cancer,4.215739913008881
+0,acne,esophageal squamous cell carcinoma,4.055453272570022
+0,acne,essential hypertension,3.8868843930491463
+0,acne,gastric cancer,4.006572657944558
+0,acne,gestational diabetes mellitus,3.571588927796839
+0,acne,glioblastoma,3.913429713063306
+0,acne,glioblastoma multiforme,4.068128669495165
+0,acne,glioma,4.264055878330683
+0,acne,heart disease,3.8594561051909433
+0,acne,hepatic steatosis,4.368559122039397
+0,acne,hepatoblastoma,3.9385355741026227
+0,acne,hepatocellular carcinoma,3.959987767529078
+0,acne,hirschsprung disease,4.168191874785931
+0,acne,hypertension,3.921457025125755
+0,acne,hypertrophic cardiomyopathy,4.015228022782709
+0,acne,hypopharyngeal squamous cell carcinoma,3.4619140622080167
+0,acne,infantile hemangioma,4.111008938396262
+0,acne,intervertebral disc degeneration,4.142718274050785
+0,acne,leukoaraiosis,4.349743973048687
+0,acne,liver cancer,3.52475945542628
+0,acne,lung adenocarcinoma,4.2010325166596925
+0,acne,lung cancer,3.7391326129224933
+0,acne,lupus nephritis,4.135704044356813
+0,acne,major depressive disorder,3.92127198402852
+0,acne,moyamoya disease,4.323564446533552
+0,acne,multiple sclerosis,3.9606821406865573
+0,acne,multiple system atrophy,4.724962481372856
+0,acne,myocardial infarction,3.9081123750370166
+0,acne,neuropathic pain,4.463145907470971
+0,acne,nonalcoholic steatohepatitis,3.9287181384176586
+0,acne,non-small cell lung cancer,3.68156637318576
+0,acne,oral squamous cell carcinoma,3.5042377703345498
+0,acne,osteoarthritis,4.0002992578748575
+0,acne,osteosarcoma,4.009392970267961
+0,acne,ovarian endometriosis,3.5743037356425225
+0,acne,pancreatic cancer,4.029394470873701
+0,acne,pancreatic ductal adenocarcinoma,3.865202545945507
+0,acne,papillary thyroid carcinoma,3.8952342104627475
+0,acne,pre-eclampsia,4.087755363187736
+0,acne,prostate adenocarcinoma,3.5299947026921776
+0,acne,prostate cancer,3.8690347683769404
+0,acne,pulmonary tuberculosis,3.627277580784414
+0,acne,rheumatoid arthritis,3.702860146269014
+0,acne,silicosis,4.172211254405763
+0,acne,systemic lupus erythematosus,4.065378084002026
+0,acne,thoracic aortic dissection,3.513137898932886
+0,acne,tuberculosis,3.824407572506648
+0,acne,type 2 diabetes mellitus,4.263972275850404
+0,acute myeloid leukemia,acute promyelocytic leukemia,3.7547759696846175
+0,acute myeloid leukemia,acute respiratory distress syndrome,4.271158176125669
+0,acute myeloid leukemia,alzheimer's disease,3.9071883390361473
+0,acute myeloid leukemia,atherosclerosis,4.011253412654036
+0,acute myeloid leukemia,basal cell carcinoma,4.005264991698924
+0,acute myeloid leukemia,bladder cancer,3.9248016853019685
+0,acute myeloid leukemia,bladder urothelial carcinoma,4.164032612174958
+0,acute myeloid leukemia,breast cancer,3.8630563040042967
+0,acute myeloid leukemia,cardiovascular disease,3.573224349324005
+0,acute myeloid leukemia,cervical cancer,3.7932336472050614
+0,acute myeloid leukemia,cervical carcinoma,4.103274249634018
+0,acute myeloid leukemia,cholangiocarcinoma,3.8333489740859976
+0,acute myeloid leukemia,clear cell renal cell carcinoma,4.40557029970504
+0,acute myeloid leukemia,colon cancer,4.125497890761027
+0,acute myeloid leukemia,colorectal cancer,3.9170038384906576
+0,acute myeloid leukemia,coronary artery disease,3.7622025432425032
+0,acute myeloid leukemia,cutaneous squamous cell carcinoma,3.756881558768891
+0,acute myeloid leukemia,diabetes mellitus,3.5850722689581977
+0,acute myeloid leukemia,diabetic retinopathy,3.9552724805133592
+0,acute myeloid leukemia,dilated cardiomyopathy,4.701520964372303
+0,acute myeloid leukemia,endometrial cancer,4.370048027619278
+0,acute myeloid leukemia,esophageal cancer,4.339631424247947
+0,acute myeloid leukemia,esophageal squamous cell carcinoma,4.201129493411589
+0,acute myeloid leukemia,essential hypertension,3.9935057022748057
+0,acute myeloid leukemia,gastric cancer,4.08071213056222
+0,acute myeloid leukemia,gestational diabetes mellitus,3.418559740712965
+0,acute myeloid leukemia,glioblastoma,3.835609206041632
+0,acute myeloid leukemia,glioblastoma multiforme,3.905279045256436
+0,acute myeloid leukemia,glioma,3.9719712131332656
+0,acute myeloid leukemia,heart disease,3.8708622562849455
+0,acute myeloid leukemia,hepatic steatosis,4.515890700807239
+0,acute myeloid leukemia,hepatoblastoma,3.9658046987220636
+0,acute myeloid leukemia,hepatocellular carcinoma,4.017324871111529
+0,acute myeloid leukemia,hirschsprung disease,4.062729766395278
+0,acute myeloid leukemia,hypertension,3.931355548078941
+0,acute myeloid leukemia,hypertrophic cardiomyopathy,4.003118673747333
+0,acute myeloid leukemia,hypopharyngeal squamous cell carcinoma,3.335368388090079
+0,acute myeloid leukemia,infantile hemangioma,4.0375651399782
+0,acute myeloid leukemia,intervertebral disc degeneration,3.9717616139294933
+0,acute myeloid leukemia,leukoaraiosis,4.052560603039051
+0,acute myeloid leukemia,liver cancer,3.365577595447196
+0,acute myeloid leukemia,lung adenocarcinoma,4.134196812224555
+0,acute myeloid leukemia,lung cancer,3.9726796174430365
+0,acute myeloid leukemia,lupus nephritis,3.9930363753782636
+0,acute myeloid leukemia,major depressive disorder,3.83208588851482
+0,acute myeloid leukemia,moyamoya disease,4.001424265277899
+0,acute myeloid leukemia,multiple sclerosis,4.026591729616771
+0,acute myeloid leukemia,multiple system atrophy,4.545963017489362
+0,acute myeloid leukemia,myocardial infarction,3.706224064335699
+0,acute myeloid leukemia,neuropathic pain,4.725988885787682
+0,acute myeloid leukemia,nonalcoholic steatohepatitis,4.0268495977347
+0,acute myeloid leukemia,non-small cell lung cancer,3.83894179015371
+0,acute myeloid leukemia,oral squamous cell carcinoma,3.3680464597631756
+0,acute myeloid leukemia,osteoarthritis,4.076322273862724
+0,acute myeloid leukemia,osteosarcoma,3.7648504683986665
+0,acute myeloid leukemia,ovarian endometriosis,3.4018306865052605
+0,acute myeloid leukemia,pancreatic cancer,4.0565214372862
+0,acute myeloid leukemia,pancreatic ductal adenocarcinoma,3.6644292311547506
+0,acute myeloid leukemia,papillary thyroid carcinoma,3.6494171094150327
+0,acute myeloid leukemia,pre-eclampsia,4.121041565822266
+0,acute myeloid leukemia,prostate adenocarcinoma,3.4046108377358877
+0,acute myeloid leukemia,prostate cancer,3.9145369024787153
+0,acute myeloid leukemia,pulmonary tuberculosis,3.429320497091273
+0,acute myeloid leukemia,rheumatoid arthritis,3.786847898457752
+0,acute myeloid leukemia,silicosis,4.121759191474683
+0,acute myeloid leukemia,systemic lupus erythematosus,4.2171254668116
+0,acute myeloid leukemia,thoracic aortic dissection,3.353297460893522
+0,acute myeloid leukemia,tuberculosis,3.7514353883506297
+0,acute myeloid leukemia,type 2 diabetes mellitus,3.992987022624969
+0,acute promyelocytic leukemia,acute respiratory distress syndrome,3.995261450612852
+0,acute promyelocytic leukemia,alzheimer's disease,3.4662366938532077
+0,acute promyelocytic leukemia,atherosclerosis,3.595096138331885
+0,acute promyelocytic leukemia,basal cell carcinoma,3.774154792934341
+0,acute promyelocytic leukemia,bladder cancer,3.8671515715908553
+0,acute promyelocytic leukemia,bladder urothelial carcinoma,4.0384844750453865
+0,acute promyelocytic leukemia,breast cancer,3.5522509862314027
+0,acute promyelocytic leukemia,cardiovascular disease,3.45034211695427
+0,acute promyelocytic leukemia,cervical cancer,3.2606640469623143
+0,acute promyelocytic leukemia,cervical carcinoma,3.760439712921069
+0,acute promyelocytic leukemia,cholangiocarcinoma,3.410802381362719
+0,acute promyelocytic leukemia,clear cell renal cell carcinoma,4.234285886867374
+0,acute promyelocytic leukemia,colon cancer,3.8220712771479204
+0,acute promyelocytic leukemia,colorectal cancer,3.7530047384488916
+0,acute promyelocytic leukemia,coronary artery disease,3.3523983150677643
+0,acute promyelocytic leukemia,cutaneous squamous cell carcinoma,3.742034519238607
+0,acute promyelocytic leukemia,diabetes mellitus,3.4498550105022905
+0,acute promyelocytic leukemia,diabetic retinopathy,3.4467617332041054
+0,acute promyelocytic leukemia,dilated cardiomyopathy,4.599568651656372
+0,acute promyelocytic leukemia,endometrial cancer,4.078943447373652
+0,acute promyelocytic leukemia,esophageal cancer,4.135530792931293
+0,acute promyelocytic leukemia,esophageal squamous cell carcinoma,4.103776081866971
+0,acute promyelocytic leukemia,essential hypertension,3.5611341866976645
+0,acute promyelocytic leukemia,gastric cancer,3.7899013057789284
+0,acute promyelocytic leukemia,gestational diabetes mellitus,3.254033124179178
+0,acute promyelocytic leukemia,glioblastoma,3.5142886537566373
+0,acute promyelocytic leukemia,glioblastoma multiforme,3.38326903208766
+0,acute promyelocytic leukemia,glioma,3.31719851494148
+0,acute promyelocytic leukemia,heart disease,3.475633272035545
+0,acute promyelocytic leukemia,hepatic steatosis,4.323140695155602
+0,acute promyelocytic leukemia,hepatoblastoma,3.658204130055441
+0,acute promyelocytic leukemia,hepatocellular carcinoma,3.7834808374283084
+0,acute promyelocytic leukemia,hirschsprung disease,3.880352799152536
+0,acute promyelocytic leukemia,hypertension,3.5000520543219693
+0,acute promyelocytic leukemia,hypertrophic cardiomyopathy,3.586881333774986
+0,acute promyelocytic leukemia,hypopharyngeal squamous cell carcinoma,3.1809709924441987
+0,acute promyelocytic leukemia,infantile hemangioma,3.6596715589115307
+0,acute promyelocytic leukemia,intervertebral disc degeneration,3.7313781801764243
+0,acute promyelocytic leukemia,leukoaraiosis,3.956287962623027
+0,acute promyelocytic leukemia,liver cancer,3.2399643852324003
+0,acute promyelocytic leukemia,lung adenocarcinoma,4.128641205922995
+0,acute promyelocytic leukemia,lung cancer,3.6034762048297844
+0,acute promyelocytic leukemia,lupus nephritis,3.735617128395691
+0,acute promyelocytic leukemia,major depressive disorder,3.5281273252143626
+0,acute promyelocytic leukemia,moyamoya disease,3.8818657022407206
+0,acute promyelocytic leukemia,multiple sclerosis,3.4225737447100286
+0,acute promyelocytic leukemia,multiple system atrophy,4.220743034668601
+0,acute promyelocytic leukemia,myocardial infarction,3.517932438221091
+0,acute promyelocytic leukemia,neuropathic pain,4.319602662339628
+0,acute promyelocytic leukemia,nonalcoholic steatohepatitis,3.767292106491065
+0,acute promyelocytic leukemia,non-small cell lung cancer,3.6019241334082412
+0,acute promyelocytic leukemia,oral squamous cell carcinoma,3.2217914311166305
+0,acute promyelocytic leukemia,osteoarthritis,3.8405539950891763
+0,acute promyelocytic leukemia,osteosarcoma,3.5019201414895296
+0,acute promyelocytic leukemia,ovarian endometriosis,3.2221666027428015
+0,acute promyelocytic leukemia,pancreatic cancer,3.8493427149901196
+0,acute promyelocytic leukemia,pancreatic ductal adenocarcinoma,3.520488924850179
+0,acute promyelocytic leukemia,papillary thyroid carcinoma,3.4947346168144007
+0,acute promyelocytic leukemia,pre-eclampsia,4.009678759134711
+0,acute promyelocytic leukemia,prostate adenocarcinoma,3.2879295593768165
+0,acute promyelocytic leukemia,prostate cancer,3.563587075966645
+0,acute promyelocytic leukemia,pulmonary tuberculosis,3.2003527132044276
+0,acute promyelocytic leukemia,rheumatoid arthritis,3.2931304569595614
+0,acute promyelocytic leukemia,silicosis,3.8353027068807464
+0,acute promyelocytic leukemia,systemic lupus erythematosus,3.845724751439858
+0,acute promyelocytic leukemia,thoracic aortic dissection,3.16934916896498
+0,acute promyelocytic leukemia,tuberculosis,3.511794004208937
+0,acute promyelocytic leukemia,type 2 diabetes mellitus,4.094845867930496
+0,acute respiratory distress syndrome,alzheimer's disease,4.330458109519583
+0,acute respiratory distress syndrome,atherosclerosis,4.343294990817308
+0,acute respiratory distress syndrome,basal cell carcinoma,4.321523165072872
+0,acute respiratory distress syndrome,bladder cancer,4.017171332524014
+0,acute respiratory distress syndrome,bladder urothelial carcinoma,4.1277292352995545
+0,acute respiratory distress syndrome,breast cancer,4.1376759700433015
+0,acute respiratory distress syndrome,cardiovascular disease,4.259859224750319
+0,acute respiratory distress syndrome,cervical cancer,4.137514330647476
+0,acute respiratory distress syndrome,cervical carcinoma,3.9936330222600542
+0,acute respiratory distress syndrome,cholangiocarcinoma,4.194181581114388
+0,acute respiratory distress syndrome,clear cell renal cell carcinoma,4.308579877498047
+0,acute respiratory distress syndrome,colon cancer,3.8534583374799785
+0,acute respiratory distress syndrome,colorectal cancer,4.074771741143048
+0,acute respiratory distress syndrome,coronary artery disease,4.260336900236108
+0,acute respiratory distress syndrome,cutaneous squamous cell carcinoma,3.4422827936718927
+0,acute respiratory distress syndrome,diabetes mellitus,4.470763543514724
+0,acute respiratory distress syndrome,diabetic retinopathy,4.097604991559254
+0,acute respiratory distress syndrome,dilated cardiomyopathy,4.466683371686435
+0,acute respiratory distress syndrome,endometrial cancer,4.2913437659494535
+0,acute respiratory distress syndrome,esophageal cancer,3.97018098560803
+0,acute respiratory distress syndrome,esophageal squamous cell carcinoma,4.255547091972815
+0,acute respiratory distress syndrome,essential hypertension,3.8557717053031744
+0,acute respiratory distress syndrome,gastric cancer,4.321531344235018
+0,acute respiratory distress syndrome,gestational diabetes mellitus,3.2349158291710505
+0,acute respiratory distress syndrome,glioblastoma,4.43454727885917
+0,acute respiratory distress syndrome,glioblastoma multiforme,4.284949009969466
+0,acute respiratory distress syndrome,glioma,4.611715394830573
+0,acute respiratory distress syndrome,heart disease,4.364561211781575
+0,acute respiratory distress syndrome,hepatic steatosis,4.330011322556643
+0,acute respiratory distress syndrome,hepatoblastoma,4.136911830776695
+0,acute respiratory distress syndrome,hepatocellular carcinoma,4.1523200811321805
+0,acute respiratory distress syndrome,hirschsprung disease,4.267665765733369
+0,acute respiratory distress syndrome,hypertension,4.253166101578059
+0,acute respiratory distress syndrome,hypertrophic cardiomyopathy,3.917964489867484
+0,acute respiratory distress syndrome,hypopharyngeal squamous cell carcinoma,3.18780629277052
+0,acute respiratory distress syndrome,infantile hemangioma,4.0654152399591625
+0,acute respiratory distress syndrome,intervertebral disc degeneration,4.249274495221653
+0,acute respiratory distress syndrome,leukoaraiosis,4.254988507143466
+0,acute respiratory distress syndrome,liver cancer,3.2027129044821643
+0,acute respiratory distress syndrome,lung adenocarcinoma,4.049047027763872
+0,acute respiratory distress syndrome,lung cancer,3.7980729476064243
+0,acute respiratory distress syndrome,lupus nephritis,4.064627787048001
+0,acute respiratory distress syndrome,major depressive disorder,4.070285469356307
+0,acute respiratory distress syndrome,moyamoya disease,4.287573180924094
+0,acute respiratory distress syndrome,multiple sclerosis,4.205137678730267
+0,acute respiratory distress syndrome,multiple system atrophy,4.301462453035719
+0,acute respiratory distress syndrome,myocardial infarction,4.335680846740676
+0,acute respiratory distress syndrome,neuropathic pain,4.4758540600238685
+0,acute respiratory distress syndrome,nonalcoholic steatohepatitis,4.100813266585632
+0,acute respiratory distress syndrome,non-small cell lung cancer,3.746201170150613
+0,acute respiratory distress syndrome,oral squamous cell carcinoma,3.306505209998251
+0,acute respiratory distress syndrome,osteoarthritis,4.199843124432101
+0,acute respiratory distress syndrome,osteosarcoma,4.300768423598067
+0,acute respiratory distress syndrome,ovarian endometriosis,3.261263540805585
+0,acute respiratory distress syndrome,pancreatic cancer,3.917199386228795
+0,acute respiratory distress syndrome,pancreatic ductal adenocarcinoma,4.169834804170373
+0,acute respiratory distress syndrome,papillary thyroid carcinoma,4.064471665871108
+0,acute respiratory distress syndrome,pre-eclampsia,4.257654981685672
+0,acute respiratory distress syndrome,prostate adenocarcinoma,3.1902511518333894
+0,acute respiratory distress syndrome,prostate cancer,4.122715234430183
+0,acute respiratory distress syndrome,pulmonary tuberculosis,3.3022962520641195
+0,acute respiratory distress syndrome,rheumatoid arthritis,4.403696600366252
+0,acute respiratory distress syndrome,silicosis,4.089860951395993
+0,acute respiratory distress syndrome,systemic lupus erythematosus,4.143906198455721
+0,acute respiratory distress syndrome,thoracic aortic dissection,3.1631033060857927
+0,acute respiratory distress syndrome,tuberculosis,4.081114441764847
+0,acute respiratory distress syndrome,type 2 diabetes mellitus,4.171197464301483
+0,alzheimer's disease,atherosclerosis,3.2443338416180776
+0,alzheimer's disease,basal cell carcinoma,3.6999201223709868
+0,alzheimer's disease,bladder cancer,3.5677331005052393
+0,alzheimer's disease,bladder urothelial carcinoma,4.351512430972665
+0,alzheimer's disease,breast cancer,3.3530059353317405
+0,alzheimer's disease,cardiovascular disease,3.1221833499833482
+0,alzheimer's disease,cervical cancer,3.2212804293652852
+0,alzheimer's disease,cervical carcinoma,3.973343987220002
+0,alzheimer's disease,cholangiocarcinoma,3.26097571552207
+0,alzheimer's disease,clear cell renal cell carcinoma,4.56403195126962
+0,alzheimer's disease,colon cancer,3.9623891597117895
+0,alzheimer's disease,colorectal cancer,3.729426259979914
+0,alzheimer's disease,coronary artery disease,3.1773902811510437
+0,alzheimer's disease,cutaneous squamous cell carcinoma,4.0625117677448825
+0,alzheimer's disease,diabetes mellitus,2.989945023185131
+0,alzheimer's disease,diabetic retinopathy,3.3214787516342694
+0,alzheimer's disease,dilated cardiomyopathy,5.121461801103799
+0,alzheimer's disease,endometrial cancer,4.325534735393131
+0,alzheimer's disease,esophageal cancer,4.247586863174071
+0,alzheimer's disease,esophageal squamous cell carcinoma,4.36085552804721
+0,alzheimer's disease,essential hypertension,3.3868245303461113
+0,alzheimer's disease,gastric cancer,3.7822001839602555
+0,alzheimer's disease,gestational diabetes mellitus,3.6406352197031477
+0,alzheimer's disease,glioblastoma,2.922338221215479
+0,alzheimer's disease,glioblastoma multiforme,3.05186801731771
+0,alzheimer's disease,glioma,3.2515193052199747
+0,alzheimer's disease,heart disease,3.1965486466349513
+0,alzheimer's disease,hepatic steatosis,4.688491093555842
+0,alzheimer's disease,hepatoblastoma,3.5096260174898544
+0,alzheimer's disease,hepatocellular carcinoma,3.9285460236815664
+0,alzheimer's disease,hirschsprung disease,3.7300525691760855
+0,alzheimer's disease,hypertension,3.1917627620564306
+0,alzheimer's disease,hypertrophic cardiomyopathy,3.570702638914589
+0,alzheimer's disease,hypopharyngeal squamous cell carcinoma,3.5731423442516133
+0,alzheimer's disease,infantile hemangioma,4.16778734653506
+0,alzheimer's disease,intervertebral disc degeneration,3.6848026181128395
+0,alzheimer's disease,leukoaraiosis,4.214483163277454
+0,alzheimer's disease,liver cancer,3.5990372300349263
+0,alzheimer's disease,lung adenocarcinoma,4.4283426533096835
+0,alzheimer's disease,lung cancer,3.6275162553677083
+0,alzheimer's disease,lupus nephritis,3.4830228423419225
+0,alzheimer's disease,major depressive disorder,3.1116285618262953
+0,alzheimer's disease,moyamoya disease,3.93490148006504
+0,alzheimer's disease,multiple sclerosis,3.1141543324961667
+0,alzheimer's disease,multiple system atrophy,4.748478742286345
+0,alzheimer's disease,myocardial infarction,3.1320269879527682
+0,alzheimer's disease,neuropathic pain,4.5275324358669735
+0,alzheimer's disease,nonalcoholic steatohepatitis,3.576688898736891
+0,alzheimer's disease,non-small cell lung cancer,3.510283568585128
+0,alzheimer's disease,oral squamous cell carcinoma,3.5783129449347566
+0,alzheimer's disease,osteoarthritis,3.4561261685356217
+0,alzheimer's disease,osteosarcoma,3.1282660802950564
+0,alzheimer's disease,ovarian endometriosis,3.613831493218585
+0,alzheimer's disease,pancreatic cancer,4.070212733773645
+0,alzheimer's disease,pancreatic ductal adenocarcinoma,3.3385847251211795
+0,alzheimer's disease,papillary thyroid carcinoma,3.188187273527254
+0,alzheimer's disease,pre-eclampsia,3.953767453306669
+0,alzheimer's disease,prostate adenocarcinoma,3.6358159030880786
+0,alzheimer's disease,prostate cancer,3.377193561992038
+0,alzheimer's disease,pulmonary tuberculosis,3.619627921942294
+0,alzheimer's disease,rheumatoid arthritis,3.1611062109838737
+0,alzheimer's disease,silicosis,3.981984986752262
+0,alzheimer's disease,systemic lupus erythematosus,4.052060203236786
+0,alzheimer's disease,thoracic aortic dissection,3.5995300385656956
+0,alzheimer's disease,tuberculosis,3.2176413379716435
+0,alzheimer's disease,type 2 diabetes mellitus,4.391588306971035
+0,atherosclerosis,basal cell carcinoma,3.687897692401916
+0,atherosclerosis,bladder cancer,3.5414837533210837
+0,atherosclerosis,bladder urothelial carcinoma,4.362716310945989
+0,atherosclerosis,breast cancer,3.327575227463512
+0,atherosclerosis,cardiovascular disease,3.1114617332029804
+0,atherosclerosis,cervical cancer,3.4105013219274514
+0,atherosclerosis,cervical carcinoma,4.109301697101928
+0,atherosclerosis,cholangiocarcinoma,3.2344656373612537
+0,atherosclerosis,clear cell renal cell carcinoma,4.530686357395267
+0,atherosclerosis,colon cancer,4.05401984283858
+0,atherosclerosis,colorectal cancer,3.7265800960666895
+0,atherosclerosis,coronary artery disease,3.1705085705382805
+0,atherosclerosis,cutaneous squamous cell carcinoma,4.053447156419711
+0,atherosclerosis,diabetes mellitus,2.9644732162435132
+0,atherosclerosis,diabetic retinopathy,3.2957193611588496
+0,atherosclerosis,dilated cardiomyopathy,5.1167393810218424
+0,atherosclerosis,endometrial cancer,4.2851854425342655
+0,atherosclerosis,esophageal cancer,4.450759176467434
+0,atherosclerosis,esophageal squamous cell carcinoma,4.316383600433863
+0,atherosclerosis,essential hypertension,3.551978853759834
+0,atherosclerosis,gastric cancer,3.8622047258983914
+0,atherosclerosis,gestational diabetes mellitus,3.6111357694204456
+0,atherosclerosis,glioblastoma,3.1348669592465277
+0,atherosclerosis,glioblastoma multiforme,3.0352821297690324
+0,atherosclerosis,glioma,3.2222759017394287
+0,atherosclerosis,heart disease,3.2453604857845644
+0,atherosclerosis,hepatic steatosis,4.730686305184612
+0,atherosclerosis,hepatoblastoma,3.6173023964798108
+0,atherosclerosis,hepatocellular carcinoma,3.658907600703233
+0,atherosclerosis,hirschsprung disease,4.12976864856621
+0,atherosclerosis,hypertension,3.254626092052893
+0,atherosclerosis,hypertrophic cardiomyopathy,3.6727321571590843
+0,atherosclerosis,hypopharyngeal squamous cell carcinoma,3.553619367959469
+0,atherosclerosis,infantile hemangioma,3.905356960182914
+0,atherosclerosis,intervertebral disc degeneration,3.5772984953338414
+0,atherosclerosis,leukoaraiosis,4.3625823945451225
+0,atherosclerosis,liver cancer,3.5741137082000303
+0,atherosclerosis,lung adenocarcinoma,4.505200170768606
+0,atherosclerosis,lung cancer,3.6355765548979466
+0,atherosclerosis,lupus nephritis,3.4045145873742624
+0,atherosclerosis,major depressive disorder,3.157321348850485
+0,atherosclerosis,moyamoya disease,3.86431023212324
+0,atherosclerosis,multiple sclerosis,3.365380665770217
+0,atherosclerosis,multiple system atrophy,4.775753236145364
+0,atherosclerosis,myocardial infarction,3.2361378222288346
+0,atherosclerosis,neuropathic pain,4.48698646296772
+0,atherosclerosis,nonalcoholic steatohepatitis,3.438739084562232
+0,atherosclerosis,non-small cell lung cancer,3.404843956228943
+0,atherosclerosis,oral squamous cell carcinoma,3.58875018458951
+0,atherosclerosis,osteoarthritis,3.7338970919082004
+0,atherosclerosis,osteosarcoma,3.1371690548702937
+0,atherosclerosis,ovarian endometriosis,3.5990895695079037
+0,atherosclerosis,pancreatic cancer,4.091352147063657
+0,atherosclerosis,pancreatic ductal adenocarcinoma,3.319291755522162
+0,atherosclerosis,papillary thyroid carcinoma,3.0793372265566736
+0,atherosclerosis,pre-eclampsia,3.928699338247965
+0,atherosclerosis,prostate adenocarcinoma,3.640133893102072
+0,atherosclerosis,prostate cancer,3.511813267147451
+0,atherosclerosis,pulmonary tuberculosis,3.6026518114722776
+0,atherosclerosis,rheumatoid arthritis,3.192305660020178
+0,atherosclerosis,silicosis,3.992137464551485
+0,atherosclerosis,systemic lupus erythematosus,4.055602304903673
+0,atherosclerosis,thoracic aortic dissection,3.561551710314161
+0,atherosclerosis,tuberculosis,3.38426121750807
+0,atherosclerosis,type 2 diabetes mellitus,4.371352359851716
+0,basal cell carcinoma,bladder cancer,3.854792365365387
+0,basal cell carcinoma,bladder urothelial carcinoma,4.054244596470353
+0,basal cell carcinoma,breast cancer,3.617687079211858
+0,basal cell carcinoma,cardiovascular disease,3.490797017465435
+0,basal cell carcinoma,cervical cancer,3.5489901806747253
+0,basal cell carcinoma,cervical carcinoma,3.8770773596031156
+0,basal cell carcinoma,cholangiocarcinoma,3.5579438660681064
+0,basal cell carcinoma,clear cell renal cell carcinoma,4.251164674716665
+0,basal cell carcinoma,colon cancer,3.9340649441158355
+0,basal cell carcinoma,colorectal cancer,3.875823534249765
+0,basal cell carcinoma,coronary artery disease,3.682844713615016
+0,basal cell carcinoma,cutaneous squamous cell carcinoma,3.8589353943143503
+0,basal cell carcinoma,diabetes mellitus,3.6025620659971542
+0,basal cell carcinoma,diabetic retinopathy,3.7084054456930513
+0,basal cell carcinoma,dilated cardiomyopathy,4.71155082785532
+0,basal cell carcinoma,endometrial cancer,4.204624665610527
+0,basal cell carcinoma,esophageal cancer,4.00843834312981
+0,basal cell carcinoma,esophageal squamous cell carcinoma,4.174217397563638
+0,basal cell carcinoma,essential hypertension,3.558470336135148
+0,basal cell carcinoma,gastric cancer,3.8272953332180966
+0,basal cell carcinoma,gestational diabetes mellitus,3.55728798109976
+0,basal cell carcinoma,glioblastoma,3.51849187336948
+0,basal cell carcinoma,glioblastoma multiforme,3.7539260715111067
+0,basal cell carcinoma,glioma,3.594673259692221
+0,basal cell carcinoma,heart disease,3.651798763630731
+0,basal cell carcinoma,hepatic steatosis,4.3723565404562255
+0,basal cell carcinoma,hepatoblastoma,3.9805090494768094
+0,basal cell carcinoma,hepatocellular carcinoma,3.9144434368424132
+0,basal cell carcinoma,hirschsprung disease,4.022010685253391
+0,basal cell carcinoma,hypertension,3.624386778568373
+0,basal cell carcinoma,hypertrophic cardiomyopathy,3.62464049357407
+0,basal cell carcinoma,hypopharyngeal squamous cell carcinoma,3.4241189894662583
+0,basal cell carcinoma,infantile hemangioma,3.675811457113971
+0,basal cell carcinoma,intervertebral disc degeneration,3.6918336359412507
+0,basal cell carcinoma,leukoaraiosis,3.9665157382871263
+0,basal cell carcinoma,liver cancer,3.43608840004217
+0,basal cell carcinoma,lung adenocarcinoma,4.0148668513594465
+0,basal cell carcinoma,lung cancer,3.755109551963737
+0,basal cell carcinoma,lupus nephritis,3.8084163147773786
+0,basal cell carcinoma,major depressive disorder,3.6421033132449643
+0,basal cell carcinoma,moyamoya disease,4.115606764647873
+0,basal cell carcinoma,multiple sclerosis,3.558971063101876
+0,basal cell carcinoma,multiple system atrophy,4.582790535768009
+0,basal cell carcinoma,myocardial infarction,3.5522549996522184
+0,basal cell carcinoma,neuropathic pain,4.365376035266904
+0,basal cell carcinoma,nonalcoholic steatohepatitis,3.86612078982104
+0,basal cell carcinoma,non-small cell lung cancer,3.766078766765987
+0,basal cell carcinoma,oral squamous cell carcinoma,3.4719576257950044
+0,basal cell carcinoma,osteoarthritis,3.941047063399968
+0,basal cell carcinoma,osteosarcoma,3.733014588291751
+0,basal cell carcinoma,ovarian endometriosis,3.441393244393802
+0,basal cell carcinoma,pancreatic cancer,4.050002024573744
+0,basal cell carcinoma,pancreatic ductal adenocarcinoma,3.6423228632777134
+0,basal cell carcinoma,papillary thyroid carcinoma,3.492805134588521
+0,basal cell carcinoma,pre-eclampsia,4.120048583208308
+0,basal cell carcinoma,prostate adenocarcinoma,3.5200386598259925
+0,basal cell carcinoma,prostate cancer,3.5983019158254517
+0,basal cell carcinoma,pulmonary tuberculosis,3.4533020153419014
+0,basal cell carcinoma,rheumatoid arthritis,3.4789865367295714
+0,basal cell carcinoma,silicosis,3.731094498066989
+0,basal cell carcinoma,systemic lupus erythematosus,4.352650507733657
+0,basal cell carcinoma,thoracic aortic dissection,3.4064325792847767
+0,basal cell carcinoma,tuberculosis,3.5637244468151326
+0,basal cell carcinoma,type 2 diabetes mellitus,4.329365673069046
+0,bladder cancer,bladder urothelial carcinoma,4.054139595189611
+0,bladder cancer,breast cancer,3.6261248630685285
+0,bladder cancer,cardiovascular disease,3.6060584401188147
+0,bladder cancer,cervical cancer,3.3769715626375696
+0,bladder cancer,cervical carcinoma,3.705788758617716
+0,bladder cancer,cholangiocarcinoma,3.5602795714610145
+0,bladder cancer,clear cell renal cell carcinoma,4.160401815135336
+0,bladder cancer,colon cancer,4.004706057859134
+0,bladder cancer,colorectal cancer,3.8462203955945915
+0,bladder cancer,coronary artery disease,3.700573623503524
+0,bladder cancer,cutaneous squamous cell carcinoma,3.7039735327362124
+0,bladder cancer,diabetes mellitus,3.7309722415922586
+0,bladder cancer,diabetic retinopathy,3.5187007401937156
+0,bladder cancer,dilated cardiomyopathy,4.613165138185965
+0,bladder cancer,endometrial cancer,3.9362113601856623
+0,bladder cancer,esophageal cancer,4.075216892055432
+0,bladder cancer,esophageal squamous cell carcinoma,4.3592654239747235
+0,bladder cancer,essential hypertension,3.660364378790302
+0,bladder cancer,gastric cancer,3.603535059534028
+0,bladder cancer,gestational diabetes mellitus,3.4058882271680186
+0,bladder cancer,glioblastoma,3.4646832636356977
+0,bladder cancer,glioblastoma multiforme,3.617352557207846
+0,bladder cancer,glioma,3.675362186241688
+0,bladder cancer,heart disease,3.411648021077098
+0,bladder cancer,hepatic steatosis,4.20124621592266
+0,bladder cancer,hepatoblastoma,3.853885984924812
+0,bladder cancer,hepatocellular carcinoma,3.898454719852622
+0,bladder cancer,hirschsprung disease,3.9227562082298473
+0,bladder cancer,hypertension,3.608360155502736
+0,bladder cancer,hypertrophic cardiomyopathy,3.7322620485842064
+0,bladder cancer,hypopharyngeal squamous cell carcinoma,3.3034259519164326
+0,bladder cancer,infantile hemangioma,3.960346808561859
+0,bladder cancer,intervertebral disc degeneration,3.90763863066439
+0,bladder cancer,leukoaraiosis,3.8531594474529696
+0,bladder cancer,liver cancer,3.3592199189511183
+0,bladder cancer,lung adenocarcinoma,4.080307410030578
+0,bladder cancer,lung cancer,3.6905619921851223
+0,bladder cancer,lupus nephritis,3.781971963756154
+0,bladder cancer,major depressive disorder,3.413649283904294
+0,bladder cancer,moyamoya disease,4.125424102745093
+0,bladder cancer,multiple sclerosis,3.6222922187962454
+0,bladder cancer,multiple system atrophy,4.462718077446579
+0,bladder cancer,myocardial infarction,3.787639405908437
+0,bladder cancer,neuropathic pain,4.18006459163794
+0,bladder cancer,nonalcoholic steatohepatitis,3.8573344351925933
+0,bladder cancer,non-small cell lung cancer,3.684216786300945
+0,bladder cancer,oral squamous cell carcinoma,3.392252927723961
+0,bladder cancer,osteoarthritis,3.857589380913571
+0,bladder cancer,osteosarcoma,3.7709107022182886
+0,bladder cancer,ovarian endometriosis,3.376072540607431
+0,bladder cancer,pancreatic cancer,4.017128150122823
+0,bladder cancer,pancreatic ductal adenocarcinoma,3.5908150723785948
+0,bladder cancer,papillary thyroid carcinoma,3.437877601830045
+0,bladder cancer,pre-eclampsia,3.8816787873101943
+0,bladder cancer,prostate adenocarcinoma,3.4173088776985425
+0,bladder cancer,prostate cancer,3.3920898159101394
+0,bladder cancer,pulmonary tuberculosis,3.421660727678678
+0,bladder cancer,rheumatoid arthritis,3.366262013788307
+0,bladder cancer,silicosis,3.890730624406213
+0,bladder cancer,systemic lupus erythematosus,3.834282931805314
+0,bladder cancer,thoracic aortic dissection,3.3371248410502696
+0,bladder cancer,tuberculosis,3.5533329687533763
+0,bladder cancer,type 2 diabetes mellitus,4.104819643109093
+0,bladder urothelial carcinoma,breast cancer,4.037807486824134
+0,bladder urothelial carcinoma,cardiovascular disease,4.1452472151397375
+0,bladder urothelial carcinoma,cervical cancer,3.89513022129753
+0,bladder urothelial carcinoma,cervical carcinoma,4.186718602051414
+0,bladder urothelial carcinoma,cholangiocarcinoma,4.166816403836415
+0,bladder urothelial carcinoma,clear cell renal cell carcinoma,4.3884873705953344
+0,bladder urothelial carcinoma,colon cancer,4.140036696660041
+0,bladder urothelial carcinoma,colorectal cancer,4.134521457085597
+0,bladder urothelial carcinoma,coronary artery disease,4.139321793452638
+0,bladder urothelial carcinoma,cutaneous squamous cell carcinoma,3.5612709630551147
+0,bladder urothelial carcinoma,diabetes mellitus,4.304072279139197
+0,bladder urothelial carcinoma,diabetic retinopathy,3.935059656419187
+0,bladder urothelial carcinoma,dilated cardiomyopathy,4.66465152144798
+0,bladder urothelial carcinoma,endometrial cancer,4.231173170548626
+0,bladder urothelial carcinoma,esophageal cancer,4.381324795605829
+0,bladder urothelial carcinoma,esophageal squamous cell carcinoma,4.241459805451281
+0,bladder urothelial carcinoma,essential hypertension,3.959498497927535
+0,bladder urothelial carcinoma,gastric cancer,4.22218527768141
+0,bladder urothelial carcinoma,gestational diabetes mellitus,3.3163146234557614
+0,bladder urothelial carcinoma,glioblastoma,4.135637358738856
+0,bladder urothelial carcinoma,glioblastoma multiforme,4.32725920790471
+0,bladder urothelial carcinoma,glioma,4.344750673903937
+0,bladder urothelial carcinoma,heart disease,4.337736600923081
+0,bladder urothelial carcinoma,hepatic steatosis,4.038271982790456
+0,bladder urothelial carcinoma,hepatoblastoma,4.103407606014069
+0,bladder urothelial carcinoma,hepatocellular carcinoma,4.036078395207251
+0,bladder urothelial carcinoma,hirschsprung disease,4.130682881600333
+0,bladder urothelial carcinoma,hypertension,4.02924582975315
+0,bladder urothelial carcinoma,hypertrophic cardiomyopathy,4.03093634197502
+0,bladder urothelial carcinoma,hypopharyngeal squamous cell carcinoma,3.117802637477101
+0,bladder urothelial carcinoma,infantile hemangioma,3.8517819932857806
+0,bladder urothelial carcinoma,intervertebral disc degeneration,4.182342146496504
+0,bladder urothelial carcinoma,leukoaraiosis,4.274696537369063
+0,bladder urothelial carcinoma,liver cancer,3.283044525653747
+0,bladder urothelial carcinoma,lung adenocarcinoma,4.236642771740446
+0,bladder urothelial carcinoma,lung cancer,3.911741547725949
+0,bladder urothelial carcinoma,lupus nephritis,4.203505158229411
+0,bladder urothelial carcinoma,major depressive disorder,3.8857867404635544
+0,bladder urothelial carcinoma,moyamoya disease,4.095313463362861
+0,bladder urothelial carcinoma,multiple sclerosis,4.0949857832191805
+0,bladder urothelial carcinoma,multiple system atrophy,4.04677096059512
+0,bladder urothelial carcinoma,myocardial infarction,4.289653481111409
+0,bladder urothelial carcinoma,neuropathic pain,4.450161282416867
+0,bladder urothelial carcinoma,nonalcoholic steatohepatitis,4.145597120754219
+0,bladder urothelial carcinoma,non-small cell lung cancer,3.9173827662584433
+0,bladder urothelial carcinoma,oral squamous cell carcinoma,3.2005321512059908
+0,bladder urothelial carcinoma,osteoarthritis,4.250800051261732
+0,bladder urothelial carcinoma,osteosarcoma,4.227187784616175
+0,bladder urothelial carcinoma,ovarian endometriosis,3.3016075529846014
+0,bladder urothelial carcinoma,pancreatic cancer,4.211599591288496
+0,bladder urothelial carcinoma,pancreatic ductal adenocarcinoma,3.9767897277360573
+0,bladder urothelial carcinoma,papillary thyroid carcinoma,3.995250016056993
+0,bladder urothelial carcinoma,pre-eclampsia,4.1498203193578815
+0,bladder urothelial carcinoma,prostate adenocarcinoma,3.3340145860200057
+0,bladder urothelial carcinoma,prostate cancer,3.9969481952286476
+0,bladder urothelial carcinoma,pulmonary tuberculosis,3.334539956926692
+0,bladder urothelial carcinoma,rheumatoid arthritis,4.308553145146796
+0,bladder urothelial carcinoma,silicosis,3.9921808578584
+0,bladder urothelial carcinoma,systemic lupus erythematosus,4.0197146175787
+0,bladder urothelial carcinoma,thoracic aortic dissection,3.2293823844261826
+0,bladder urothelial carcinoma,tuberculosis,4.0889250876227665
+0,bladder urothelial carcinoma,type 2 diabetes mellitus,4.0612007928372185
+0,breast cancer,cardiovascular disease,3.4235799362105017
+0,breast cancer,cervical cancer,3.297551825606083
+0,breast cancer,cervical carcinoma,3.8701832634613016
+0,breast cancer,cholangiocarcinoma,3.524664270969926
+0,breast cancer,clear cell renal cell carcinoma,4.197669675463028
+0,breast cancer,colon cancer,3.7174967696415204
+0,breast cancer,colorectal cancer,3.697441226447587
+0,breast cancer,coronary artery disease,3.5323786459412356
+0,breast cancer,cutaneous squamous cell carcinoma,3.7243681865871894
+0,breast cancer,diabetes mellitus,3.2401864387110937
+0,breast cancer,diabetic retinopathy,3.5504077210215668
+0,breast cancer,dilated cardiomyopathy,4.948319583146831
+0,breast cancer,endometrial cancer,4.156712898456047
+0,breast cancer,esophageal cancer,4.1034099500168395
+0,breast cancer,esophageal squamous cell carcinoma,4.0408005685932675
+0,breast cancer,essential hypertension,3.683403337425874
+0,breast cancer,gastric cancer,3.628693153445477
+0,breast cancer,gestational diabetes mellitus,3.3501976148946446
+0,breast cancer,glioblastoma,3.362263125244567
+0,breast cancer,glioblastoma multiforme,3.4487101037156265
+0,breast cancer,glioma,3.3286434093194583
+0,breast cancer,heart disease,3.441483859376641
+0,breast cancer,hepatic steatosis,4.516767604608003
+0,breast cancer,hepatoblastoma,3.7242568859443654
+0,breast cancer,hepatocellular carcinoma,3.6817141976672794
+0,breast cancer,hirschsprung disease,3.9706354447998127
+0,breast cancer,hypertension,3.4329306463399947
+0,breast cancer,hypertrophic cardiomyopathy,3.4284148424227023
+0,breast cancer,hypopharyngeal squamous cell carcinoma,3.2840115794058953
+0,breast cancer,infantile hemangioma,3.7468289683559988
+0,breast cancer,intervertebral disc degeneration,3.660662572849044
+0,breast cancer,leukoaraiosis,3.9006410672777254
+0,breast cancer,liver cancer,3.35899390198389
+0,breast cancer,lung adenocarcinoma,4.098567744064923
+0,breast cancer,lung cancer,3.468933381757893
+0,breast cancer,lupus nephritis,3.660902253659231
+0,breast cancer,major depressive disorder,3.5766323902555146
+0,breast cancer,moyamoya disease,3.783508108743577
+0,breast cancer,multiple sclerosis,3.479153543207961
+0,breast cancer,multiple system atrophy,4.396957775499853
+0,breast cancer,myocardial infarction,3.4029298325071857
+0,breast cancer,neuropathic pain,4.406241434991401
+0,breast cancer,nonalcoholic steatohepatitis,3.6787715212369743
+0,breast cancer,non-small cell lung cancer,3.5198368442538306
+0,breast cancer,oral squamous cell carcinoma,3.3693654524176386
+0,breast cancer,osteoarthritis,3.77615500962342
+0,breast cancer,osteosarcoma,3.3160042728570844
+0,breast cancer,ovarian endometriosis,3.3272014591454795
+0,breast cancer,pancreatic cancer,3.762613297829439
+0,breast cancer,pancreatic ductal adenocarcinoma,3.5243389932644016
+0,breast cancer,papillary thyroid carcinoma,3.3665974528033793
+0,breast cancer,pre-eclampsia,4.010628485022116
+0,breast cancer,prostate adenocarcinoma,3.412970907041693
+0,breast cancer,prostate cancer,3.5141716366201448
+0,breast cancer,pulmonary tuberculosis,3.3456071987532128
+0,breast cancer,rheumatoid arthritis,3.37146029385596
+0,breast cancer,silicosis,3.6788513446120374
+0,breast cancer,systemic lupus erythematosus,3.9396890807578373
+0,breast cancer,thoracic aortic dissection,3.325467566074686
+0,breast cancer,tuberculosis,3.4462633207224185
+0,breast cancer,type 2 diabetes mellitus,4.245457901813771
+0,cardiovascular disease,cervical cancer,3.5694754785621545
+0,cardiovascular disease,cervical carcinoma,3.842636065445534
+0,cardiovascular disease,cholangiocarcinoma,3.3815012759521514
+0,cardiovascular disease,clear cell renal cell carcinoma,4.393104728062466
+0,cardiovascular disease,colon cancer,3.773683640564382
+0,cardiovascular disease,colorectal cancer,3.736806599642401
+0,cardiovascular disease,coronary artery disease,3.4333045491995198
+0,cardiovascular disease,cutaneous squamous cell carcinoma,3.801535892134172
+0,cardiovascular disease,diabetes mellitus,2.809951029669156
+0,cardiovascular disease,diabetic retinopathy,3.2119254387205056
+0,cardiovascular disease,dilated cardiomyopathy,4.8105134349051974
+0,cardiovascular disease,endometrial cancer,4.204619218656359
+0,cardiovascular disease,esophageal cancer,4.104816978196297
+0,cardiovascular disease,esophageal squamous cell carcinoma,4.146761699801935
+0,cardiovascular disease,essential hypertension,3.3239578988477603
+0,cardiovascular disease,gastric cancer,3.725585956010607
+0,cardiovascular disease,gestational diabetes mellitus,3.4254003411325646
+0,cardiovascular disease,glioblastoma,3.2162932561313813
+0,cardiovascular disease,glioblastoma multiforme,3.5103984291134767
+0,cardiovascular disease,glioma,3.4288518326847903
+0,cardiovascular disease,heart disease,3.2573144995199517
+0,cardiovascular disease,hepatic steatosis,4.591173365674274
+0,cardiovascular disease,hepatoblastoma,3.5932858535882435
+0,cardiovascular disease,hepatocellular carcinoma,4.047695122495152
+0,cardiovascular disease,hirschsprung disease,3.708224998960238
+0,cardiovascular disease,hypertension,3.3845679222981326
+0,cardiovascular disease,hypertrophic cardiomyopathy,3.815249874469819
+0,cardiovascular disease,hypopharyngeal squamous cell carcinoma,3.3383397829363863
+0,cardiovascular disease,infantile hemangioma,3.90151864310431
+0,cardiovascular disease,intervertebral disc degeneration,3.951365242719305
+0,cardiovascular disease,leukoaraiosis,4.221742989482971
+0,cardiovascular disease,liver cancer,3.423376660299311
+0,cardiovascular disease,lung adenocarcinoma,4.287515892757101
+0,cardiovascular disease,lung cancer,3.43089435285874
+0,cardiovascular disease,lupus nephritis,3.679617590525205
+0,cardiovascular disease,major depressive disorder,3.275369080886125
+0,cardiovascular disease,moyamoya disease,4.1971950360482335
+0,cardiovascular disease,multiple sclerosis,3.3329815139265335
+0,cardiovascular disease,multiple system atrophy,4.509515419415919
+0,cardiovascular disease,myocardial infarction,3.187980225307891
+0,cardiovascular disease,neuropathic pain,4.437321621878845
+0,cardiovascular disease,nonalcoholic steatohepatitis,3.6780600690495824
+0,cardiovascular disease,non-small cell lung cancer,3.459872867334399
+0,cardiovascular disease,oral squamous cell carcinoma,3.4241431458268816
+0,cardiovascular disease,osteoarthritis,3.6591968754448465
+0,cardiovascular disease,osteosarcoma,3.415459017560491
+0,cardiovascular disease,ovarian endometriosis,3.4418802470272127
+0,cardiovascular disease,pancreatic cancer,3.9131244054090564
+0,cardiovascular disease,pancreatic ductal adenocarcinoma,3.4850551274503765
+0,cardiovascular disease,papillary thyroid carcinoma,3.284824704109289
+0,cardiovascular disease,pre-eclampsia,3.813960884812807
+0,cardiovascular disease,prostate adenocarcinoma,3.480521302758077
+0,cardiovascular disease,prostate cancer,3.317737739669956
+0,cardiovascular disease,pulmonary tuberculosis,3.447510146395126
+0,cardiovascular disease,rheumatoid arthritis,3.2445718022546246
+0,cardiovascular disease,silicosis,3.7848284161613863
+0,cardiovascular disease,systemic lupus erythematosus,4.0595352946505825
+0,cardiovascular disease,thoracic aortic dissection,3.398996800450545
+0,cardiovascular disease,tuberculosis,3.404302286637816
+0,cardiovascular disease,type 2 diabetes mellitus,4.2131862545534124
+0,cervical cancer,cervical carcinoma,3.804787828474116
+0,cervical cancer,cholangiocarcinoma,3.0578664960671813
+0,cervical cancer,clear cell renal cell carcinoma,4.2809407760564575
+0,cervical cancer,colon cancer,3.669009762795597
+0,cervical cancer,colorectal cancer,3.6183825426773946
+0,cervical cancer,coronary artery disease,3.499428406128722
+0,cervical cancer,cutaneous squamous cell carcinoma,3.744933572732928
+0,cervical cancer,diabetes mellitus,3.4581306864303705
+0,cervical cancer,diabetic retinopathy,3.309691962119597
+0,cervical cancer,dilated cardiomyopathy,4.860641293145343
+0,cervical cancer,endometrial cancer,3.909439628132206
+0,cervical cancer,esophageal cancer,4.0972728741699065
+0,cervical cancer,esophageal squamous cell carcinoma,4.05807355741485
+0,cervical cancer,essential hypertension,3.694131257311845
+0,cervical cancer,gastric cancer,3.813160739852464
+0,cervical cancer,gestational diabetes mellitus,3.4011135248076028
+0,cervical cancer,glioblastoma,2.600216629166164
+0,cervical cancer,glioblastoma multiforme,2.740936890888024
+0,cervical cancer,glioma,3.0750056682102254
+0,cervical cancer,heart disease,3.349438374818225
+0,cervical cancer,hepatic steatosis,4.361135790617554
+0,cervical cancer,hepatoblastoma,3.714705281475378
+0,cervical cancer,hepatocellular carcinoma,3.5988233167368935
+0,cervical cancer,hirschsprung disease,4.073646069888986
+0,cervical cancer,hypertension,3.456711034914208
+0,cervical cancer,hypertrophic cardiomyopathy,3.4616170596243716
+0,cervical cancer,hypopharyngeal squamous cell carcinoma,3.2595140557251
+0,cervical cancer,infantile hemangioma,3.7153115329415636
+0,cervical cancer,intervertebral disc degeneration,3.725799459746752
+0,cervical cancer,leukoaraiosis,4.175511542592414
+0,cervical cancer,liver cancer,3.3194069894258966
+0,cervical cancer,lung adenocarcinoma,4.319573646182608
+0,cervical cancer,lung cancer,3.1811414720443687
+0,cervical cancer,lupus nephritis,3.827520116704764
+0,cervical cancer,major depressive disorder,3.4347273161266667
+0,cervical cancer,moyamoya disease,4.227139511334131
+0,cervical cancer,multiple sclerosis,3.1804494056188077
+0,cervical cancer,multiple system atrophy,4.645510829584099
+0,cervical cancer,myocardial infarction,3.3126564003716625
+0,cervical cancer,neuropathic pain,4.340898077247938
+0,cervical cancer,nonalcoholic steatohepatitis,3.6707868734675206
+0,cervical cancer,non-small cell lung cancer,3.1262443246606995
+0,cervical cancer,oral squamous cell carcinoma,3.3626902410753554
+0,cervical cancer,osteoarthritis,3.7956930309976977
+0,cervical cancer,osteosarcoma,2.9218555481572395
+0,cervical cancer,ovarian endometriosis,3.358440404840659
+0,cervical cancer,pancreatic cancer,3.826406704659316
+0,cervical cancer,pancreatic ductal adenocarcinoma,3.285428131855527
+0,cervical cancer,papillary thyroid carcinoma,3.159965812206639
+0,cervical cancer,pre-eclampsia,3.7809545292141866
+0,cervical cancer,prostate adenocarcinoma,3.3604792198902835
+0,cervical cancer,prostate cancer,3.46521509950298
+0,cervical cancer,pulmonary tuberculosis,3.358723704244743
+0,cervical cancer,rheumatoid arthritis,3.170592240728705
+0,cervical cancer,silicosis,3.735642996450129
+0,cervical cancer,systemic lupus erythematosus,4.006314219573054
+0,cervical cancer,thoracic aortic dissection,3.3342454966983968
+0,cervical cancer,tuberculosis,2.930612378724232
+0,cervical cancer,type 2 diabetes mellitus,4.131405528544227
+0,cervical carcinoma,cholangiocarcinoma,3.90425708010038
+0,cervical carcinoma,clear cell renal cell carcinoma,4.110968562343735
+0,cervical carcinoma,colon cancer,4.130507213819042
+0,cervical carcinoma,colorectal cancer,3.9288281283458915
+0,cervical carcinoma,coronary artery disease,4.029756527339912
+0,cervical carcinoma,cutaneous squamous cell carcinoma,3.8126053792695203
+0,cervical carcinoma,diabetes mellitus,4.032427789248657
+0,cervical carcinoma,diabetic retinopathy,3.8420541100704617
+0,cervical carcinoma,dilated cardiomyopathy,4.61735005763336
+0,cervical carcinoma,endometrial cancer,4.192586349109767
+0,cervical carcinoma,esophageal cancer,4.141717549328071
+0,cervical carcinoma,esophageal squamous cell carcinoma,3.786501118694425
+0,cervical carcinoma,essential hypertension,3.8264234177511387
+0,cervical carcinoma,gastric cancer,4.069482171593867
+0,cervical carcinoma,gestational diabetes mellitus,3.3430423946317274
+0,cervical carcinoma,glioblastoma,3.9257278332331715
+0,cervical carcinoma,glioblastoma multiforme,3.8334818630471412
+0,cervical carcinoma,glioma,4.249947444369772
+0,cervical carcinoma,heart disease,3.9627140463307295
+0,cervical carcinoma,hepatic steatosis,4.043664026943459
+0,cervical carcinoma,hepatoblastoma,3.933820466115111
+0,cervical carcinoma,hepatocellular carcinoma,4.039849948019025
+0,cervical carcinoma,hirschsprung disease,4.118354202975991
+0,cervical carcinoma,hypertension,3.80804415501501
+0,cervical carcinoma,hypertrophic cardiomyopathy,3.7330954211576417
+0,cervical carcinoma,hypopharyngeal squamous cell carcinoma,3.1577574514901334
+0,cervical carcinoma,infantile hemangioma,4.12444735555121
+0,cervical carcinoma,intervertebral disc degeneration,4.101957565681698
+0,cervical carcinoma,leukoaraiosis,4.135001724085317
+0,cervical carcinoma,liver cancer,3.373996377442848
+0,cervical carcinoma,lung adenocarcinoma,4.150620004799489
+0,cervical carcinoma,lung cancer,3.782775973686652
+0,cervical carcinoma,lupus nephritis,4.046898128447164
+0,cervical carcinoma,major depressive disorder,3.7904702558668864
+0,cervical carcinoma,moyamoya disease,3.7654261713110775
+0,cervical carcinoma,multiple sclerosis,3.787008621045166
+0,cervical carcinoma,multiple system atrophy,4.021082549669257
+0,cervical carcinoma,myocardial infarction,3.9823811038140944
+0,cervical carcinoma,neuropathic pain,4.630811721339931
+0,cervical carcinoma,nonalcoholic steatohepatitis,3.959364304268015
+0,cervical carcinoma,non-small cell lung cancer,3.739906535046189
+0,cervical carcinoma,oral squamous cell carcinoma,3.3078425330353234
+0,cervical carcinoma,osteoarthritis,3.8413555216113338
+0,cervical carcinoma,osteosarcoma,3.906206363862686
+0,cervical carcinoma,ovarian endometriosis,3.299999895653068
+0,cervical carcinoma,pancreatic cancer,4.2879595259528935
+0,cervical carcinoma,pancreatic ductal adenocarcinoma,3.911073064604244
+0,cervical carcinoma,papillary thyroid carcinoma,3.884871436708167
+0,cervical carcinoma,pre-eclampsia,4.12998351214565
+0,cervical carcinoma,prostate adenocarcinoma,3.2940338040809714
+0,cervical carcinoma,prostate cancer,3.6717400501296704
+0,cervical carcinoma,pulmonary tuberculosis,3.3248107488058998
+0,cervical carcinoma,rheumatoid arthritis,3.999942139696807
+0,cervical carcinoma,silicosis,4.023844092701614
+0,cervical carcinoma,systemic lupus erythematosus,3.9924770027120586
+0,cervical carcinoma,thoracic aortic dissection,3.2829069656449708
+0,cervical carcinoma,tuberculosis,3.696440401958205
+0,cervical carcinoma,type 2 diabetes mellitus,3.856773419624682
+0,cholangiocarcinoma,clear cell renal cell carcinoma,4.370259906192111
+0,cholangiocarcinoma,colon cancer,3.6968410819991373
+0,cholangiocarcinoma,colorectal cancer,3.6791421452696653
+0,cholangiocarcinoma,coronary artery disease,3.318271441964984
+0,cholangiocarcinoma,cutaneous squamous cell carcinoma,3.8246133110876572
+0,cholangiocarcinoma,diabetes mellitus,3.43649539812262
+0,cholangiocarcinoma,diabetic retinopathy,3.5069588296591174
+0,cholangiocarcinoma,dilated cardiomyopathy,4.522183664665486
+0,cholangiocarcinoma,endometrial cancer,4.2852649753811205
+0,cholangiocarcinoma,esophageal cancer,4.036072930217329
+0,cholangiocarcinoma,esophageal squamous cell carcinoma,4.285474754054704
+0,cholangiocarcinoma,essential hypertension,3.3967100023878225
+0,cholangiocarcinoma,gastric cancer,3.5049562631684466
+0,cholangiocarcinoma,gestational diabetes mellitus,3.4985097977075874
+0,cholangiocarcinoma,glioblastoma,2.995300711265675
+0,cholangiocarcinoma,glioblastoma multiforme,3.1127389374205343
+0,cholangiocarcinoma,glioma,3.536298854535579
+0,cholangiocarcinoma,heart disease,3.4206723991662287
+0,cholangiocarcinoma,hepatic steatosis,4.685676152816582
+0,cholangiocarcinoma,hepatoblastoma,3.5374739957332415
+0,cholangiocarcinoma,hepatocellular carcinoma,3.8464179587778116
+0,cholangiocarcinoma,hirschsprung disease,3.7019097933159273
+0,cholangiocarcinoma,hypertension,3.284482928750108
+0,cholangiocarcinoma,hypertrophic cardiomyopathy,3.7055685244703356
+0,cholangiocarcinoma,hypopharyngeal squamous cell carcinoma,3.4178740191954793
+0,cholangiocarcinoma,infantile hemangioma,4.109712241373348
+0,cholangiocarcinoma,intervertebral disc degeneration,3.644585200015584
+0,cholangiocarcinoma,leukoaraiosis,4.013008784504936
+0,cholangiocarcinoma,liver cancer,3.4251972766628
+0,cholangiocarcinoma,lung adenocarcinoma,4.177685417002355
+0,cholangiocarcinoma,lung cancer,3.4008981598408248
+0,cholangiocarcinoma,lupus nephritis,3.6477029096816556
+0,cholangiocarcinoma,major depressive disorder,3.3945197204641078
+0,cholangiocarcinoma,moyamoya disease,3.857665656422594
+0,cholangiocarcinoma,multiple sclerosis,3.37289561088191
+0,cholangiocarcinoma,multiple system atrophy,4.371156212922611
+0,cholangiocarcinoma,myocardial infarction,3.1608754464560875
+0,cholangiocarcinoma,neuropathic pain,4.418665629899715
+0,cholangiocarcinoma,nonalcoholic steatohepatitis,3.7079526841907033
+0,cholangiocarcinoma,non-small cell lung cancer,3.5763521277031582
+0,cholangiocarcinoma,oral squamous cell carcinoma,3.4884153781182556
+0,cholangiocarcinoma,osteoarthritis,3.7885701342410614
+0,cholangiocarcinoma,osteosarcoma,3.1190925315708915
+0,cholangiocarcinoma,ovarian endometriosis,3.4042816347603186
+0,cholangiocarcinoma,pancreatic cancer,4.01651624706106
+0,cholangiocarcinoma,pancreatic ductal adenocarcinoma,3.4839961978679512
+0,cholangiocarcinoma,papillary thyroid carcinoma,3.3054536886962116
+0,cholangiocarcinoma,pre-eclampsia,3.8319639707091384
+0,cholangiocarcinoma,prostate adenocarcinoma,3.499531835992693
+0,cholangiocarcinoma,prostate cancer,3.394366687883102
+0,cholangiocarcinoma,pulmonary tuberculosis,3.4701147639748595
+0,cholangiocarcinoma,rheumatoid arthritis,3.269720583089062
+0,cholangiocarcinoma,silicosis,3.825005889772409
+0,cholangiocarcinoma,systemic lupus erythematosus,3.9619135991121586
+0,cholangiocarcinoma,thoracic aortic dissection,3.3998708948276937
+0,cholangiocarcinoma,tuberculosis,3.4087441731039188
+0,cholangiocarcinoma,type 2 diabetes mellitus,4.173058268562284
+0,clear cell renal cell carcinoma,colon cancer,4.2265558175894915
+0,clear cell renal cell carcinoma,colorectal cancer,4.368542085711354
+0,clear cell renal cell carcinoma,coronary artery disease,4.458321490735202
+0,clear cell renal cell carcinoma,cutaneous squamous cell carcinoma,3.915202709967558
+0,clear cell renal cell carcinoma,diabetes mellitus,4.576817581653302
+0,clear cell renal cell carcinoma,diabetic retinopathy,4.1821206834998925
+0,clear cell renal cell carcinoma,dilated cardiomyopathy,4.649348627671658
+0,clear cell renal cell carcinoma,endometrial cancer,4.364092594451851
+0,clear cell renal cell carcinoma,esophageal cancer,4.402422940189081
+0,clear cell renal cell carcinoma,esophageal squamous cell carcinoma,4.352246374178675
+0,clear cell renal cell carcinoma,essential hypertension,4.205166888509298
+0,clear cell renal cell carcinoma,gastric cancer,4.51909716163775
+0,clear cell renal cell carcinoma,gestational diabetes mellitus,3.6209380496480508
+0,clear cell renal cell carcinoma,glioblastoma,4.347977261233823
+0,clear cell renal cell carcinoma,glioblastoma multiforme,4.698705804314122
+0,clear cell renal cell carcinoma,glioma,4.750551805824058
+0,clear cell renal cell carcinoma,heart disease,4.530410522196959
+0,clear cell renal cell carcinoma,hepatic steatosis,4.498307280298601
+0,clear cell renal cell carcinoma,hepatoblastoma,4.333730160569579
+0,clear cell renal cell carcinoma,hepatocellular carcinoma,4.56921625493933
+0,clear cell renal cell carcinoma,hirschsprung disease,4.377537102046923
+0,clear cell renal cell carcinoma,hypertension,4.459984244273212
+0,clear cell renal cell carcinoma,hypertrophic cardiomyopathy,4.200438955380955
+0,clear cell renal cell carcinoma,hypopharyngeal squamous cell carcinoma,3.5316228759058093
+0,clear cell renal cell carcinoma,infantile hemangioma,4.210390665394836
+0,clear cell renal cell carcinoma,intervertebral disc degeneration,4.363239739250059
+0,clear cell renal cell carcinoma,leukoaraiosis,4.604475078421961
+0,clear cell renal cell carcinoma,liver cancer,3.5570927245236597
+0,clear cell renal cell carcinoma,lung adenocarcinoma,4.4117975438719075
+0,clear cell renal cell carcinoma,lung cancer,4.449155541863144
+0,clear cell renal cell carcinoma,lupus nephritis,4.35491787142176
+0,clear cell renal cell carcinoma,major depressive disorder,4.0771786487808575
+0,clear cell renal cell carcinoma,moyamoya disease,4.24775574736361
+0,clear cell renal cell carcinoma,multiple sclerosis,4.402563774958326
+0,clear cell renal cell carcinoma,multiple system atrophy,4.455631267963134
+0,clear cell renal cell carcinoma,myocardial infarction,4.537445771427067
+0,clear cell renal cell carcinoma,neuropathic pain,4.42452558181708
+0,clear cell renal cell carcinoma,nonalcoholic steatohepatitis,4.37309674358028
+0,clear cell renal cell carcinoma,non-small cell lung cancer,4.125795431948316
+0,clear cell renal cell carcinoma,oral squamous cell carcinoma,3.677957647246771
+0,clear cell renal cell carcinoma,osteoarthritis,4.420775689515501
+0,clear cell renal cell carcinoma,osteosarcoma,4.450675598877355
+0,clear cell renal cell carcinoma,ovarian endometriosis,3.6011321456573735
+0,clear cell renal cell carcinoma,pancreatic cancer,4.31321317718983
+0,clear cell renal cell carcinoma,pancreatic ductal adenocarcinoma,4.2029526616349955
+0,clear cell renal cell carcinoma,papillary thyroid carcinoma,4.169632523546126
+0,clear cell renal cell carcinoma,pre-eclampsia,4.011945408674141
+0,clear cell renal cell carcinoma,prostate adenocarcinoma,3.621712928062231
+0,clear cell renal cell carcinoma,prostate cancer,4.286237304844082
+0,clear cell renal cell carcinoma,pulmonary tuberculosis,3.6363333977187846
+0,clear cell renal cell carcinoma,rheumatoid arthritis,4.543388148829134
+0,clear cell renal cell carcinoma,silicosis,4.203214756695103
+0,clear cell renal cell carcinoma,systemic lupus erythematosus,4.2358841243539445
+0,clear cell renal cell carcinoma,thoracic aortic dissection,3.5283925529758022
+0,clear cell renal cell carcinoma,tuberculosis,4.147706228663527
+0,clear cell renal cell carcinoma,type 2 diabetes mellitus,4.167780019131632
+0,colon cancer,colorectal cancer,3.7985197784641906
+0,colon cancer,coronary artery disease,3.8746011131227425
+0,colon cancer,cutaneous squamous cell carcinoma,3.986598512502181
+0,colon cancer,diabetes mellitus,3.8324163887589675
+0,colon cancer,diabetic retinopathy,3.627771669730218
+0,colon cancer,dilated cardiomyopathy,4.560963967738546
+0,colon cancer,endometrial cancer,3.997553070352938
+0,colon cancer,esophageal cancer,4.193840019193552
+0,colon cancer,esophageal squamous cell carcinoma,3.9867039699161118
+0,colon cancer,essential hypertension,3.7098339633307864
+0,colon cancer,gastric cancer,3.9395093238979317
+0,colon cancer,gestational diabetes mellitus,3.485502837918999
+0,colon cancer,glioblastoma,3.7647612237620303
+0,colon cancer,glioblastoma multiforme,3.8083098903631334
+0,colon cancer,glioma,3.9605952991990137
+0,colon cancer,heart disease,3.9749451266089504
+0,colon cancer,hepatic steatosis,4.361084223983076
+0,colon cancer,hepatoblastoma,4.055233250719813
+0,colon cancer,hepatocellular carcinoma,3.9761058622365795
+0,colon cancer,hirschsprung disease,4.237399254597031
+0,colon cancer,hypertension,3.7962580410496622
+0,colon cancer,hypertrophic cardiomyopathy,3.8681560013478506
+0,colon cancer,hypopharyngeal squamous cell carcinoma,3.3419351415422005
+0,colon cancer,infantile hemangioma,3.98883988082788
+0,colon cancer,intervertebral disc degeneration,4.078365006333032
+0,colon cancer,leukoaraiosis,4.13979818645119
+0,colon cancer,liver cancer,3.452435451710616
+0,colon cancer,lung adenocarcinoma,4.406720200240873
+0,colon cancer,lung cancer,3.792601703434785
+0,colon cancer,lupus nephritis,4.043667669842941
+0,colon cancer,major depressive disorder,3.7780005450759706
+0,colon cancer,moyamoya disease,4.119198730372244
+0,colon cancer,multiple sclerosis,3.912465373025786
+0,colon cancer,multiple system atrophy,4.805216948109399
+0,colon cancer,myocardial infarction,3.9076306044347278
+0,colon cancer,neuropathic pain,4.395545474121451
+0,colon cancer,nonalcoholic steatohepatitis,3.956833483064638
+0,colon cancer,non-small cell lung cancer,3.7214359135702777
+0,colon cancer,oral squamous cell carcinoma,3.3681010640121514
+0,colon cancer,osteoarthritis,3.9736859792650314
+0,colon cancer,osteosarcoma,3.8605727905007354
+0,colon cancer,ovarian endometriosis,3.4517420108379855
+0,colon cancer,pancreatic cancer,3.9063699931346707
+0,colon cancer,pancreatic ductal adenocarcinoma,3.726337828172377
+0,colon cancer,papillary thyroid carcinoma,3.5168367132528737
+0,colon cancer,pre-eclampsia,4.04710612841685
+0,colon cancer,prostate adenocarcinoma,3.4364567444541794
+0,colon cancer,prostate cancer,3.714843728673567
+0,colon cancer,pulmonary tuberculosis,3.4861511576670874
+0,colon cancer,rheumatoid arthritis,3.677036430988684
+0,colon cancer,silicosis,4.36435739320106
+0,colon cancer,systemic lupus erythematosus,4.039938789086796
+0,colon cancer,thoracic aortic dissection,3.422465124966378
+0,colon cancer,tuberculosis,3.8371801881366476
+0,colon cancer,type 2 diabetes mellitus,4.222148153970342
+0,colorectal cancer,coronary artery disease,3.3872774978793303
+0,colorectal cancer,cutaneous squamous cell carcinoma,3.715170770534142
+0,colorectal cancer,diabetes mellitus,3.6133809726955586
+0,colorectal cancer,diabetic retinopathy,3.7549394511103213
+0,colorectal cancer,dilated cardiomyopathy,4.737041061069047
+0,colorectal cancer,endometrial cancer,4.030951744480001
+0,colorectal cancer,esophageal cancer,4.025329691795046
+0,colorectal cancer,esophageal squamous cell carcinoma,3.8344945665216645
+0,colorectal cancer,essential hypertension,3.629153033788416
+0,colorectal cancer,gastric cancer,3.7805834085015464
+0,colorectal cancer,gestational diabetes mellitus,3.4010129401752796
+0,colorectal cancer,glioblastoma,3.4840163503166535
+0,colorectal cancer,glioblastoma multiforme,3.543824993163276
+0,colorectal cancer,glioma,3.849258611921532
+0,colorectal cancer,heart disease,3.8371898391950596
+0,colorectal cancer,hepatic steatosis,4.532383012787454
+0,colorectal cancer,hepatoblastoma,3.8761954595239896
+0,colorectal cancer,hepatocellular carcinoma,4.003460269075551
+0,colorectal cancer,hirschsprung disease,4.123905171842425
+0,colorectal cancer,hypertension,3.7256745382667638
+0,colorectal cancer,hypertrophic cardiomyopathy,3.8118097899690504
+0,colorectal cancer,hypopharyngeal squamous cell carcinoma,3.2506766075954223
+0,colorectal cancer,infantile hemangioma,3.7667035313664368
+0,colorectal cancer,intervertebral disc degeneration,4.113590007000694
+0,colorectal cancer,leukoaraiosis,4.140594560049683
+0,colorectal cancer,liver cancer,3.3366735182789538
+0,colorectal cancer,lung adenocarcinoma,3.8815299419077354
+0,colorectal cancer,lung cancer,3.6927275514767164
+0,colorectal cancer,lupus nephritis,4.049844055670765
+0,colorectal cancer,major depressive disorder,3.626585272185325
+0,colorectal cancer,moyamoya disease,3.9801306375498258
+0,colorectal cancer,multiple sclerosis,3.6410236430377245
+0,colorectal cancer,multiple system atrophy,4.676351302095714
+0,colorectal cancer,myocardial infarction,3.6690131311116145
+0,colorectal cancer,neuropathic pain,4.472185926529346
+0,colorectal cancer,nonalcoholic steatohepatitis,4.0176125467534325
+0,colorectal cancer,non-small cell lung cancer,3.666015624107505
+0,colorectal cancer,oral squamous cell carcinoma,3.3395067403839165
+0,colorectal cancer,osteoarthritis,3.973444098144825
+0,colorectal cancer,osteosarcoma,3.6648386492855263
+0,colorectal cancer,ovarian endometriosis,3.348368060204358
+0,colorectal cancer,pancreatic cancer,3.7707893110660704
+0,colorectal cancer,pancreatic ductal adenocarcinoma,3.7939755706378664
+0,colorectal cancer,papillary thyroid carcinoma,3.5426541461431253
+0,colorectal cancer,pre-eclampsia,3.982518935925272
+0,colorectal cancer,prostate adenocarcinoma,3.4206166006651344
+0,colorectal cancer,prostate cancer,3.737960318444265
+0,colorectal cancer,pulmonary tuberculosis,3.373837770611456
+0,colorectal cancer,rheumatoid arthritis,3.8324524102978175
+0,colorectal cancer,silicosis,4.079495585961868
+0,colorectal cancer,systemic lupus erythematosus,4.119914176198312
+0,colorectal cancer,thoracic aortic dissection,3.3206191199556003
+0,colorectal cancer,tuberculosis,3.549103258014241
+0,colorectal cancer,type 2 diabetes mellitus,4.125901040836544
+0,coronary artery disease,cutaneous squamous cell carcinoma,3.8944735978941716
+0,coronary artery disease,diabetes mellitus,2.8366746318131892
+0,coronary artery disease,diabetic retinopathy,3.4651428914418827
+0,coronary artery disease,dilated cardiomyopathy,5.100979396406083
+0,coronary artery disease,endometrial cancer,4.2943112262247
+0,coronary artery disease,esophageal cancer,4.147740799076968
+0,coronary artery disease,esophageal squamous cell carcinoma,4.2795419279320575
+0,coronary artery disease,essential hypertension,3.5996541897934784
+0,coronary artery disease,gastric cancer,3.5026159757286877
+0,coronary artery disease,gestational diabetes mellitus,3.4992328396479992
+0,coronary artery disease,glioblastoma,2.9702219865502033
+0,coronary artery disease,glioblastoma multiforme,3.113650635363086
+0,coronary artery disease,glioma,3.4072809920550475
+0,coronary artery disease,heart disease,3.2746289963959767
+0,coronary artery disease,hepatic steatosis,4.394478671471253
+0,coronary artery disease,hepatoblastoma,3.7278917960594598
+0,coronary artery disease,hepatocellular carcinoma,3.636660463734258
+0,coronary artery disease,hirschsprung disease,3.900985121105419
+0,coronary artery disease,hypertension,3.551423793561378
+0,coronary artery disease,hypertrophic cardiomyopathy,3.572892816681493
+0,coronary artery disease,hypopharyngeal squamous cell carcinoma,3.427925815675862
+0,coronary artery disease,infantile hemangioma,4.0048231396648495
+0,coronary artery disease,intervertebral disc degeneration,3.7731653725554586
+0,coronary artery disease,leukoaraiosis,4.184268471694848
+0,coronary artery disease,liver cancer,3.478877826520653
+0,coronary artery disease,lung adenocarcinoma,4.23240576671696
+0,coronary artery disease,lung cancer,3.336795981297556
+0,coronary artery disease,lupus nephritis,3.6947505240324605
+0,coronary artery disease,major depressive disorder,3.4327154745438406
+0,coronary artery disease,moyamoya disease,4.043038134634529
+0,coronary artery disease,multiple sclerosis,3.524338107339841
+0,coronary artery disease,multiple system atrophy,4.706242905035216
+0,coronary artery disease,myocardial infarction,3.2632002931114754
+0,coronary artery disease,neuropathic pain,4.528808886784385
+0,coronary artery disease,nonalcoholic steatohepatitis,3.625803084636261
+0,coronary artery disease,non-small cell lung cancer,3.3788461528877782
+0,coronary artery disease,oral squamous cell carcinoma,3.5243108110739807
+0,coronary artery disease,osteoarthritis,3.702837920184023
+0,coronary artery disease,osteosarcoma,3.36809748147794
+0,coronary artery disease,ovarian endometriosis,3.493686429660016
+0,coronary artery disease,pancreatic cancer,3.9653934998892986
+0,coronary artery disease,pancreatic ductal adenocarcinoma,3.3715513792092437
+0,coronary artery disease,papillary thyroid carcinoma,3.290902368041256
+0,coronary artery disease,pre-eclampsia,3.807531827104622
+0,coronary artery disease,prostate adenocarcinoma,3.502865053442131
+0,coronary artery disease,prostate cancer,3.6059349334673927
+0,coronary artery disease,pulmonary tuberculosis,3.4992072909861176
+0,coronary artery disease,rheumatoid arthritis,3.2975273956224087
+0,coronary artery disease,silicosis,3.8005629817229285
+0,coronary artery disease,systemic lupus erythematosus,4.031499707855321
+0,coronary artery disease,thoracic aortic dissection,3.4562170210150587
+0,coronary artery disease,tuberculosis,3.373764615023239
+0,coronary artery disease,type 2 diabetes mellitus,4.141854425218987
+0,cutaneous squamous cell carcinoma,diabetes mellitus,4.116756568248675
+0,cutaneous squamous cell carcinoma,diabetic retinopathy,3.820416058215995
+0,cutaneous squamous cell carcinoma,dilated cardiomyopathy,4.2887500797898594
+0,cutaneous squamous cell carcinoma,endometrial cancer,3.9077900439261173
+0,cutaneous squamous cell carcinoma,esophageal cancer,3.8467541335033744
+0,cutaneous squamous cell carcinoma,esophageal squamous cell carcinoma,3.6552821058675216
+0,cutaneous squamous cell carcinoma,essential hypertension,3.4946111568741385
+0,cutaneous squamous cell carcinoma,gastric cancer,3.8198609209401138
+0,cutaneous squamous cell carcinoma,gestational diabetes mellitus,2.3795728512105505
+0,cutaneous squamous cell carcinoma,glioblastoma,3.99618373199237
+0,cutaneous squamous cell carcinoma,glioblastoma multiforme,3.999887295768005
+0,cutaneous squamous cell carcinoma,glioma,4.10777088718394
+0,cutaneous squamous cell carcinoma,heart disease,3.986210960869871
+0,cutaneous squamous cell carcinoma,hepatic steatosis,4.009306012164906
+0,cutaneous squamous cell carcinoma,hepatoblastoma,3.869670839057324
+0,cutaneous squamous cell carcinoma,hepatocellular carcinoma,3.888972450588914
+0,cutaneous squamous cell carcinoma,hirschsprung disease,3.956302972639211
+0,cutaneous squamous cell carcinoma,hypertension,3.8851918455347056
+0,cutaneous squamous cell carcinoma,hypertrophic cardiomyopathy,3.6299524602819213
+0,cutaneous squamous cell carcinoma,hypopharyngeal squamous cell carcinoma,2.4556717272837525
+0,cutaneous squamous cell carcinoma,infantile hemangioma,3.4928916280442013
+0,cutaneous squamous cell carcinoma,intervertebral disc degeneration,3.9603556002158764
+0,cutaneous squamous cell carcinoma,leukoaraiosis,3.919688674483966
+0,cutaneous squamous cell carcinoma,liver cancer,2.514964794309521
+0,cutaneous squamous cell carcinoma,lung adenocarcinoma,4.202836512455622
+0,cutaneous squamous cell carcinoma,lung cancer,3.584415362074807
+0,cutaneous squamous cell carcinoma,lupus nephritis,3.892805339531854
+0,cutaneous squamous cell carcinoma,major depressive disorder,3.737894891843671
+0,cutaneous squamous cell carcinoma,moyamoya disease,3.7557513333202843
+0,cutaneous squamous cell carcinoma,multiple sclerosis,3.819784204245916
+0,cutaneous squamous cell carcinoma,multiple system atrophy,3.738684810017565
+0,cutaneous squamous cell carcinoma,myocardial infarction,4.0634895490021155
+0,cutaneous squamous cell carcinoma,neuropathic pain,4.021226743886092
+0,cutaneous squamous cell carcinoma,nonalcoholic steatohepatitis,3.901446697482651
+0,cutaneous squamous cell carcinoma,non-small cell lung cancer,3.650280337364925
+0,cutaneous squamous cell carcinoma,oral squamous cell carcinoma,2.806597497903849
+0,cutaneous squamous cell carcinoma,osteoarthritis,3.7265006462829326
+0,cutaneous squamous cell carcinoma,osteosarcoma,3.972716803210079
+0,cutaneous squamous cell carcinoma,ovarian endometriosis,2.437269616139032
+0,cutaneous squamous cell carcinoma,pancreatic cancer,3.64673297556349
+0,cutaneous squamous cell carcinoma,pancreatic ductal adenocarcinoma,3.7048267141815874
+0,cutaneous squamous cell carcinoma,papillary thyroid carcinoma,3.578441887686716
+0,cutaneous squamous cell carcinoma,pre-eclampsia,3.768458982194512
+0,cutaneous squamous cell carcinoma,prostate adenocarcinoma,2.56926497370796
+0,cutaneous squamous cell carcinoma,prostate cancer,3.7776949603722296
+0,cutaneous squamous cell carcinoma,pulmonary tuberculosis,2.3930541687321343
+0,cutaneous squamous cell carcinoma,rheumatoid arthritis,3.9429581398651683
+0,cutaneous squamous cell carcinoma,silicosis,3.7858907884323805
+0,cutaneous squamous cell carcinoma,systemic lupus erythematosus,3.6534574551810146
+0,cutaneous squamous cell carcinoma,thoracic aortic dissection,2.461658773465485
+0,cutaneous squamous cell carcinoma,tuberculosis,3.8773737953090666
+0,cutaneous squamous cell carcinoma,type 2 diabetes mellitus,3.4305942803507388
+0,diabetes mellitus,diabetic retinopathy,3.406234720575832
+0,diabetes mellitus,dilated cardiomyopathy,5.185551391534927
+0,diabetes mellitus,endometrial cancer,4.306491555187753
+0,diabetes mellitus,esophageal cancer,4.34309107975857
+0,diabetes mellitus,esophageal squamous cell carcinoma,4.404922984989611
+0,diabetes mellitus,essential hypertension,3.186179209405574
+0,diabetes mellitus,gastric cancer,3.6697743482102188
+0,diabetes mellitus,gestational diabetes mellitus,3.711714173130216
+0,diabetes mellitus,glioblastoma,3.005323701176442
+0,diabetes mellitus,glioblastoma multiforme,3.0934034462960365
+0,diabetes mellitus,glioma,3.211752374420227
+0,diabetes mellitus,heart disease,2.943471670597709
+0,diabetes mellitus,hepatic steatosis,4.841300794628939
+0,diabetes mellitus,hepatoblastoma,3.5146008813879197
+0,diabetes mellitus,hepatocellular carcinoma,3.7391467399176403
+0,diabetes mellitus,hirschsprung disease,3.936938196485071
+0,diabetes mellitus,hypertension,3.0613277004780195
+0,diabetes mellitus,hypertrophic cardiomyopathy,3.468080991085004
+0,diabetes mellitus,hypopharyngeal squamous cell carcinoma,3.640465310912586
+0,diabetes mellitus,infantile hemangioma,4.002995671479168
+0,diabetes mellitus,intervertebral disc degeneration,3.724572959394223
+0,diabetes mellitus,leukoaraiosis,4.351440498732508
+0,diabetes mellitus,liver cancer,3.685924630072653
+0,diabetes mellitus,lung adenocarcinoma,4.440448569463226
+0,diabetes mellitus,lung cancer,3.555049306994127
+0,diabetes mellitus,lupus nephritis,3.690804754872502
+0,diabetes mellitus,major depressive disorder,2.9704933723550337
+0,diabetes mellitus,moyamoya disease,4.165031280440246
+0,diabetes mellitus,multiple sclerosis,2.9726939076805263
+0,diabetes mellitus,multiple system atrophy,4.922172058210817
+0,diabetes mellitus,myocardial infarction,2.9024138926925462
+0,diabetes mellitus,neuropathic pain,4.716573570642172
+0,diabetes mellitus,nonalcoholic steatohepatitis,3.7949892857874024
+0,diabetes mellitus,non-small cell lung cancer,3.4090775412054755
+0,diabetes mellitus,oral squamous cell carcinoma,3.7025813274118455
+0,diabetes mellitus,osteoarthritis,3.549859218480631
+0,diabetes mellitus,osteosarcoma,3.254964186102305
+0,diabetes mellitus,ovarian endometriosis,3.718356968791115
+0,diabetes mellitus,pancreatic cancer,4.024653519066754
+0,diabetes mellitus,pancreatic ductal adenocarcinoma,3.3776269110990405
+0,diabetes mellitus,papillary thyroid carcinoma,3.4921524085200657
+0,diabetes mellitus,pre-eclampsia,3.972158512085423
+0,diabetes mellitus,prostate adenocarcinoma,3.7723432823389396
+0,diabetes mellitus,prostate cancer,3.282585895133154
+0,diabetes mellitus,pulmonary tuberculosis,3.7720676543689606
+0,diabetes mellitus,rheumatoid arthritis,2.791072497223963
+0,diabetes mellitus,silicosis,3.9160781554693114
+0,diabetes mellitus,systemic lupus erythematosus,4.171164260943939
+0,diabetes mellitus,thoracic aortic dissection,3.674984369459737
+0,diabetes mellitus,tuberculosis,3.000164714636236
+0,diabetes mellitus,type 2 diabetes mellitus,4.579736415192976
+0,diabetic retinopathy,dilated cardiomyopathy,4.540012361539473
+0,diabetic retinopathy,endometrial cancer,4.096574882114038
+0,diabetic retinopathy,esophageal cancer,4.0658413408352425
+0,diabetic retinopathy,esophageal squamous cell carcinoma,4.176191585245592
+0,diabetic retinopathy,essential hypertension,3.467050741038441
+0,diabetic retinopathy,gastric cancer,3.744648173446601
+0,diabetic retinopathy,gestational diabetes mellitus,3.3722702126782647
+0,diabetic retinopathy,glioblastoma,3.3641317923407885
+0,diabetic retinopathy,glioblastoma multiforme,3.358347338068218
+0,diabetic retinopathy,glioma,3.9743307236460166
+0,diabetic retinopathy,heart disease,3.356702952784045
+0,diabetic retinopathy,hepatic steatosis,4.272298472964705
+0,diabetic retinopathy,hepatoblastoma,3.625461865788787
+0,diabetic retinopathy,hepatocellular carcinoma,3.7416059760007845
+0,diabetic retinopathy,hirschsprung disease,4.000714492634199
+0,diabetic retinopathy,hypertension,3.2822181986557832
+0,diabetic retinopathy,hypertrophic cardiomyopathy,3.6176498845568164
+0,diabetic retinopathy,hypopharyngeal squamous cell carcinoma,3.3293166056060493
+0,diabetic retinopathy,infantile hemangioma,3.571067978650246
+0,diabetic retinopathy,intervertebral disc degeneration,3.3931191887966823
+0,diabetic retinopathy,leukoaraiosis,4.060451264613659
+0,diabetic retinopathy,liver cancer,3.301127918148644
+0,diabetic retinopathy,lung adenocarcinoma,4.342648088760252
+0,diabetic retinopathy,lung cancer,3.431792888545449
+0,diabetic retinopathy,lupus nephritis,3.6763916412372306
+0,diabetic retinopathy,major depressive disorder,3.464836084926993
+0,diabetic retinopathy,moyamoya disease,3.8266137056047276
+0,diabetic retinopathy,multiple sclerosis,3.355619930007168
+0,diabetic retinopathy,multiple system atrophy,4.465442423488283
+0,diabetic retinopathy,myocardial infarction,3.2465004546988085
+0,diabetic retinopathy,neuropathic pain,4.204719138114251
+0,diabetic retinopathy,nonalcoholic steatohepatitis,3.6452404697051395
+0,diabetic retinopathy,non-small cell lung cancer,3.600402137639063
+0,diabetic retinopathy,oral squamous cell carcinoma,3.3643345814122982
+0,diabetic retinopathy,osteoarthritis,3.6537265072935106
+0,diabetic retinopathy,osteosarcoma,3.449081676548897
+0,diabetic retinopathy,ovarian endometriosis,3.322606287554354
+0,diabetic retinopathy,pancreatic cancer,3.9075592338039433
+0,diabetic retinopathy,pancreatic ductal adenocarcinoma,3.530882315735532
+0,diabetic retinopathy,papillary thyroid carcinoma,3.2646254835886808
+0,diabetic retinopathy,pre-eclampsia,3.764232593635947
+0,diabetic retinopathy,prostate adenocarcinoma,3.4051545208242793
+0,diabetic retinopathy,prostate cancer,3.4547917810888054
+0,diabetic retinopathy,pulmonary tuberculosis,3.3691075891640363
+0,diabetic retinopathy,rheumatoid arthritis,3.3739099381290685
+0,diabetic retinopathy,silicosis,3.6339139506734686
+0,diabetic retinopathy,systemic lupus erythematosus,3.897391732143904
+0,diabetic retinopathy,thoracic aortic dissection,3.295894915581814
+0,diabetic retinopathy,tuberculosis,3.385628353935144
+0,diabetic retinopathy,type 2 diabetes mellitus,4.103719679573713
+0,dilated cardiomyopathy,endometrial cancer,4.5957275004373015
+0,dilated cardiomyopathy,esophageal cancer,4.513664965388847
+0,dilated cardiomyopathy,esophageal squamous cell carcinoma,4.549903053202033
+0,dilated cardiomyopathy,essential hypertension,4.567218371420477
+0,dilated cardiomyopathy,gastric cancer,4.499747229688973
+0,dilated cardiomyopathy,gestational diabetes mellitus,3.955496026634282
+0,dilated cardiomyopathy,glioblastoma,5.148343195767307
+0,dilated cardiomyopathy,glioblastoma multiforme,5.021711971238741
+0,dilated cardiomyopathy,glioma,5.098601533210103
+0,dilated cardiomyopathy,heart disease,4.839381714985721
+0,dilated cardiomyopathy,hepatic steatosis,5.009961012322879
+0,dilated cardiomyopathy,hepatoblastoma,4.500313782264001
+0,dilated cardiomyopathy,hepatocellular carcinoma,4.61252161082968
+0,dilated cardiomyopathy,hirschsprung disease,4.4139988887693615
+0,dilated cardiomyopathy,hypertension,4.857521864704614
+0,dilated cardiomyopathy,hypertrophic cardiomyopathy,4.0347466607064275
+0,dilated cardiomyopathy,hypopharyngeal squamous cell carcinoma,3.9807748905215576
+0,dilated cardiomyopathy,infantile hemangioma,4.583059894812964
+0,dilated cardiomyopathy,intervertebral disc degeneration,4.726257370575083
+0,dilated cardiomyopathy,leukoaraiosis,4.392579630597977
+0,dilated cardiomyopathy,liver cancer,3.9361272043628586
+0,dilated cardiomyopathy,lung adenocarcinoma,4.4565288886664565
+0,dilated cardiomyopathy,lung cancer,4.613011785874198
+0,dilated cardiomyopathy,lupus nephritis,4.833784062430311
+0,dilated cardiomyopathy,major depressive disorder,4.769335172739116
+0,dilated cardiomyopathy,moyamoya disease,4.406159783608839
+0,dilated cardiomyopathy,multiple sclerosis,4.813034979100259
+0,dilated cardiomyopathy,multiple system atrophy,4.624962842751117
+0,dilated cardiomyopathy,myocardial infarction,4.977878155628035
+0,dilated cardiomyopathy,neuropathic pain,4.667459283915596
+0,dilated cardiomyopathy,nonalcoholic steatohepatitis,4.314548657832016
+0,dilated cardiomyopathy,non-small cell lung cancer,4.691793972965825
+0,dilated cardiomyopathy,oral squamous cell carcinoma,3.961852988961755
+0,dilated cardiomyopathy,osteoarthritis,4.950560322949428
+0,dilated cardiomyopathy,osteosarcoma,4.857768097924999
+0,dilated cardiomyopathy,ovarian endometriosis,3.908529004768575
+0,dilated cardiomyopathy,pancreatic cancer,4.647848763619723
+0,dilated cardiomyopathy,pancreatic ductal adenocarcinoma,4.624191921824103
+0,dilated cardiomyopathy,papillary thyroid carcinoma,4.7603946620224376
+0,dilated cardiomyopathy,pre-eclampsia,4.4907047411210455
+0,dilated cardiomyopathy,prostate adenocarcinoma,3.996444005288892
+0,dilated cardiomyopathy,prostate cancer,4.739735842492722
+0,dilated cardiomyopathy,pulmonary tuberculosis,3.910789842988255
+0,dilated cardiomyopathy,rheumatoid arthritis,5.3983922573730805
+0,dilated cardiomyopathy,silicosis,4.738202766578334
+0,dilated cardiomyopathy,systemic lupus erythematosus,4.4372461373446965
+0,dilated cardiomyopathy,thoracic aortic dissection,3.8385715346165603
+0,dilated cardiomyopathy,tuberculosis,4.678031486771443
+0,dilated cardiomyopathy,type 2 diabetes mellitus,4.522075660220928
+0,endometrial cancer,esophageal cancer,4.358462940169153
+0,endometrial cancer,esophageal squamous cell carcinoma,4.349337150883444
+0,endometrial cancer,essential hypertension,4.040165077128166
+0,endometrial cancer,gastric cancer,4.384650792767826
+0,endometrial cancer,gestational diabetes mellitus,3.4931671808548472
+0,endometrial cancer,glioblastoma,4.197262898226171
+0,endometrial cancer,glioblastoma multiforme,4.331740259990813
+0,endometrial cancer,glioma,4.45608863159568
+0,endometrial cancer,heart disease,4.301571323032583
+0,endometrial cancer,hepatic steatosis,4.443457563674777
+0,endometrial cancer,hepatoblastoma,4.011833261631545
+0,endometrial cancer,hepatocellular carcinoma,4.112784692010617
+0,endometrial cancer,hirschsprung disease,4.23914704964946
+0,endometrial cancer,hypertension,4.317810210065946
+0,endometrial cancer,hypertrophic cardiomyopathy,4.0947473558675815
+0,endometrial cancer,hypopharyngeal squamous cell carcinoma,3.5227641907362885
+0,endometrial cancer,infantile hemangioma,4.330024630779258
+0,endometrial cancer,intervertebral disc degeneration,4.205687570107652
+0,endometrial cancer,leukoaraiosis,4.226322631243555
+0,endometrial cancer,liver cancer,3.4752567900488196
+0,endometrial cancer,lung adenocarcinoma,4.442611244296376
+0,endometrial cancer,lung cancer,3.811483928422183
+0,endometrial cancer,lupus nephritis,4.161756393658451
+0,endometrial cancer,major depressive disorder,4.104913695282998
+0,endometrial cancer,moyamoya disease,4.198619199736145
+0,endometrial cancer,multiple sclerosis,4.3114878623808535
+0,endometrial cancer,multiple system atrophy,4.5121525447839534
+0,endometrial cancer,myocardial infarction,4.309710466817797
+0,endometrial cancer,neuropathic pain,4.650678641467216
+0,endometrial cancer,nonalcoholic steatohepatitis,4.216538910145046
+0,endometrial cancer,non-small cell lung cancer,3.9691254830764526
+0,endometrial cancer,oral squamous cell carcinoma,3.4760065306506363
+0,endometrial cancer,osteoarthritis,4.05507728973647
+0,endometrial cancer,osteosarcoma,4.212702726186535
+0,endometrial cancer,ovarian endometriosis,3.4223631612335628
+0,endometrial cancer,pancreatic cancer,4.184729944238421
+0,endometrial cancer,pancreatic ductal adenocarcinoma,4.100412128361219
+0,endometrial cancer,papillary thyroid carcinoma,4.176155656254414
+0,endometrial cancer,pre-eclampsia,4.243188997415049
+0,endometrial cancer,prostate adenocarcinoma,3.5311898801350923
+0,endometrial cancer,prostate cancer,4.135579188435529
+0,endometrial cancer,pulmonary tuberculosis,3.536248130159233
+0,endometrial cancer,rheumatoid arthritis,4.192752166828318
+0,endometrial cancer,silicosis,4.249548594296231
+0,endometrial cancer,systemic lupus erythematosus,4.306153429315768
+0,endometrial cancer,thoracic aortic dissection,3.4427267004142004
+0,endometrial cancer,tuberculosis,4.207623742270444
+0,endometrial cancer,type 2 diabetes mellitus,4.12285085794713
+0,esophageal cancer,esophageal squamous cell carcinoma,4.4606610316842685
+0,esophageal cancer,essential hypertension,4.030495461906555
+0,esophageal cancer,gastric cancer,4.210574697526143
+0,esophageal cancer,gestational diabetes mellitus,3.5087209061825733
+0,esophageal cancer,glioblastoma,4.204621963348473
+0,esophageal cancer,glioblastoma multiforme,4.251907763928187
+0,esophageal cancer,glioma,4.441518526264063
+0,esophageal cancer,heart disease,4.441639673602794
+0,esophageal cancer,hepatic steatosis,4.234674346238249
+0,esophageal cancer,hepatoblastoma,4.278507790299527
+0,esophageal cancer,hepatocellular carcinoma,4.014581371808097
+0,esophageal cancer,hirschsprung disease,4.360179233950553
+0,esophageal cancer,hypertension,4.087605380449261
+0,esophageal cancer,hypertrophic cardiomyopathy,4.127975360465828
+0,esophageal cancer,hypopharyngeal squamous cell carcinoma,3.4413961683387537
+0,esophageal cancer,infantile hemangioma,4.115586539762495
+0,esophageal cancer,intervertebral disc degeneration,4.367886702316812
+0,esophageal cancer,leukoaraiosis,4.423384620304648
+0,esophageal cancer,liver cancer,3.457680952001804
+0,esophageal cancer,lung adenocarcinoma,4.544718171044679
+0,esophageal cancer,lung cancer,3.796548644221039
+0,esophageal cancer,lupus nephritis,4.3914032047288645
+0,esophageal cancer,major depressive disorder,4.125917264103741
+0,esophageal cancer,moyamoya disease,4.212362366792422
+0,esophageal cancer,multiple sclerosis,4.227439003373734
+0,esophageal cancer,multiple system atrophy,4.212774813849281
+0,esophageal cancer,myocardial infarction,4.264609959662772
+0,esophageal cancer,neuropathic pain,4.460110669567408
+0,esophageal cancer,nonalcoholic steatohepatitis,4.165859741740246
+0,esophageal cancer,non-small cell lung cancer,4.034634832375414
+0,esophageal cancer,oral squamous cell carcinoma,3.5659647131477374
+0,esophageal cancer,osteoarthritis,4.366390817658428
+0,esophageal cancer,osteosarcoma,4.248493668656615
+0,esophageal cancer,ovarian endometriosis,3.46856303290375
+0,esophageal cancer,pancreatic cancer,4.324254905077746
+0,esophageal cancer,pancreatic ductal adenocarcinoma,3.992374201498396
+0,esophageal cancer,papillary thyroid carcinoma,3.921226201584462
+0,esophageal cancer,pre-eclampsia,4.285533944558592
+0,esophageal cancer,prostate adenocarcinoma,3.5831612866779423
+0,esophageal cancer,prostate cancer,4.12234641005155
+0,esophageal cancer,pulmonary tuberculosis,3.565149335284641
+0,esophageal cancer,rheumatoid arthritis,4.26969044181686
+0,esophageal cancer,silicosis,4.182665693220285
+0,esophageal cancer,systemic lupus erythematosus,4.194530964959291
+0,esophageal cancer,thoracic aortic dissection,3.4887812800538267
+0,esophageal cancer,tuberculosis,4.024726765592045
+0,esophageal cancer,type 2 diabetes mellitus,4.152514471262424
+0,esophageal squamous cell carcinoma,essential hypertension,4.128000040319357
+0,esophageal squamous cell carcinoma,gastric cancer,4.115162602070582
+0,esophageal squamous cell carcinoma,gestational diabetes mellitus,3.2637742975452353
+0,esophageal squamous cell carcinoma,glioblastoma,4.414325737543725
+0,esophageal squamous cell carcinoma,glioblastoma multiforme,4.24255670063648
+0,esophageal squamous cell carcinoma,glioma,4.48441063936381
+0,esophageal squamous cell carcinoma,heart disease,4.353468874446126
+0,esophageal squamous cell carcinoma,hepatic steatosis,4.332819825754685
+0,esophageal squamous cell carcinoma,hepatoblastoma,4.387054702336841
+0,esophageal squamous cell carcinoma,hepatocellular carcinoma,4.1507539647033385
+0,esophageal squamous cell carcinoma,hirschsprung disease,4.10181451305299
+0,esophageal squamous cell carcinoma,hypertension,4.257823074967913
+0,esophageal squamous cell carcinoma,hypertrophic cardiomyopathy,4.096927909610296
+0,esophageal squamous cell carcinoma,hypopharyngeal squamous cell carcinoma,3.089815759900076
+0,esophageal squamous cell carcinoma,infantile hemangioma,4.108632637331576
+0,esophageal squamous cell carcinoma,intervertebral disc degeneration,4.253714973141946
+0,esophageal squamous cell carcinoma,leukoaraiosis,4.304168309877121
+0,esophageal squamous cell carcinoma,liver cancer,3.268857148379547
+0,esophageal squamous cell carcinoma,lung adenocarcinoma,4.263274029305423
+0,esophageal squamous cell carcinoma,lung cancer,4.2175843479533714
+0,esophageal squamous cell carcinoma,lupus nephritis,4.3822851102742515
+0,esophageal squamous cell carcinoma,major depressive disorder,4.00687104681945
+0,esophageal squamous cell carcinoma,moyamoya disease,4.282193436773733
+0,esophageal squamous cell carcinoma,multiple sclerosis,4.2667868435046294
+0,esophageal squamous cell carcinoma,multiple system atrophy,4.263209589506467
+0,esophageal squamous cell carcinoma,myocardial infarction,4.274596141978849
+0,esophageal squamous cell carcinoma,neuropathic pain,4.445073266430388
+0,esophageal squamous cell carcinoma,nonalcoholic steatohepatitis,4.116740131633388
+0,esophageal squamous cell carcinoma,non-small cell lung cancer,3.6684448323289867
+0,esophageal squamous cell carcinoma,oral squamous cell carcinoma,3.152175922959355
+0,esophageal squamous cell carcinoma,osteoarthritis,4.278987602906671
+0,esophageal squamous cell carcinoma,osteosarcoma,4.408473568528118
+0,esophageal squamous cell carcinoma,ovarian endometriosis,3.311626373069571
+0,esophageal squamous cell carcinoma,pancreatic cancer,4.191275077736029
+0,esophageal squamous cell carcinoma,pancreatic ductal adenocarcinoma,3.9519886218713527
+0,esophageal squamous cell carcinoma,papillary thyroid carcinoma,3.9858800686106046
+0,esophageal squamous cell carcinoma,pre-eclampsia,3.8663106477850886
+0,esophageal squamous cell carcinoma,prostate adenocarcinoma,3.3676739760484136
+0,esophageal squamous cell carcinoma,prostate cancer,4.087729911925088
+0,esophageal squamous cell carcinoma,pulmonary tuberculosis,3.284429420952621
+0,esophageal squamous cell carcinoma,rheumatoid arthritis,4.366157795702804
+0,esophageal squamous cell carcinoma,silicosis,3.98926294965517
+0,esophageal squamous cell carcinoma,systemic lupus erythematosus,3.8113299787922967
+0,esophageal squamous cell carcinoma,thoracic aortic dissection,3.2858735635425513
+0,esophageal squamous cell carcinoma,tuberculosis,4.1338804619131535
+0,esophageal squamous cell carcinoma,type 2 diabetes mellitus,4.109010484744549
+0,essential hypertension,gastric cancer,3.7974172193796867
+0,essential hypertension,gestational diabetes mellitus,3.229330157856929
+0,essential hypertension,glioblastoma,3.6895019231707478
+0,essential hypertension,glioblastoma multiforme,3.728237097630161
+0,essential hypertension,glioma,3.675890704606239
+0,essential hypertension,heart disease,3.5546864360226498
+0,essential hypertension,hepatic steatosis,4.155742177861331
+0,essential hypertension,hepatoblastoma,3.786115934400208
+0,essential hypertension,hepatocellular carcinoma,3.739199863859166
+0,essential hypertension,hirschsprung disease,3.8191207345928273
+0,essential hypertension,hypertension,3.145097430246551
+0,essential hypertension,hypertrophic cardiomyopathy,3.7775317186492754
+0,essential hypertension,hypopharyngeal squamous cell carcinoma,3.1355720724366742
+0,essential hypertension,infantile hemangioma,3.9079536747011
+0,essential hypertension,intervertebral disc degeneration,3.6504508351847558
+0,essential hypertension,leukoaraiosis,3.747078980946468
+0,essential hypertension,liver cancer,3.196385625702352
+0,essential hypertension,lung adenocarcinoma,4.092626383199826
+0,essential hypertension,lung cancer,3.3411670793508916
+0,essential hypertension,lupus nephritis,3.794328206943517
+0,essential hypertension,major depressive disorder,3.551127515519527
+0,essential hypertension,moyamoya disease,3.785197316123808
+0,essential hypertension,multiple sclerosis,3.23388070275848
+0,essential hypertension,multiple system atrophy,4.348900523693881
+0,essential hypertension,myocardial infarction,3.210268763221618
+0,essential hypertension,neuropathic pain,4.358049354917629
+0,essential hypertension,nonalcoholic steatohepatitis,3.575011544458102
+0,essential hypertension,non-small cell lung cancer,3.2094000098245523
+0,essential hypertension,oral squamous cell carcinoma,3.2932701293944793
+0,essential hypertension,osteoarthritis,3.8118214998291413
+0,essential hypertension,osteosarcoma,3.8221821453728815
+0,essential hypertension,ovarian endometriosis,3.0986263261072677
+0,essential hypertension,pancreatic cancer,3.7875527522595647
+0,essential hypertension,pancreatic ductal adenocarcinoma,3.445884857269955
+0,essential hypertension,papillary thyroid carcinoma,3.668761558820766
+0,essential hypertension,pre-eclampsia,3.8334620309992307
+0,essential hypertension,prostate adenocarcinoma,3.208427001628912
+0,essential hypertension,prostate cancer,3.4740406057567443
+0,essential hypertension,pulmonary tuberculosis,3.1443049004731964
+0,essential hypertension,rheumatoid arthritis,3.621856099432003
+0,essential hypertension,silicosis,3.85866246252836
+0,essential hypertension,systemic lupus erythematosus,3.8877855017199994
+0,essential hypertension,thoracic aortic dissection,3.01500051588039
+0,essential hypertension,tuberculosis,3.377851414478926
+0,essential hypertension,type 2 diabetes mellitus,3.844616375637237
+0,gastric cancer,gestational diabetes mellitus,3.5034196592501194
+0,gastric cancer,glioblastoma,3.8140268045074306
+0,gastric cancer,glioblastoma multiforme,4.001413700073929
+0,gastric cancer,glioma,3.7029703111712267
+0,gastric cancer,heart disease,3.915066246466912
+0,gastric cancer,hepatic steatosis,4.814765384860721
+0,gastric cancer,hepatoblastoma,4.050141159882973
+0,gastric cancer,hepatocellular carcinoma,4.145607358687329
+0,gastric cancer,hirschsprung disease,4.134936381441072
+0,gastric cancer,hypertension,3.8825070198873237
+0,gastric cancer,hypertrophic cardiomyopathy,3.902193150973233
+0,gastric cancer,hypopharyngeal squamous cell carcinoma,3.3749854693614205
+0,gastric cancer,infantile hemangioma,3.7936880787902285
+0,gastric cancer,intervertebral disc degeneration,4.161094904120121
+0,gastric cancer,leukoaraiosis,3.8105169679163162
+0,gastric cancer,liver cancer,3.4271991550577905
+0,gastric cancer,lung adenocarcinoma,4.170358429290571
+0,gastric cancer,lung cancer,3.822037984948318
+0,gastric cancer,lupus nephritis,4.116130750434883
+0,gastric cancer,major depressive disorder,3.8242989746294853
+0,gastric cancer,moyamoya disease,3.956030686360238
+0,gastric cancer,multiple sclerosis,3.7124023249813587
+0,gastric cancer,multiple system atrophy,4.1902616571220515
+0,gastric cancer,myocardial infarction,3.6185716881887235
+0,gastric cancer,neuropathic pain,4.512415009375534
+0,gastric cancer,nonalcoholic steatohepatitis,3.9563534036567027
+0,gastric cancer,non-small cell lung cancer,3.6326256756361905
+0,gastric cancer,oral squamous cell carcinoma,3.481126285333164
+0,gastric cancer,osteoarthritis,4.161184124786724
+0,gastric cancer,osteosarcoma,3.8012564565404765
+0,gastric cancer,ovarian endometriosis,3.4519967729659893
+0,gastric cancer,pancreatic cancer,3.9368364578596737
+0,gastric cancer,pancreatic ductal adenocarcinoma,3.628961343595611
+0,gastric cancer,papillary thyroid carcinoma,3.7328623334630002
+0,gastric cancer,pre-eclampsia,4.005104459327513
+0,gastric cancer,prostate adenocarcinoma,3.5329300272352357
+0,gastric cancer,prostate cancer,4.107222814911422
+0,gastric cancer,pulmonary tuberculosis,3.4956805301969434
+0,gastric cancer,rheumatoid arthritis,3.667300965168656
+0,gastric cancer,silicosis,4.028157300257249
+0,gastric cancer,systemic lupus erythematosus,4.215713500435894
+0,gastric cancer,thoracic aortic dissection,3.4264318043482724
+0,gastric cancer,tuberculosis,3.670677943472813
+0,gastric cancer,type 2 diabetes mellitus,4.075057227800984
+0,gestational diabetes mellitus,glioblastoma,3.588767368680148
+0,gestational diabetes mellitus,glioblastoma multiforme,3.6935343236113143
+0,gestational diabetes mellitus,glioma,3.8264050502396088
+0,gestational diabetes mellitus,heart disease,3.5803921758715043
+0,gestational diabetes mellitus,hepatic steatosis,3.5480796477608707
+0,gestational diabetes mellitus,hepatoblastoma,3.385158891640469
+0,gestational diabetes mellitus,hepatocellular carcinoma,3.5300378192451243
+0,gestational diabetes mellitus,hirschsprung disease,3.525860334235698
+0,gestational diabetes mellitus,hypertension,3.5542859563473117
+0,gestational diabetes mellitus,hypertrophic cardiomyopathy,3.3563475394501388
+0,gestational diabetes mellitus,hypopharyngeal squamous cell carcinoma,2.107602978965898
+0,gestational diabetes mellitus,infantile hemangioma,3.2731584776986673
+0,gestational diabetes mellitus,intervertebral disc degeneration,3.567726913522734
+0,gestational diabetes mellitus,leukoaraiosis,3.4955096318947616
+0,gestational diabetes mellitus,liver cancer,1.9585919054803755
+0,gestational diabetes mellitus,lung adenocarcinoma,3.673369228794423
+0,gestational diabetes mellitus,lung cancer,3.1656141489710197
+0,gestational diabetes mellitus,lupus nephritis,3.47982610045802
+0,gestational diabetes mellitus,major depressive disorder,3.337235016396318
+0,gestational diabetes mellitus,moyamoya disease,3.3886757464942168
+0,gestational diabetes mellitus,multiple sclerosis,3.3895288248479907
+0,gestational diabetes mellitus,multiple system atrophy,3.5373282330093954
+0,gestational diabetes mellitus,myocardial infarction,3.5686895683849746
+0,gestational diabetes mellitus,neuropathic pain,3.664203821693712
+0,gestational diabetes mellitus,nonalcoholic steatohepatitis,3.4525890247591713
+0,gestational diabetes mellitus,non-small cell lung cancer,3.1909349720341558
+0,gestational diabetes mellitus,oral squamous cell carcinoma,1.9455267292670966
+0,gestational diabetes mellitus,osteoarthritis,3.4309669249282666
+0,gestational diabetes mellitus,osteosarcoma,3.5386997765465096
+0,gestational diabetes mellitus,ovarian endometriosis,2.0422366742513973
+0,gestational diabetes mellitus,pancreatic cancer,3.249998408812658
+0,gestational diabetes mellitus,pancreatic ductal adenocarcinoma,3.3188104621902212
+0,gestational diabetes mellitus,papillary thyroid carcinoma,3.3518197156713905
+0,gestational diabetes mellitus,pre-eclampsia,3.3209246829946997
+0,gestational diabetes mellitus,prostate adenocarcinoma,2.2282050494679435
+0,gestational diabetes mellitus,prostate cancer,3.461065648074964
+0,gestational diabetes mellitus,pulmonary tuberculosis,2.0379431162263524
+0,gestational diabetes mellitus,rheumatoid arthritis,3.6416045518963536
+0,gestational diabetes mellitus,silicosis,3.4740930261863507
+0,gestational diabetes mellitus,systemic lupus erythematosus,3.310802198890067
+0,gestational diabetes mellitus,thoracic aortic dissection,1.8780137887245032
+0,gestational diabetes mellitus,tuberculosis,3.4140917966728166
+0,gestational diabetes mellitus,type 2 diabetes mellitus,3.1787961103504707
+0,glioblastoma,glioblastoma multiforme,2.463794920454516
+0,glioblastoma,glioma,3.0680825825995792
+0,glioblastoma,heart disease,3.1128380843510546
+0,glioblastoma,hepatic steatosis,4.762483304884382
+0,glioblastoma,hepatoblastoma,3.520344135473087
+0,glioblastoma,hepatocellular carcinoma,3.6782032338886625
+0,glioblastoma,hirschsprung disease,3.9663258060500723
+0,glioblastoma,hypertension,3.3789192992638446
+0,glioblastoma,hypertrophic cardiomyopathy,3.726396809061299
+0,glioblastoma,hypopharyngeal squamous cell carcinoma,3.473114133319668
+0,glioblastoma,infantile hemangioma,4.00983449035117
+0,glioblastoma,intervertebral disc degeneration,3.9986882099802514
+0,glioblastoma,leukoaraiosis,4.500172356230262
+0,glioblastoma,liver cancer,3.514987653477412
+0,glioblastoma,lung adenocarcinoma,4.374477127857464
+0,glioblastoma,lung cancer,3.1376840308610414
+0,glioblastoma,lupus nephritis,3.6037546303463874
+0,glioblastoma,major depressive disorder,3.370253913430931
+0,glioblastoma,moyamoya disease,4.078056695199145
+0,glioblastoma,multiple sclerosis,2.9462606812129404
+0,glioblastoma,multiple system atrophy,4.794109752192501
+0,glioblastoma,myocardial infarction,3.0009078416856267
+0,glioblastoma,neuropathic pain,4.523225410894379
+0,glioblastoma,nonalcoholic steatohepatitis,3.5839278690464296
+0,glioblastoma,non-small cell lung cancer,3.1411738556550413
+0,glioblastoma,oral squamous cell carcinoma,3.5209074330055223
+0,glioblastoma,osteoarthritis,3.4675839265807475
+0,glioblastoma,osteosarcoma,2.9144031409683593
+0,glioblastoma,ovarian endometriosis,3.5421152843549275
+0,glioblastoma,pancreatic cancer,3.927866257535549
+0,glioblastoma,pancreatic ductal adenocarcinoma,2.8813956696696597
+0,glioblastoma,papillary thyroid carcinoma,2.965014195256314
+0,glioblastoma,pre-eclampsia,4.104914839894143
+0,glioblastoma,prostate adenocarcinoma,3.649311595158546
+0,glioblastoma,prostate cancer,3.0844079603459944
+0,glioblastoma,pulmonary tuberculosis,3.5681071900311365
+0,glioblastoma,rheumatoid arthritis,2.8690353551506864
+0,glioblastoma,silicosis,3.6928647985552794
+0,glioblastoma,systemic lupus erythematosus,4.198615160112685
+0,glioblastoma,thoracic aortic dissection,3.4965378857755876
+0,glioblastoma,tuberculosis,3.2889498706645677
+0,glioblastoma,type 2 diabetes mellitus,4.3338805526203314
+0,glioblastoma multiforme,glioma,2.9691098435795755
+0,glioblastoma multiforme,heart disease,3.2501455005548987
+0,glioblastoma multiforme,hepatic steatosis,4.571853141040027
+0,glioblastoma multiforme,hepatoblastoma,3.563448681411537
+0,glioblastoma multiforme,hepatocellular carcinoma,3.8467747473576837
+0,glioblastoma multiforme,hirschsprung disease,4.083045843262269
+0,glioblastoma multiforme,hypertension,3.4821917527100013
+0,glioblastoma multiforme,hypertrophic cardiomyopathy,3.577669778324761
+0,glioblastoma multiforme,hypopharyngeal squamous cell carcinoma,3.5536748975194734
+0,glioblastoma multiforme,infantile hemangioma,4.104831619551891
+0,glioblastoma multiforme,intervertebral disc degeneration,3.8462017187518502
+0,glioblastoma multiforme,leukoaraiosis,4.070090283483019
+0,glioblastoma multiforme,liver cancer,3.623892266979864
+0,glioblastoma multiforme,lung adenocarcinoma,4.546201756601751
+0,glioblastoma multiforme,lung cancer,3.240193621962681
+0,glioblastoma multiforme,lupus nephritis,3.7813868432820046
+0,glioblastoma multiforme,major depressive disorder,3.4637145476144586
+0,glioblastoma multiforme,moyamoya disease,4.016205004766103
+0,glioblastoma multiforme,multiple sclerosis,2.926662779516826
+0,glioblastoma multiforme,multiple system atrophy,4.804733682502735
+0,glioblastoma multiforme,myocardial infarction,3.2278695955128573
+0,glioblastoma multiforme,neuropathic pain,4.428491919675723
+0,glioblastoma multiforme,nonalcoholic steatohepatitis,3.616153571137439
+0,glioblastoma multiforme,non-small cell lung cancer,3.287230613653864
+0,glioblastoma multiforme,oral squamous cell carcinoma,3.695950947187675
+0,glioblastoma multiforme,osteoarthritis,3.462865312792314
+0,glioblastoma multiforme,osteosarcoma,2.849835252741431
+0,glioblastoma multiforme,ovarian endometriosis,3.642425465921564
+0,glioblastoma multiforme,pancreatic cancer,4.2255269375968005
+0,glioblastoma multiforme,pancreatic ductal adenocarcinoma,2.9510377213230554
+0,glioblastoma multiforme,papillary thyroid carcinoma,3.018746978779686
+0,glioblastoma multiforme,pre-eclampsia,3.992133996700317
+0,glioblastoma multiforme,prostate adenocarcinoma,3.6712589937652216
+0,glioblastoma multiforme,prostate cancer,3.124468123720533
+0,glioblastoma multiforme,pulmonary tuberculosis,3.656908510345891
+0,glioblastoma multiforme,rheumatoid arthritis,2.833735630860342
+0,glioblastoma multiforme,silicosis,3.8751839595028534
+0,glioblastoma multiforme,systemic lupus erythematosus,4.291615640386734
+0,glioblastoma multiforme,thoracic aortic dissection,3.612943418216479
+0,glioblastoma multiforme,tuberculosis,3.2865194113811333
+0,glioblastoma multiforme,type 2 diabetes mellitus,4.592724798893676
+0,glioma,heart disease,3.4505567531725547
+0,glioma,hepatic steatosis,4.8225107770868
+0,glioma,hepatoblastoma,3.7762162024057324
+0,glioma,hepatocellular carcinoma,3.9201561779267853
+0,glioma,hirschsprung disease,4.272881118015897
+0,glioma,hypertension,3.3129487373246134
+0,glioma,hypertrophic cardiomyopathy,3.9389573152077606
+0,glioma,hypopharyngeal squamous cell carcinoma,3.6998191937686995
+0,glioma,infantile hemangioma,4.0981464348023735
+0,glioma,intervertebral disc degeneration,3.9650753593474066
+0,glioma,leukoaraiosis,4.401153139923275
+0,glioma,liver cancer,3.7441685411859
+0,glioma,lung adenocarcinoma,4.568978311474101
+0,glioma,lung cancer,3.3947152906908014
+0,glioma,lupus nephritis,3.9352098989931874
+0,glioma,major depressive disorder,3.593223455799966
+0,glioma,moyamoya disease,4.2056638581340655
+0,glioma,multiple sclerosis,3.4132171715390807
+0,glioma,multiple system atrophy,4.872149229701829
+0,glioma,myocardial infarction,3.260857475453208
+0,glioma,neuropathic pain,4.682238971168497
+0,glioma,nonalcoholic steatohepatitis,3.997555493388645
+0,glioma,non-small cell lung cancer,3.505469643233947
+0,glioma,oral squamous cell carcinoma,3.7996232666588377
+0,glioma,osteoarthritis,3.801081760835667
+0,glioma,osteosarcoma,3.0023273403965605
+0,glioma,ovarian endometriosis,3.7293799879888017
+0,glioma,pancreatic cancer,4.169876050276732
+0,glioma,pancreatic ductal adenocarcinoma,3.4872012462603768
+0,glioma,papillary thyroid carcinoma,3.0202265896635576
+0,glioma,pre-eclampsia,4.006848308140953
+0,glioma,prostate adenocarcinoma,3.78579068838267
+0,glioma,prostate cancer,3.1510660022109596
+0,glioma,pulmonary tuberculosis,3.806295417154978
+0,glioma,rheumatoid arthritis,3.1632199192194874
+0,glioma,silicosis,3.998228942501729
+0,glioma,systemic lupus erythematosus,4.251073080567371
+0,glioma,thoracic aortic dissection,3.727938331786167
+0,glioma,tuberculosis,3.2672405312543433
+0,glioma,type 2 diabetes mellitus,4.535239634451219
+0,heart disease,hepatic steatosis,4.731564521570497
+0,heart disease,hepatoblastoma,3.553776907131871
+0,heart disease,hepatocellular carcinoma,3.9197051506015224
+0,heart disease,hirschsprung disease,4.147808977642484
+0,heart disease,hypertension,3.2912544012758826
+0,heart disease,hypertrophic cardiomyopathy,3.632969168311016
+0,heart disease,hypopharyngeal squamous cell carcinoma,3.512948093570505
+0,heart disease,infantile hemangioma,3.9070169762534035
+0,heart disease,intervertebral disc degeneration,3.612531236975986
+0,heart disease,leukoaraiosis,4.346917234354076
+0,heart disease,liver cancer,3.517250656349675
+0,heart disease,lung adenocarcinoma,4.531334003933182
+0,heart disease,lung cancer,3.5814837915613946
+0,heart disease,lupus nephritis,3.451136668920181
+0,heart disease,major depressive disorder,3.4046477687417367
+0,heart disease,moyamoya disease,3.8240250381434335
+0,heart disease,multiple sclerosis,3.376660079918161
+0,heart disease,multiple system atrophy,4.8431601243608355
+0,heart disease,myocardial infarction,3.1873358844788346
+0,heart disease,neuropathic pain,4.43037038058796
+0,heart disease,nonalcoholic steatohepatitis,3.592927403891551
+0,heart disease,non-small cell lung cancer,3.529702531082339
+0,heart disease,oral squamous cell carcinoma,3.577155505228661
+0,heart disease,osteoarthritis,3.6496689374807456
+0,heart disease,osteosarcoma,3.3176239997625694
+0,heart disease,ovarian endometriosis,3.5777836096309215
+0,heart disease,pancreatic cancer,4.07950112699631
+0,heart disease,pancreatic ductal adenocarcinoma,3.4918512057034103
+0,heart disease,papillary thyroid carcinoma,3.224071150649994
+0,heart disease,pre-eclampsia,3.9135764587574684
+0,heart disease,prostate adenocarcinoma,3.5904452588421347
+0,heart disease,prostate cancer,3.6067096219743813
+0,heart disease,pulmonary tuberculosis,3.5803150265564407
+0,heart disease,rheumatoid arthritis,3.2926026079281745
+0,heart disease,silicosis,3.9678964649205954
+0,heart disease,systemic lupus erythematosus,4.087691858217126
+0,heart disease,thoracic aortic dissection,3.534137055091405
+0,heart disease,tuberculosis,3.359834088845828
+0,heart disease,type 2 diabetes mellitus,4.382882037376477
+0,hepatic steatosis,hepatoblastoma,4.433399145938698
+0,hepatic steatosis,hepatocellular carcinoma,4.568692186680457
+0,hepatic steatosis,hirschsprung disease,4.628881107077458
+0,hepatic steatosis,hypertension,4.66850663144426
+0,hepatic steatosis,hypertrophic cardiomyopathy,4.355875606185498
+0,hepatic steatosis,hypopharyngeal squamous cell carcinoma,3.417073076805532
+0,hepatic steatosis,infantile hemangioma,4.345539233992432
+0,hepatic steatosis,intervertebral disc degeneration,4.917236489865036
+0,hepatic steatosis,leukoaraiosis,4.306092840094074
+0,hepatic steatosis,liver cancer,3.504983965021646
+0,hepatic steatosis,lung adenocarcinoma,4.55878142980095
+0,hepatic steatosis,lung cancer,4.146394312996239
+0,hepatic steatosis,lupus nephritis,4.551587026222675
+0,hepatic steatosis,major depressive disorder,4.424211334362145
+0,hepatic steatosis,moyamoya disease,4.389132756599886
+0,hepatic steatosis,multiple sclerosis,4.600175519201524
+0,hepatic steatosis,multiple system atrophy,4.5215728714987256
+0,hepatic steatosis,myocardial infarction,4.675477988007454
+0,hepatic steatosis,neuropathic pain,4.333987906006158
+0,hepatic steatosis,nonalcoholic steatohepatitis,4.507805177846532
+0,hepatic steatosis,non-small cell lung cancer,4.082876035874965
+0,hepatic steatosis,oral squamous cell carcinoma,3.4948061774616432
+0,hepatic steatosis,osteoarthritis,4.2746264361137545
+0,hepatic steatosis,osteosarcoma,4.572020115742873
+0,hepatic steatosis,ovarian endometriosis,3.6036686963000477
+0,hepatic steatosis,pancreatic cancer,4.1114914323341765
+0,hepatic steatosis,pancreatic ductal adenocarcinoma,4.453112721253458
+0,hepatic steatosis,papillary thyroid carcinoma,4.4835359610708245
+0,hepatic steatosis,pre-eclampsia,4.341933767701855
+0,hepatic steatosis,prostate adenocarcinoma,3.557595372220938
+0,hepatic steatosis,prostate cancer,4.519672839186384
+0,hepatic steatosis,pulmonary tuberculosis,3.5411009319959197
+0,hepatic steatosis,rheumatoid arthritis,4.654604707753912
+0,hepatic steatosis,silicosis,4.391582598699492
+0,hepatic steatosis,systemic lupus erythematosus,4.02346190730906
+0,hepatic steatosis,thoracic aortic dissection,3.527776219483159
+0,hepatic steatosis,tuberculosis,4.517817691100767
+0,hepatic steatosis,type 2 diabetes mellitus,4.215422234533344
+0,hepatoblastoma,hepatocellular carcinoma,3.808927284059897
+0,hepatoblastoma,hirschsprung disease,3.9545281343224645
+0,hepatoblastoma,hypertension,3.6744409582589026
+0,hepatoblastoma,hypertrophic cardiomyopathy,3.8032912273540025
+0,hepatoblastoma,hypopharyngeal squamous cell carcinoma,3.3428778442386693
+0,hepatoblastoma,infantile hemangioma,4.109947866763983
+0,hepatoblastoma,intervertebral disc degeneration,3.916219524206961
+0,hepatoblastoma,leukoaraiosis,4.158405968119212
+0,hepatoblastoma,liver cancer,3.3754607103969225
+0,hepatoblastoma,lung adenocarcinoma,4.376665692486882
+0,hepatoblastoma,lung cancer,3.924635226920713
+0,hepatoblastoma,lupus nephritis,3.8302135411427436
+0,hepatoblastoma,major depressive disorder,3.724693323475624
+0,hepatoblastoma,moyamoya disease,4.166649638259243
+0,hepatoblastoma,multiple sclerosis,3.61360777830741
+0,hepatoblastoma,multiple system atrophy,4.457043097277875
+0,hepatoblastoma,myocardial infarction,3.5770611330545217
+0,hepatoblastoma,neuropathic pain,4.295451500668283
+0,hepatoblastoma,nonalcoholic steatohepatitis,3.918879985241933
+0,hepatoblastoma,non-small cell lung cancer,3.7085467991828427
+0,hepatoblastoma,oral squamous cell carcinoma,3.315811732234435
+0,hepatoblastoma,osteoarthritis,3.8845594283587195
+0,hepatoblastoma,osteosarcoma,3.3786927616267692
+0,hepatoblastoma,ovarian endometriosis,3.3266658191228955
+0,hepatoblastoma,pancreatic cancer,3.8843738547835347
+0,hepatoblastoma,pancreatic ductal adenocarcinoma,3.5831514838485257
+0,hepatoblastoma,papillary thyroid carcinoma,3.4996366983944447
+0,hepatoblastoma,pre-eclampsia,4.0523622703336954
+0,hepatoblastoma,prostate adenocarcinoma,3.4407549267603574
+0,hepatoblastoma,prostate cancer,3.6130054351365883
+0,hepatoblastoma,pulmonary tuberculosis,3.3752426752013704
+0,hepatoblastoma,rheumatoid arthritis,3.496997893505122
+0,hepatoblastoma,silicosis,3.896045862312438
+0,hepatoblastoma,systemic lupus erythematosus,3.7934240222048086
+0,hepatoblastoma,thoracic aortic dissection,3.371346349376685
+0,hepatoblastoma,tuberculosis,3.5009523669547256
+0,hepatoblastoma,type 2 diabetes mellitus,4.0788948778377465
+0,hepatocellular carcinoma,hirschsprung disease,4.046214318413925
+0,hepatocellular carcinoma,hypertension,3.830216452064254
+0,hepatocellular carcinoma,hypertrophic cardiomyopathy,4.056579394826589
+0,hepatocellular carcinoma,hypopharyngeal squamous cell carcinoma,3.4027644218023014
+0,hepatocellular carcinoma,infantile hemangioma,4.16238753663738
+0,hepatocellular carcinoma,intervertebral disc degeneration,4.110867190759543
+0,hepatocellular carcinoma,leukoaraiosis,4.50853854877775
+0,hepatocellular carcinoma,liver cancer,3.4817797774438466
+0,hepatocellular carcinoma,lung adenocarcinoma,4.097684369522105
+0,hepatocellular carcinoma,lung cancer,3.73165636707862
+0,hepatocellular carcinoma,lupus nephritis,3.9781013385523436
+0,hepatocellular carcinoma,major depressive disorder,3.729035318456199
+0,hepatocellular carcinoma,moyamoya disease,4.044159196004249
+0,hepatocellular carcinoma,multiple sclerosis,3.7139393528418174
+0,hepatocellular carcinoma,multiple system atrophy,4.8504898045666645
+0,hepatocellular carcinoma,myocardial infarction,3.547805053810039
+0,hepatocellular carcinoma,neuropathic pain,4.551789657698118
+0,hepatocellular carcinoma,nonalcoholic steatohepatitis,4.035811892860388
+0,hepatocellular carcinoma,non-small cell lung cancer,3.860150969191553
+0,hepatocellular carcinoma,oral squamous cell carcinoma,3.514713244089522
+0,hepatocellular carcinoma,osteoarthritis,4.046800149722154
+0,hepatocellular carcinoma,osteosarcoma,3.864962500808015
+0,hepatocellular carcinoma,ovarian endometriosis,3.4826540273347217
+0,hepatocellular carcinoma,pancreatic cancer,4.034755259730217
+0,hepatocellular carcinoma,pancreatic ductal adenocarcinoma,3.664174235724419
+0,hepatocellular carcinoma,papillary thyroid carcinoma,3.7865032131510055
+0,hepatocellular carcinoma,pre-eclampsia,3.9668299788973367
+0,hepatocellular carcinoma,prostate adenocarcinoma,3.442473768785614
+0,hepatocellular carcinoma,prostate cancer,3.933536800531223
+0,hepatocellular carcinoma,pulmonary tuberculosis,3.498114135076138
+0,hepatocellular carcinoma,rheumatoid arthritis,4.094562394480076
+0,hepatocellular carcinoma,silicosis,4.1543174721883815
+0,hepatocellular carcinoma,systemic lupus erythematosus,4.198916877177665
+0,hepatocellular carcinoma,thoracic aortic dissection,3.457296229662026
+0,hepatocellular carcinoma,tuberculosis,3.7259591637986684
+0,hepatocellular carcinoma,type 2 diabetes mellitus,4.141592407493521
+0,hirschsprung disease,hypertension,3.87470331448173
+0,hirschsprung disease,hypertrophic cardiomyopathy,3.968868229606152
+0,hirschsprung disease,hypopharyngeal squamous cell carcinoma,3.386689184794489
+0,hirschsprung disease,infantile hemangioma,3.889097572054364
+0,hirschsprung disease,intervertebral disc degeneration,4.039912667088211
+0,hirschsprung disease,leukoaraiosis,4.215287752238378
+0,hirschsprung disease,liver cancer,3.466696475234189
+0,hirschsprung disease,lung adenocarcinoma,4.307632926587563
+0,hirschsprung disease,lung cancer,3.97167239616909
+0,hirschsprung disease,lupus nephritis,4.0756945718517645
+0,hirschsprung disease,major depressive disorder,3.9243451443704163
+0,hirschsprung disease,moyamoya disease,4.157547825134121
+0,hirschsprung disease,multiple sclerosis,3.7305798045439054
+0,hirschsprung disease,multiple system atrophy,4.313263724124458
+0,hirschsprung disease,myocardial infarction,4.103509751248886
+0,hirschsprung disease,neuropathic pain,4.498727062539085
+0,hirschsprung disease,nonalcoholic steatohepatitis,4.037959978356037
+0,hirschsprung disease,non-small cell lung cancer,3.8376466567302314
+0,hirschsprung disease,oral squamous cell carcinoma,3.4365797423854936
+0,hirschsprung disease,osteoarthritis,4.044399967698943
+0,hirschsprung disease,osteosarcoma,3.913974237204817
+0,hirschsprung disease,ovarian endometriosis,3.412139672187888
+0,hirschsprung disease,pancreatic cancer,4.070034564931902
+0,hirschsprung disease,pancreatic ductal adenocarcinoma,3.9176056253463725
+0,hirschsprung disease,papillary thyroid carcinoma,3.5860798241919887
+0,hirschsprung disease,pre-eclampsia,4.313705490171781
+0,hirschsprung disease,prostate adenocarcinoma,3.4761969708927665
+0,hirschsprung disease,prostate cancer,3.9082417114468995
+0,hirschsprung disease,pulmonary tuberculosis,3.4941963787862966
+0,hirschsprung disease,rheumatoid arthritis,4.231443760545022
+0,hirschsprung disease,silicosis,4.290694848261694
+0,hirschsprung disease,systemic lupus erythematosus,4.037245661286554
+0,hirschsprung disease,thoracic aortic dissection,3.4433156213086664
+0,hirschsprung disease,tuberculosis,3.814576240975647
+0,hirschsprung disease,type 2 diabetes mellitus,4.334788396084107
+0,hypertension,hypertrophic cardiomyopathy,3.503330268033436
+0,hypertension,hypopharyngeal squamous cell carcinoma,3.406395413819796
+0,hypertension,infantile hemangioma,3.7710772071437475
+0,hypertension,intervertebral disc degeneration,3.845219592105373
+0,hypertension,leukoaraiosis,4.3736899646477445
+0,hypertension,liver cancer,3.5295698077176736
+0,hypertension,lung adenocarcinoma,4.325776132589599
+0,hypertension,lung cancer,3.447432270779354
+0,hypertension,lupus nephritis,3.6772287955393583
+0,hypertension,major depressive disorder,3.478778017979736
+0,hypertension,moyamoya disease,3.9096951883982283
+0,hypertension,multiple sclerosis,3.3824751501013774
+0,hypertension,multiple system atrophy,4.690309655323787
+0,hypertension,myocardial infarction,3.1511862617901722
+0,hypertension,neuropathic pain,4.493999474031079
+0,hypertension,nonalcoholic steatohepatitis,3.6303361860117302
+0,hypertension,non-small cell lung cancer,3.519243430235581
+0,hypertension,oral squamous cell carcinoma,3.5439332655592777
+0,hypertension,osteoarthritis,3.700911071535457
+0,hypertension,osteosarcoma,3.3260723218326875
+0,hypertension,ovarian endometriosis,3.548372520945888
+0,hypertension,pancreatic cancer,4.089210147301304
+0,hypertension,pancreatic ductal adenocarcinoma,3.43126551688141
+0,hypertension,papillary thyroid carcinoma,3.25171320706274
+0,hypertension,pre-eclampsia,3.8317288228049806
+0,hypertension,prostate adenocarcinoma,3.5435245585123742
+0,hypertension,prostate cancer,3.3544768010219745
+0,hypertension,pulmonary tuberculosis,3.5148473700886766
+0,hypertension,rheumatoid arthritis,3.154667607461253
+0,hypertension,silicosis,3.872113275928969
+0,hypertension,systemic lupus erythematosus,4.226374676231122
+0,hypertension,thoracic aortic dissection,3.510596569767103
+0,hypertension,tuberculosis,3.391468793895018
+0,hypertension,type 2 diabetes mellitus,4.182373102434019
+0,hypertrophic cardiomyopathy,hypopharyngeal squamous cell carcinoma,3.1995503594164987
+0,hypertrophic cardiomyopathy,infantile hemangioma,3.7864812383828053
+0,hypertrophic cardiomyopathy,intervertebral disc degeneration,3.841158366119451
+0,hypertrophic cardiomyopathy,leukoaraiosis,4.0117479883880565
+0,hypertrophic cardiomyopathy,liver cancer,3.286428076392402
+0,hypertrophic cardiomyopathy,lung adenocarcinoma,4.251750713781469
+0,hypertrophic cardiomyopathy,lung cancer,3.576224011140069
+0,hypertrophic cardiomyopathy,lupus nephritis,3.7600120028688684
+0,hypertrophic cardiomyopathy,major depressive disorder,3.5212106509639747
+0,hypertrophic cardiomyopathy,moyamoya disease,3.9557972585398216
+0,hypertrophic cardiomyopathy,multiple sclerosis,3.5605647200457855
+0,hypertrophic cardiomyopathy,multiple system atrophy,4.447226969709077
+0,hypertrophic cardiomyopathy,myocardial infarction,3.59292526827509
+0,hypertrophic cardiomyopathy,neuropathic pain,4.34030245584234
+0,hypertrophic cardiomyopathy,nonalcoholic steatohepatitis,3.7827063462621133
+0,hypertrophic cardiomyopathy,non-small cell lung cancer,3.534969296549086
+0,hypertrophic cardiomyopathy,oral squamous cell carcinoma,3.356739980857339
+0,hypertrophic cardiomyopathy,osteoarthritis,3.894074090778527
+0,hypertrophic cardiomyopathy,osteosarcoma,4.05371571882338
+0,hypertrophic cardiomyopathy,ovarian endometriosis,3.2732594161401614
+0,hypertrophic cardiomyopathy,pancreatic cancer,3.915938319049277
+0,hypertrophic cardiomyopathy,pancreatic ductal adenocarcinoma,3.574688924829433
+0,hypertrophic cardiomyopathy,papillary thyroid carcinoma,3.701935369029655
+0,hypertrophic cardiomyopathy,pre-eclampsia,3.968843019826222
+0,hypertrophic cardiomyopathy,prostate adenocarcinoma,3.3148273701149282
+0,hypertrophic cardiomyopathy,prostate cancer,3.6196713132083924
+0,hypertrophic cardiomyopathy,pulmonary tuberculosis,3.2646091585543724
+0,hypertrophic cardiomyopathy,rheumatoid arthritis,3.9366427435426914
+0,hypertrophic cardiomyopathy,silicosis,4.097590388595205
+0,hypertrophic cardiomyopathy,systemic lupus erythematosus,4.007997575576411
+0,hypertrophic cardiomyopathy,thoracic aortic dissection,3.2376226996724315
+0,hypertrophic cardiomyopathy,tuberculosis,3.497438393576435
+0,hypertrophic cardiomyopathy,type 2 diabetes mellitus,4.1013500028622305
+0,hypopharyngeal squamous cell carcinoma,infantile hemangioma,3.143098088754374
+0,hypopharyngeal squamous cell carcinoma,intervertebral disc degeneration,3.425250043955622
+0,hypopharyngeal squamous cell carcinoma,leukoaraiosis,3.449940665038156
+0,hypopharyngeal squamous cell carcinoma,liver cancer,2.0196025684734304
+0,hypopharyngeal squamous cell carcinoma,lung adenocarcinoma,3.617223230008107
+0,hypopharyngeal squamous cell carcinoma,lung cancer,3.1262753366290403
+0,hypopharyngeal squamous cell carcinoma,lupus nephritis,3.3314865198193226
+0,hypopharyngeal squamous cell carcinoma,major depressive disorder,3.1726204352765643
+0,hypopharyngeal squamous cell carcinoma,moyamoya disease,3.4139477926928525
+0,hypopharyngeal squamous cell carcinoma,multiple sclerosis,3.364580444755808
+0,hypopharyngeal squamous cell carcinoma,multiple system atrophy,3.497496714769685
+0,hypopharyngeal squamous cell carcinoma,myocardial infarction,3.4664470683953565
+0,hypopharyngeal squamous cell carcinoma,neuropathic pain,3.5501714432787392
+0,hypopharyngeal squamous cell carcinoma,nonalcoholic steatohepatitis,3.3865123083624473
+0,hypopharyngeal squamous cell carcinoma,non-small cell lung cancer,3.0060870581109436
+0,hypopharyngeal squamous cell carcinoma,oral squamous cell carcinoma,2.0650074968741925
+0,hypopharyngeal squamous cell carcinoma,osteoarthritis,3.4067322658226367
+0,hypopharyngeal squamous cell carcinoma,osteosarcoma,3.4357873888639094
+0,hypopharyngeal squamous cell carcinoma,ovarian endometriosis,2.0409478745461156
+0,hypopharyngeal squamous cell carcinoma,pancreatic cancer,3.1331010917506372
+0,hypopharyngeal squamous cell carcinoma,pancreatic ductal adenocarcinoma,3.184957731338282
+0,hypopharyngeal squamous cell carcinoma,papillary thyroid carcinoma,3.2468446729470664
+0,hypopharyngeal squamous cell carcinoma,pre-eclampsia,3.2799386952921665
+0,hypopharyngeal squamous cell carcinoma,prostate adenocarcinoma,2.0998986423935637
+0,hypopharyngeal squamous cell carcinoma,prostate cancer,3.3752736850434006
+0,hypopharyngeal squamous cell carcinoma,pulmonary tuberculosis,2.0898854655077033
+0,hypopharyngeal squamous cell carcinoma,rheumatoid arthritis,3.569935494888939
+0,hypopharyngeal squamous cell carcinoma,silicosis,3.3874843188452384
+0,hypopharyngeal squamous cell carcinoma,systemic lupus erythematosus,3.305057122767257
+0,hypopharyngeal squamous cell carcinoma,thoracic aortic dissection,2.0095263235065075
+0,hypopharyngeal squamous cell carcinoma,tuberculosis,3.315694488908172
+0,hypopharyngeal squamous cell carcinoma,type 2 diabetes mellitus,3.082262474136437
+0,infantile hemangioma,intervertebral disc degeneration,3.915810529902591
+0,infantile hemangioma,leukoaraiosis,4.036013312172958
+0,infantile hemangioma,liver cancer,3.2360582578844164
+0,infantile hemangioma,lung adenocarcinoma,4.375675440586048
+0,infantile hemangioma,lung cancer,3.7959198537562147
+0,infantile hemangioma,lupus nephritis,3.5521547933962125
+0,infantile hemangioma,major depressive disorder,3.772920937735327
+0,infantile hemangioma,moyamoya disease,4.229428593021678
+0,infantile hemangioma,multiple sclerosis,3.9664782847756803
+0,infantile hemangioma,multiple system atrophy,4.438213005203722
+0,infantile hemangioma,myocardial infarction,3.6386025794892354
+0,infantile hemangioma,neuropathic pain,4.319724642724597
+0,infantile hemangioma,nonalcoholic steatohepatitis,3.812304112806627
+0,infantile hemangioma,non-small cell lung cancer,3.7288640349698268
+0,infantile hemangioma,oral squamous cell carcinoma,3.2935045059415367
+0,infantile hemangioma,osteoarthritis,3.970178754670035
+0,infantile hemangioma,osteosarcoma,3.611107771060994
+0,infantile hemangioma,ovarian endometriosis,3.2002705137424172
+0,infantile hemangioma,pancreatic cancer,4.107083480642659
+0,infantile hemangioma,pancreatic ductal adenocarcinoma,3.6375205840919187
+0,infantile hemangioma,papillary thyroid carcinoma,3.868240468059733
+0,infantile hemangioma,pre-eclampsia,4.077135813899876
+0,infantile hemangioma,prostate adenocarcinoma,3.207388406699052
+0,infantile hemangioma,prostate cancer,3.9237525406294917
+0,infantile hemangioma,pulmonary tuberculosis,3.305919912987341
+0,infantile hemangioma,rheumatoid arthritis,3.8667545723534773
+0,infantile hemangioma,silicosis,3.9952463520688912
+0,infantile hemangioma,systemic lupus erythematosus,3.9050227736468965
+0,infantile hemangioma,thoracic aortic dissection,3.2284287686240694
+0,infantile hemangioma,tuberculosis,3.696534593098996
+0,infantile hemangioma,type 2 diabetes mellitus,4.003739745876824
+0,intervertebral disc degeneration,leukoaraiosis,4.0162707685052945
+0,intervertebral disc degeneration,liver cancer,3.5222368426776183
+0,intervertebral disc degeneration,lung adenocarcinoma,4.253955073407078
+0,intervertebral disc degeneration,lung cancer,3.7880281491486407
+0,intervertebral disc degeneration,lupus nephritis,3.7225882632094676
+0,intervertebral disc degeneration,major depressive disorder,3.648905645092761
+0,intervertebral disc degeneration,moyamoya disease,4.0435699004360455
+0,intervertebral disc degeneration,multiple sclerosis,3.8669929653120483
+0,intervertebral disc degeneration,multiple system atrophy,4.197463068079032
+0,intervertebral disc degeneration,myocardial infarction,3.7646775065489626
+0,intervertebral disc degeneration,neuropathic pain,4.45279583376311
+0,intervertebral disc degeneration,nonalcoholic steatohepatitis,3.8452870496220406
+0,intervertebral disc degeneration,non-small cell lung cancer,3.844842978814643
+0,intervertebral disc degeneration,oral squamous cell carcinoma,3.5079838301589024
+0,intervertebral disc degeneration,osteoarthritis,3.8859962085776765
+0,intervertebral disc degeneration,osteosarcoma,3.5747310194614137
+0,intervertebral disc degeneration,ovarian endometriosis,3.549143601897173
+0,intervertebral disc degeneration,pancreatic cancer,4.053949529539453
+0,intervertebral disc degeneration,pancreatic ductal adenocarcinoma,3.6690991274622813
+0,intervertebral disc degeneration,papillary thyroid carcinoma,3.4874163416886588
+0,intervertebral disc degeneration,pre-eclampsia,3.8643102204165047
+0,intervertebral disc degeneration,prostate adenocarcinoma,3.598811733387607
+0,intervertebral disc degeneration,prostate cancer,3.7939847222146184
+0,intervertebral disc degeneration,pulmonary tuberculosis,3.5596516923463213
+0,intervertebral disc degeneration,rheumatoid arthritis,3.7910638174519264
+0,intervertebral disc degeneration,silicosis,3.9333186618198708
+0,intervertebral disc degeneration,systemic lupus erythematosus,3.9759433079858177
+0,intervertebral disc degeneration,thoracic aortic dissection,3.503735836939122
+0,intervertebral disc degeneration,tuberculosis,3.618560970986796
+0,intervertebral disc degeneration,type 2 diabetes mellitus,4.065068742503691
+0,leukoaraiosis,liver cancer,3.4756267065398876
+0,leukoaraiosis,lung adenocarcinoma,4.610479099973813
+0,leukoaraiosis,lung cancer,4.051173627978539
+0,leukoaraiosis,lupus nephritis,4.175894618800718
+0,leukoaraiosis,major depressive disorder,4.050850254545629
+0,leukoaraiosis,moyamoya disease,4.094113793959951
+0,leukoaraiosis,multiple sclerosis,4.045223741312682
+0,leukoaraiosis,multiple system atrophy,4.278149913506475
+0,leukoaraiosis,myocardial infarction,4.2391140209751095
+0,leukoaraiosis,neuropathic pain,4.627506545894043
+0,leukoaraiosis,nonalcoholic steatohepatitis,4.10498740028312
+0,leukoaraiosis,non-small cell lung cancer,4.091812977448858
+0,leukoaraiosis,oral squamous cell carcinoma,3.428210736695716
+0,leukoaraiosis,osteoarthritis,4.231370308756036
+0,leukoaraiosis,osteosarcoma,4.360736911628866
+0,leukoaraiosis,ovarian endometriosis,3.5450122675102738
+0,leukoaraiosis,pancreatic cancer,4.207058597772937
+0,leukoaraiosis,pancreatic ductal adenocarcinoma,4.231914420708188
+0,leukoaraiosis,papillary thyroid carcinoma,3.9621235122039358
+0,leukoaraiosis,pre-eclampsia,4.011033497270408
+0,leukoaraiosis,prostate adenocarcinoma,3.607383080442292
+0,leukoaraiosis,prostate cancer,4.334477249839744
+0,leukoaraiosis,pulmonary tuberculosis,3.4859053002458227
+0,leukoaraiosis,rheumatoid arthritis,4.075056539684228
+0,leukoaraiosis,silicosis,3.9849406862748182
+0,leukoaraiosis,systemic lupus erythematosus,4.33979874391645
+0,leukoaraiosis,thoracic aortic dissection,3.492620106340274
+0,leukoaraiosis,tuberculosis,4.158033067189783
+0,leukoaraiosis,type 2 diabetes mellitus,4.066522087901969
+0,liver cancer,lung adenocarcinoma,3.617938637432787
+0,liver cancer,lung cancer,3.090146061305025
+0,liver cancer,lupus nephritis,3.4530307308929293
+0,liver cancer,major depressive disorder,3.2640319275373044
+0,liver cancer,moyamoya disease,3.346977509187426
+0,liver cancer,multiple sclerosis,3.3517849584157577
+0,liver cancer,multiple system atrophy,3.4076156241303113
+0,liver cancer,myocardial infarction,3.5228450432878886
+0,liver cancer,neuropathic pain,3.638683809298156
+0,liver cancer,nonalcoholic steatohepatitis,3.4431026553411384
+0,liver cancer,non-small cell lung cancer,3.153816500677428
+0,liver cancer,oral squamous cell carcinoma,1.9059612057226634
+0,liver cancer,osteoarthritis,3.383434381994492
+0,liver cancer,osteosarcoma,3.511678271684308
+0,liver cancer,ovarian endometriosis,1.8744744823900759
+0,liver cancer,pancreatic cancer,3.2047478013419095
+0,liver cancer,pancreatic ductal adenocarcinoma,3.2169468663295544
+0,liver cancer,papillary thyroid carcinoma,3.2987238932035337
+0,liver cancer,pre-eclampsia,3.352483565135127
+0,liver cancer,prostate adenocarcinoma,2.031847370487686
+0,liver cancer,prostate cancer,3.384707093804937
+0,liver cancer,pulmonary tuberculosis,1.956769855174394
+0,liver cancer,rheumatoid arthritis,3.577409355669705
+0,liver cancer,silicosis,3.410982388140906
+0,liver cancer,systemic lupus erythematosus,3.258888105587465
+0,liver cancer,thoracic aortic dissection,1.8650450753249521
+0,liver cancer,tuberculosis,3.386365851908889
+0,liver cancer,type 2 diabetes mellitus,3.1421617640508015
+0,lung adenocarcinoma,lung cancer,3.926943703400855
+0,lung adenocarcinoma,lupus nephritis,4.423714276245169
+0,lung adenocarcinoma,major depressive disorder,4.266808243452182
+0,lung adenocarcinoma,moyamoya disease,4.3309605328638145
+0,lung adenocarcinoma,multiple sclerosis,4.145618323805358
+0,lung adenocarcinoma,multiple system atrophy,4.614630403580783
+0,lung adenocarcinoma,myocardial infarction,4.302666370300134
+0,lung adenocarcinoma,neuropathic pain,4.573251997739496
+0,lung adenocarcinoma,nonalcoholic steatohepatitis,4.243716812578579
+0,lung adenocarcinoma,non-small cell lung cancer,4.260381485885553
+0,lung adenocarcinoma,oral squamous cell carcinoma,3.585722654421609
+0,lung adenocarcinoma,osteoarthritis,4.613411312395164
+0,lung adenocarcinoma,osteosarcoma,4.354678973318465
+0,lung adenocarcinoma,ovarian endometriosis,3.516950525214093
+0,lung adenocarcinoma,pancreatic cancer,4.300019456035812
+0,lung adenocarcinoma,pancreatic ductal adenocarcinoma,3.9944263984398956
+0,lung adenocarcinoma,papillary thyroid carcinoma,4.191264106955309
+0,lung adenocarcinoma,pre-eclampsia,4.232046089978209
+0,lung adenocarcinoma,prostate adenocarcinoma,3.66833742928361
+0,lung adenocarcinoma,prostate cancer,4.500318646010225
+0,lung adenocarcinoma,pulmonary tuberculosis,3.664598598354147
+0,lung adenocarcinoma,rheumatoid arthritis,4.475559979841564
+0,lung adenocarcinoma,silicosis,4.1881076525657805
+0,lung adenocarcinoma,systemic lupus erythematosus,4.357636414462895
+0,lung adenocarcinoma,thoracic aortic dissection,3.5920707223680597
+0,lung adenocarcinoma,tuberculosis,4.257200326724622
+0,lung adenocarcinoma,type 2 diabetes mellitus,4.4257766958490095
+0,lung cancer,lupus nephritis,3.7629204176420132
+0,lung cancer,major depressive disorder,3.4193149146950272
+0,lung cancer,moyamoya disease,3.659527524093081
+0,lung cancer,multiple sclerosis,3.5147676234318586
+0,lung cancer,multiple system atrophy,4.402863756559697
+0,lung cancer,myocardial infarction,3.3814412415236696
+0,lung cancer,neuropathic pain,4.310279325836194
+0,lung cancer,nonalcoholic steatohepatitis,3.755885750191152
+0,lung cancer,non-small cell lung cancer,3.074454131450473
+0,lung cancer,oral squamous cell carcinoma,3.206663357818972
+0,lung cancer,osteoarthritis,3.8567979643106085
+0,lung cancer,osteosarcoma,3.28797144349823
+0,lung cancer,ovarian endometriosis,3.086123021556171
+0,lung cancer,pancreatic cancer,3.917044950435166
+0,lung cancer,pancreatic ductal adenocarcinoma,3.418649146896848
+0,lung cancer,papillary thyroid carcinoma,3.3800109690904163
+0,lung cancer,pre-eclampsia,3.7092356575975662
+0,lung cancer,prostate adenocarcinoma,3.1435557138822974
+0,lung cancer,prostate cancer,3.5657495875970153
+0,lung cancer,pulmonary tuberculosis,3.181608106316541
+0,lung cancer,rheumatoid arthritis,3.4924035525522985
+0,lung cancer,silicosis,3.8058645018110657
+0,lung cancer,systemic lupus erythematosus,3.919716257932854
+0,lung cancer,thoracic aortic dissection,3.053585771992885
+0,lung cancer,tuberculosis,3.4007322225044643
+0,lung cancer,type 2 diabetes mellitus,3.7476343733178448
+0,lupus nephritis,major depressive disorder,3.725768249725725
+0,lupus nephritis,moyamoya disease,3.9006490116731833
+0,lupus nephritis,multiple sclerosis,3.56083429129617
+0,lupus nephritis,multiple system atrophy,4.331373360938134
+0,lupus nephritis,myocardial infarction,3.608720147061328
+0,lupus nephritis,neuropathic pain,4.434784289683578
+0,lupus nephritis,nonalcoholic steatohepatitis,3.8054727743165144
+0,lupus nephritis,non-small cell lung cancer,3.5930671982308757
+0,lupus nephritis,oral squamous cell carcinoma,3.4684733111998356
+0,lupus nephritis,osteoarthritis,3.9124977581558333
+0,lupus nephritis,osteosarcoma,3.6629287551796526
+0,lupus nephritis,ovarian endometriosis,3.442076365704901
+0,lupus nephritis,pancreatic cancer,4.021965315576054
+0,lupus nephritis,pancreatic ductal adenocarcinoma,3.7016084337743003
+0,lupus nephritis,papillary thyroid carcinoma,3.62451402114893
+0,lupus nephritis,pre-eclampsia,3.7322976731694197
+0,lupus nephritis,prostate adenocarcinoma,3.5380163550103765
+0,lupus nephritis,prostate cancer,3.8020343859316443
+0,lupus nephritis,pulmonary tuberculosis,3.4880789183262793
+0,lupus nephritis,rheumatoid arthritis,3.4678631005395197
+0,lupus nephritis,silicosis,3.9470746647801165
+0,lupus nephritis,systemic lupus erythematosus,3.6170379696952297
+0,lupus nephritis,thoracic aortic dissection,3.4391035204368094
+0,lupus nephritis,tuberculosis,3.5178203277703646
+0,lupus nephritis,type 2 diabetes mellitus,4.227314352190533
+0,major depressive disorder,moyamoya disease,3.656017210222958
+0,major depressive disorder,multiple sclerosis,3.340956935352452
+0,major depressive disorder,multiple system atrophy,4.445080662536019
+0,major depressive disorder,myocardial infarction,3.210561587245674
+0,major depressive disorder,neuropathic pain,4.186083215892343
+0,major depressive disorder,nonalcoholic steatohepatitis,3.6529398066886065
+0,major depressive disorder,non-small cell lung cancer,3.325649381685187
+0,major depressive disorder,oral squamous cell carcinoma,3.2692437206775455
+0,major depressive disorder,osteoarthritis,3.7604830775037725
+0,major depressive disorder,osteosarcoma,3.178160634274369
+0,major depressive disorder,ovarian endometriosis,3.2814545006739837
+0,major depressive disorder,pancreatic cancer,3.8222455766329038
+0,major depressive disorder,pancreatic ductal adenocarcinoma,3.394570753401233
+0,major depressive disorder,papillary thyroid carcinoma,3.340608452863684
+0,major depressive disorder,pre-eclampsia,3.8773399771472423
+0,major depressive disorder,prostate adenocarcinoma,3.370183701873643
+0,major depressive disorder,prostate cancer,3.5320717446258767
+0,major depressive disorder,pulmonary tuberculosis,3.3297266711355173
+0,major depressive disorder,rheumatoid arthritis,3.1157700629538585
+0,major depressive disorder,silicosis,3.7647084150662184
+0,major depressive disorder,systemic lupus erythematosus,3.7704828287039787
+0,major depressive disorder,thoracic aortic dissection,3.245440874913837
+0,major depressive disorder,tuberculosis,3.4434269531449124
+0,major depressive disorder,type 2 diabetes mellitus,4.090253543594976
+0,moyamoya disease,multiple sclerosis,3.962808344469991
+0,moyamoya disease,multiple system atrophy,4.1052791180602135
+0,moyamoya disease,myocardial infarction,4.244467842231391
+0,moyamoya disease,neuropathic pain,4.281978011278537
+0,moyamoya disease,nonalcoholic steatohepatitis,4.231434515028209
+0,moyamoya disease,non-small cell lung cancer,3.901110504285996
+0,moyamoya disease,oral squamous cell carcinoma,3.4480653350541703
+0,moyamoya disease,osteoarthritis,4.283779187959478
+0,moyamoya disease,osteosarcoma,3.9371710501579726
+0,moyamoya disease,ovarian endometriosis,3.362630579382749
+0,moyamoya disease,pancreatic cancer,4.133184523713463
+0,moyamoya disease,pancreatic ductal adenocarcinoma,3.6988164819760305
+0,moyamoya disease,papillary thyroid carcinoma,3.766355323199472
+0,moyamoya disease,pre-eclampsia,4.278601579115434
+0,moyamoya disease,prostate adenocarcinoma,3.4171781948773763
+0,moyamoya disease,prostate cancer,4.1941144857843815
+0,moyamoya disease,pulmonary tuberculosis,3.323298531170484
+0,moyamoya disease,rheumatoid arthritis,4.325851765285707
+0,moyamoya disease,silicosis,4.063225477049216
+0,moyamoya disease,systemic lupus erythematosus,4.12659270299883
+0,moyamoya disease,thoracic aortic dissection,3.348571409536938
+0,moyamoya disease,tuberculosis,3.9377045566323394
+0,moyamoya disease,type 2 diabetes mellitus,4.0510303512047345
+0,multiple sclerosis,multiple system atrophy,4.598849377654117
+0,multiple sclerosis,myocardial infarction,3.432606275113755
+0,multiple sclerosis,neuropathic pain,4.31281351278534
+0,multiple sclerosis,nonalcoholic steatohepatitis,3.603965910040684
+0,multiple sclerosis,non-small cell lung cancer,3.5148225599985117
+0,multiple sclerosis,oral squamous cell carcinoma,3.3943834911801187
+0,multiple sclerosis,osteoarthritis,3.6281391264938967
+0,multiple sclerosis,osteosarcoma,3.188859764428699
+0,multiple sclerosis,ovarian endometriosis,3.4092709517659676
+0,multiple sclerosis,pancreatic cancer,3.899775850840289
+0,multiple sclerosis,pancreatic ductal adenocarcinoma,3.3833457173685706
+0,multiple sclerosis,papillary thyroid carcinoma,3.118015904894427
+0,multiple sclerosis,pre-eclampsia,3.7928176190550187
+0,multiple sclerosis,prostate adenocarcinoma,3.4061031433817917
+0,multiple sclerosis,prostate cancer,3.3013953842711494
+0,multiple sclerosis,pulmonary tuberculosis,3.386328284888576
+0,multiple sclerosis,rheumatoid arthritis,3.0056654146374147
+0,multiple sclerosis,silicosis,3.786470879200754
+0,multiple sclerosis,systemic lupus erythematosus,3.9788002915940375
+0,multiple sclerosis,thoracic aortic dissection,3.364651696993097
+0,multiple sclerosis,tuberculosis,3.245288136920958
+0,multiple sclerosis,type 2 diabetes mellitus,4.184578811021568
+0,multiple system atrophy,myocardial infarction,4.76971397100945
+0,multiple system atrophy,neuropathic pain,4.5397517794407545
+0,multiple system atrophy,nonalcoholic steatohepatitis,4.3836055366501245
+0,multiple system atrophy,non-small cell lung cancer,4.389146230096956
+0,multiple system atrophy,oral squamous cell carcinoma,3.4748764411780537
+0,multiple system atrophy,osteoarthritis,4.547740783887999
+0,multiple system atrophy,osteosarcoma,4.759035148816595
+0,multiple system atrophy,ovarian endometriosis,3.4773471000911385
+0,multiple system atrophy,pancreatic cancer,3.9948866966592123
+0,multiple system atrophy,pancreatic ductal adenocarcinoma,4.572377291663765
+0,multiple system atrophy,papillary thyroid carcinoma,4.360590193850629
+0,multiple system atrophy,pre-eclampsia,4.361498646430068
+0,multiple system atrophy,prostate adenocarcinoma,3.4706595421889475
+0,multiple system atrophy,prostate cancer,4.644413552152675
+0,multiple system atrophy,pulmonary tuberculosis,3.553184628906922
+0,multiple system atrophy,rheumatoid arthritis,4.733288722121959
+0,multiple system atrophy,silicosis,4.218974169712989
+0,multiple system atrophy,systemic lupus erythematosus,4.369063240993255
+0,multiple system atrophy,thoracic aortic dissection,3.397228820195952
+0,multiple system atrophy,tuberculosis,4.479799027955556
+0,multiple system atrophy,type 2 diabetes mellitus,4.383422837593487
+0,myocardial infarction,neuropathic pain,4.5043994650145365
+0,myocardial infarction,nonalcoholic steatohepatitis,3.626441471507233
+0,myocardial infarction,non-small cell lung cancer,3.305813963906137
+0,myocardial infarction,oral squamous cell carcinoma,3.5519411389722433
+0,myocardial infarction,osteoarthritis,3.710184849799881
+0,myocardial infarction,osteosarcoma,3.4127128136494504
+0,myocardial infarction,ovarian endometriosis,3.5900189763651635
+0,myocardial infarction,pancreatic cancer,4.033857297374666
+0,myocardial infarction,pancreatic ductal adenocarcinoma,3.335570351674241
+0,myocardial infarction,papillary thyroid carcinoma,3.2610469159073054
+0,myocardial infarction,pre-eclampsia,3.943453540904717
+0,myocardial infarction,prostate adenocarcinoma,3.6065165161127846
+0,myocardial infarction,prostate cancer,3.291558587117434
+0,myocardial infarction,pulmonary tuberculosis,3.5795197063262854
+0,myocardial infarction,rheumatoid arthritis,3.090115986972923
+0,myocardial infarction,silicosis,3.9162991363406565
+0,myocardial infarction,systemic lupus erythematosus,4.276754849234921
+0,myocardial infarction,thoracic aortic dissection,3.530423160102383
+0,myocardial infarction,tuberculosis,3.2039827161528347
+0,myocardial infarction,type 2 diabetes mellitus,4.294698572801209
+0,neuropathic pain,nonalcoholic steatohepatitis,4.36651292643666
+0,neuropathic pain,non-small cell lung cancer,4.026866519145288
+0,neuropathic pain,oral squamous cell carcinoma,3.714597888848146
+0,neuropathic pain,osteoarthritis,4.302180062949136
+0,neuropathic pain,osteosarcoma,4.503437922888206
+0,neuropathic pain,ovarian endometriosis,3.650357536568912
+0,neuropathic pain,pancreatic cancer,4.455614588415879
+0,neuropathic pain,pancreatic ductal adenocarcinoma,4.605392332162488
+0,neuropathic pain,papillary thyroid carcinoma,4.464316146409194
+0,neuropathic pain,pre-eclampsia,4.416184508005508
+0,neuropathic pain,prostate adenocarcinoma,3.7030646824389217
+0,neuropathic pain,prostate cancer,4.221449201346954
+0,neuropathic pain,pulmonary tuberculosis,3.675295108869971
+0,neuropathic pain,rheumatoid arthritis,4.36073020063324
+0,neuropathic pain,silicosis,3.973291938058585
+0,neuropathic pain,systemic lupus erythematosus,4.339436512836803
+0,neuropathic pain,thoracic aortic dissection,3.6315190179373706
+0,neuropathic pain,tuberculosis,4.28558425059718
+0,neuropathic pain,type 2 diabetes mellitus,4.2501900195404465
+0,nonalcoholic steatohepatitis,non-small cell lung cancer,3.774022266761943
+0,nonalcoholic steatohepatitis,oral squamous cell carcinoma,3.446281835945962
+0,nonalcoholic steatohepatitis,osteoarthritis,3.8644111421358813
+0,nonalcoholic steatohepatitis,osteosarcoma,3.561756487808391
+0,nonalcoholic steatohepatitis,ovarian endometriosis,3.426682733372258
+0,nonalcoholic steatohepatitis,pancreatic cancer,4.1254976235241285
+0,nonalcoholic steatohepatitis,pancreatic ductal adenocarcinoma,3.664397369029918
+0,nonalcoholic steatohepatitis,papillary thyroid carcinoma,3.587172600138888
+0,nonalcoholic steatohepatitis,pre-eclampsia,4.095646087142097
+0,nonalcoholic steatohepatitis,prostate adenocarcinoma,3.484465499422345
+0,nonalcoholic steatohepatitis,prostate cancer,3.7502007021323114
+0,nonalcoholic steatohepatitis,pulmonary tuberculosis,3.466480746041352
+0,nonalcoholic steatohepatitis,rheumatoid arthritis,3.7158464543862486
+0,nonalcoholic steatohepatitis,silicosis,3.93791314149119
+0,nonalcoholic steatohepatitis,systemic lupus erythematosus,4.055421375299444
+0,nonalcoholic steatohepatitis,thoracic aortic dissection,3.3931825175701062
+0,nonalcoholic steatohepatitis,tuberculosis,3.4519993353578853
+0,nonalcoholic steatohepatitis,type 2 diabetes mellitus,4.090255929818135
+0,non-small cell lung cancer,oral squamous cell carcinoma,3.0422672963027315
+0,non-small cell lung cancer,osteoarthritis,3.6672058052466037
+0,non-small cell lung cancer,osteosarcoma,3.344408061393902
+0,non-small cell lung cancer,ovarian endometriosis,3.1644673680484163
+0,non-small cell lung cancer,pancreatic cancer,3.805487055752205
+0,non-small cell lung cancer,pancreatic ductal adenocarcinoma,3.4949751707235155
+0,non-small cell lung cancer,papillary thyroid carcinoma,3.389032434716618
+0,non-small cell lung cancer,pre-eclampsia,3.857282358859847
+0,non-small cell lung cancer,prostate adenocarcinoma,3.128547940020988
+0,non-small cell lung cancer,prostate cancer,3.5510615277572324
+0,non-small cell lung cancer,pulmonary tuberculosis,3.137713436844034
+0,non-small cell lung cancer,rheumatoid arthritis,3.610176908814799
+0,non-small cell lung cancer,silicosis,3.7151250694883644
+0,non-small cell lung cancer,systemic lupus erythematosus,3.6383545384000815
+0,non-small cell lung cancer,thoracic aortic dissection,3.0531568218581415
+0,non-small cell lung cancer,tuberculosis,3.482287780863573
+0,non-small cell lung cancer,type 2 diabetes mellitus,3.798961848883976
+0,oral squamous cell carcinoma,osteoarthritis,3.4699675448731067
+0,oral squamous cell carcinoma,osteosarcoma,3.5611603505746343
+0,oral squamous cell carcinoma,ovarian endometriosis,2.098635812583552
+0,oral squamous cell carcinoma,pancreatic cancer,3.296604783457246
+0,oral squamous cell carcinoma,pancreatic ductal adenocarcinoma,3.26561702498234
+0,oral squamous cell carcinoma,papillary thyroid carcinoma,3.3130208183949503
+0,oral squamous cell carcinoma,pre-eclampsia,3.316279429774004
+0,oral squamous cell carcinoma,prostate adenocarcinoma,2.147980808826662
+0,oral squamous cell carcinoma,prostate cancer,3.4269116812847757
+0,oral squamous cell carcinoma,pulmonary tuberculosis,2.1464460497686977
+0,oral squamous cell carcinoma,rheumatoid arthritis,3.6577876103130875
+0,oral squamous cell carcinoma,silicosis,3.4275527874152916
+0,oral squamous cell carcinoma,systemic lupus erythematosus,3.3690805471883323
+0,oral squamous cell carcinoma,thoracic aortic dissection,2.0032788768125114
+0,oral squamous cell carcinoma,tuberculosis,3.4292487438881767
+0,oral squamous cell carcinoma,type 2 diabetes mellitus,3.252399316912769
+0,osteoarthritis,osteosarcoma,3.76487603192295
+0,osteoarthritis,ovarian endometriosis,3.374063135382212
+0,osteoarthritis,pancreatic cancer,3.911737684320795
+0,osteoarthritis,pancreatic ductal adenocarcinoma,3.695160327261976
+0,osteoarthritis,papillary thyroid carcinoma,3.6898092269791567
+0,osteoarthritis,pre-eclampsia,4.006383500635307
+0,osteoarthritis,prostate adenocarcinoma,3.449790736936485
+0,osteoarthritis,prostate cancer,3.735459884938284
+0,osteoarthritis,pulmonary tuberculosis,3.354119998563137
+0,osteoarthritis,rheumatoid arthritis,3.639219039601366
+0,osteoarthritis,silicosis,4.030379549240793
+0,osteoarthritis,systemic lupus erythematosus,4.213028129317549
+0,osteoarthritis,thoracic aortic dissection,3.349620822619114
+0,osteoarthritis,tuberculosis,3.6445053457038785
+0,osteoarthritis,type 2 diabetes mellitus,4.163029908873542
+0,osteosarcoma,ovarian endometriosis,3.5255102501881956
+0,osteosarcoma,pancreatic cancer,4.039869922546497
+0,osteosarcoma,pancreatic ductal adenocarcinoma,3.3309268941877646
+0,osteosarcoma,papillary thyroid carcinoma,3.1401886078550865
+0,osteosarcoma,pre-eclampsia,3.8573607181262792
+0,osteosarcoma,prostate adenocarcinoma,3.5321109086369216
+0,osteosarcoma,prostate cancer,3.2083760012101585
+0,osteosarcoma,pulmonary tuberculosis,3.5266663352658
+0,osteosarcoma,rheumatoid arthritis,3.085517389552807
+0,osteosarcoma,silicosis,3.9937187380687016
+0,osteosarcoma,systemic lupus erythematosus,4.109192001462995
+0,osteosarcoma,thoracic aortic dissection,3.4859463931628794
+0,osteosarcoma,tuberculosis,3.643427649565859
+0,osteosarcoma,type 2 diabetes mellitus,4.324921765831468
+0,ovarian endometriosis,pancreatic cancer,3.2265102872239924
+0,ovarian endometriosis,pancreatic ductal adenocarcinoma,3.309767963435303
+0,ovarian endometriosis,papillary thyroid carcinoma,3.309369605602587
+0,ovarian endometriosis,pre-eclampsia,3.3101546606461736
+0,ovarian endometriosis,prostate adenocarcinoma,2.1651155162988145
+0,ovarian endometriosis,prostate cancer,3.38577297014357
+0,ovarian endometriosis,pulmonary tuberculosis,1.9124814294714767
+0,ovarian endometriosis,rheumatoid arthritis,3.5576463566106202
+0,ovarian endometriosis,silicosis,3.356545270319432
+0,ovarian endometriosis,systemic lupus erythematosus,3.275205711698209
+0,ovarian endometriosis,thoracic aortic dissection,1.7702304681053314
+0,ovarian endometriosis,tuberculosis,3.3745418198568924
+0,ovarian endometriosis,type 2 diabetes mellitus,3.0998041757908994
+0,pancreatic cancer,pancreatic ductal adenocarcinoma,3.8519792185130126
+0,pancreatic cancer,papillary thyroid carcinoma,3.8338465859333986
+0,pancreatic cancer,pre-eclampsia,4.104652251360594
+0,pancreatic cancer,prostate adenocarcinoma,3.3255582306130034
+0,pancreatic cancer,prostate cancer,3.9413804805960293
+0,pancreatic cancer,pulmonary tuberculosis,3.2806197989435444
+0,pancreatic cancer,rheumatoid arthritis,4.072508208174739
+0,pancreatic cancer,silicosis,4.1903856867242855
+0,pancreatic cancer,systemic lupus erythematosus,4.0706288266385595
+0,pancreatic cancer,thoracic aortic dissection,3.237433573848232
+0,pancreatic cancer,tuberculosis,3.9915690330298115
+0,pancreatic cancer,type 2 diabetes mellitus,3.966999223358821
+0,pancreatic ductal adenocarcinoma,papillary thyroid carcinoma,3.3906783548744666
+0,pancreatic ductal adenocarcinoma,pre-eclampsia,3.9143626879100504
+0,pancreatic ductal adenocarcinoma,prostate adenocarcinoma,3.3381524662758877
+0,pancreatic ductal adenocarcinoma,prostate cancer,3.46796035936568
+0,pancreatic ductal adenocarcinoma,pulmonary tuberculosis,3.2868709906951286
+0,pancreatic ductal adenocarcinoma,rheumatoid arthritis,3.264351462219826
+0,pancreatic ductal adenocarcinoma,silicosis,3.8477991985191706
+0,pancreatic ductal adenocarcinoma,systemic lupus erythematosus,3.9797322629112517
+0,pancreatic ductal adenocarcinoma,thoracic aortic dissection,3.2391227946157777
+0,pancreatic ductal adenocarcinoma,tuberculosis,3.514694905777138
+0,pancreatic ductal adenocarcinoma,type 2 diabetes mellitus,4.061606366580439
+0,papillary thyroid carcinoma,pre-eclampsia,3.7865115731780423
+0,papillary thyroid carcinoma,prostate adenocarcinoma,3.3069174789298983
+0,papillary thyroid carcinoma,prostate cancer,3.5032179354418393
+0,papillary thyroid carcinoma,pulmonary tuberculosis,3.2911780278930136
+0,papillary thyroid carcinoma,rheumatoid arthritis,3.0232868923363054
+0,papillary thyroid carcinoma,silicosis,3.814777912667988
+0,papillary thyroid carcinoma,systemic lupus erythematosus,3.7259651677063417
+0,papillary thyroid carcinoma,thoracic aortic dissection,3.250298043393502
+0,papillary thyroid carcinoma,tuberculosis,3.436145125627585
+0,papillary thyroid carcinoma,type 2 diabetes mellitus,3.9779398204302154
+0,pre-eclampsia,prostate adenocarcinoma,3.423653553594057
+0,pre-eclampsia,prostate cancer,3.9996857692670162
+0,pre-eclampsia,pulmonary tuberculosis,3.3292685814155796
+0,pre-eclampsia,rheumatoid arthritis,3.971551974769014
+0,pre-eclampsia,silicosis,4.163056112861264
+0,pre-eclampsia,systemic lupus erythematosus,4.319164792799405
+0,pre-eclampsia,thoracic aortic dissection,3.314023736059381
+0,pre-eclampsia,tuberculosis,3.930683685114386
+0,pre-eclampsia,type 2 diabetes mellitus,4.215922417482169
+0,prostate adenocarcinoma,prostate cancer,3.4398512909683614
+0,prostate adenocarcinoma,pulmonary tuberculosis,2.0275059116054277
+0,prostate adenocarcinoma,rheumatoid arthritis,3.652832520593627
+0,prostate adenocarcinoma,silicosis,3.4361815472198645
+0,prostate adenocarcinoma,systemic lupus erythematosus,3.4490280120785775
+0,prostate adenocarcinoma,thoracic aortic dissection,2.164539641667939
+0,prostate adenocarcinoma,tuberculosis,3.4495335581594753
+0,prostate adenocarcinoma,type 2 diabetes mellitus,3.1399369741149674
+0,prostate cancer,pulmonary tuberculosis,3.4610746423527683
+0,prostate cancer,rheumatoid arthritis,3.2732459988143523
+0,prostate cancer,silicosis,3.9224943045431675
+0,prostate cancer,systemic lupus erythematosus,4.084189581453746
+0,prostate cancer,thoracic aortic dissection,3.398995202762516
+0,prostate cancer,tuberculosis,3.5079518053513294
+0,prostate cancer,type 2 diabetes mellitus,4.191935864020293
+0,pulmonary tuberculosis,rheumatoid arthritis,3.621840011841774
+0,pulmonary tuberculosis,silicosis,3.424029807531194
+0,pulmonary tuberculosis,systemic lupus erythematosus,3.33020291385882
+0,pulmonary tuberculosis,thoracic aortic dissection,1.9266947677442914
+0,pulmonary tuberculosis,tuberculosis,3.414960595200909
+0,pulmonary tuberculosis,type 2 diabetes mellitus,3.143707307588295
+0,rheumatoid arthritis,silicosis,3.821768727643132
+0,rheumatoid arthritis,systemic lupus erythematosus,4.026973964959746
+0,rheumatoid arthritis,thoracic aortic dissection,3.586079956603113
+0,rheumatoid arthritis,tuberculosis,3.2260648753268533
+0,rheumatoid arthritis,type 2 diabetes mellitus,4.469522402867273
+0,silicosis,systemic lupus erythematosus,3.714593381246204
+0,silicosis,thoracic aortic dissection,3.4489695187006135
+0,silicosis,tuberculosis,3.8206834800925615
+0,silicosis,type 2 diabetes mellitus,4.301243233705331
+0,systemic lupus erythematosus,thoracic aortic dissection,3.2236082682619056
+0,systemic lupus erythematosus,tuberculosis,4.004071095697547
+0,systemic lupus erythematosus,type 2 diabetes mellitus,3.896881591514506
+0,thoracic aortic dissection,tuberculosis,3.371879112921776
+0,thoracic aortic dissection,type 2 diabetes mellitus,3.0583509319975057
+0,tuberculosis,type 2 diabetes mellitus,4.293746286256216

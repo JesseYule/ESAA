@@ -17,7 +17,7 @@ from network import net
 
 BATCH_SIZE = 4000
 learning_rate = 1e-5
-epochs = 15
+epochs = 20
 threshold = 0.5
 
 print_loss_frequency = 10
@@ -162,6 +162,7 @@ for epoch in range(epochs):
             auc_value = roc_auc_score(test_output, test_preds)
             print('AUC: ', auc_value)
 
+            # 以下内容用于输出模型的输出和真实值，用于画ROC曲线
             # if epoch == 10:
             #     np.savetxt('output4.txt', test_output)
             #     np.savetxt('predict4.txt', test_preds_origin)
@@ -173,7 +174,6 @@ for epoch in range(epochs):
             tp = 0
             tn = 0
 
-
             for i in range(len(test_preds)):
                 if test_preds[i] == test_output[i] and test_preds[i] == 1:
                     tp += 1
@@ -182,6 +182,7 @@ for epoch in range(epochs):
                 if test_preds[i] == test_output[i] and test_preds[i] == 0:
                     tn += 1
 
+            # positive、negative的数量都等于正负测试样本的数量，所以算出tp、tn的数量后直接用正负测试样本数量相减即可
             fp = len(selected_index) - tp
             fn = len(selected_index) - tn
 
@@ -204,7 +205,6 @@ for epoch in range(epochs):
             print(' correct num: ', correct_num, ' whole num: ', len(test_preds))
             print('accu: ', test_accuracy, 'sen: ', sen, 'prec: ', prec, 'f1: ', f1)
 
-            # print('accu: ', test_accuracy)
 
             print('++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
 

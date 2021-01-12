@@ -5,24 +5,24 @@ np.set_printoptions(suppress=True)
 # 首先要构建负样本
 
 # data = pd.read_csv("circ_dis_association.csv")
-# # data = data[['circRNA_index', 'disease_index']]
-# #
-# # result = pd.DataFrame(columns=["circRNA_index", "disease_index"])
-# #
-# # sum = 0
-# #
-# # while sum < 846:
-# #
-# #     temp1 = np.random.randint(741)
-# #     temp2 = np.random.randint(71)
-# #
-# #     if len(data.loc[(data.circRNA_index == temp1) & (data.disease_index == temp2)]) == 0:
-# #         result = result.append(
-# #                     pd.DataFrame({'circRNA_index': [temp1],  'disease_index': [temp2]}),
-# #                     ignore_index=True)
-# #         sum += 1
-# #
-# # result.to_csv("negative_input.csv", index=False)
+# data = data[['circRNA_index', 'disease_index']]
+#
+# result = pd.DataFrame(columns=["circRNA_index", "disease_index"])
+#
+# sum = 0
+#
+# while sum < 846:
+#
+#     temp1 = np.random.randint(741)
+#     temp2 = np.random.randint(71)
+#
+#     if len(data.loc[(data.circRNA_index == temp1) & (data.disease_index == temp2)]) == 0:
+#         result = result.append(
+#                     pd.DataFrame({'circRNA_index': [temp1],  'disease_index': [temp2]}),
+#                     ignore_index=True)
+#         sum += 1
+#
+# result.to_csv("negative_input.csv", index=False)
 
 # 把正负样本的向量抽出来
 
@@ -31,7 +31,7 @@ circRNA_embedding_vector = np.mat(circRNA_embedding_vector)
 disease_embedding_vector = np.loadtxt('disease_embedding.csv', delimiter=',')
 disease_embedding_vector = np.mat(disease_embedding_vector)
 
-# 先转正样本
+# 先转正样本，positive_input.csv其实就是circ_dis_association.csv
 
 positive_input = pd.read_csv("positive_input.csv")
 positive_circRNA_index = positive_input['circRNA_index']
