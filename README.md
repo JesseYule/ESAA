@@ -6,6 +6,12 @@ CircR2Disease: http://bioinfo.snnu.edu.cn/
 
 DisGeNET: https://www.disgenet.org/
 
+### Supporting information
+
+S1 Table. The processed circR2Disease dataset contains 580 circRNA and 71 diseases.
+
+S2 Table. The processed DisGeNET dataset contains 71 diseases and 12092 genes.
+
 
 
 ### Model Training
