@@ -1,0 +1,847 @@
+﻿circRNA,circRNA index,disease,disease index
+cANRIL,0,atherosclerosis,5
+CDR1as,1,alzheimer's disease,4
+CDR1as,1,colorectal cancer,16
+CDR1as,1,diabetes mellitus,19
+CDR1as,1,gastric cancer,26
+CDR1as,1,glioblastoma,28
+CDR1as,1,hepatocellular carcinoma,34
+CDR1as,1,myocardial infarction,50
+chr11:34060062|34073206,2,cardiovascular disease,10
+chr18:107887-108499,3,glioblastoma,28
+chr19:5761476-5761630,4,glioblastoma,28
+Chr22: 28943661,5,bladder cancer,7
+chr4:103501692-103504114,6,glioblastoma,28
+Chr5: 158368701,7,bladder cancer,7
+chr5:90817794|90827570,8,cardiovascular disease,10
+chr6:22033342|22038870,9,cardiovascular disease,10
+chr8:71336875|71337745,10,cardiovascular disease,10
+Chr9: 74522734,11,bladder cancer,7
+circ_0002198,12,ovarian endometriosis,57
+circ_0004712,13,ovarian endometriosis,57
+circ_15898,14,osteoarthritis,55
+Circ_ADCY1,15,glioma,30
+Circ_BEND6,16,glioma,30
+Circ_CEP192,17,glioma,30
+Circ_CORO1C,18,glioma,30
+Circ_CRKL,19,glioma,30
+Circ_EML5,20,glioma,30
+Circ_ERC1,21,glioma,30
+Circ_ETFA,22,glioma,30
+Circ_FKBP8,23,glioma,30
+Circ_HIPK3,24,glioma,30
+Circ_KCNN2,25,glioma,30
+Circ_MAN1A2,26,glioma,30
+Circ_MCTP1,27,glioma,30
+Circ_MED12L,28,glioma,30
+Circ_R3HDM1,29,glioma,30
+Circ_RIMS1,30,glioma,30
+Circ_RNF10,31,glioma,30
+Circ_SAFB2,32,glioma,30
+Circ_SLC8A1,33,glioma,30
+Circ_SMARCA5,34,glioma,30
+Circ_STXBP5L,35,glioma,30
+Circ_UNC79,36,glioma,30
+Circ_VCAN,37,glioma,30
+Circ_ZNF148,38,glioma,30
+circ0817,39,colorectal cancer,16
+Circ-104916,40,gastric cancer,26
+circ3204,41,colorectal cancer,16
+circ6229,42,colorectal cancer,16
+circ7374,43,colorectal cancer,16
+circ7780,44,colorectal cancer,16
+circABCB10,45,breast cancer,9
+circABCC,46,colorectal cancer,16
+circAmotl1,47,breast cancer,9
+circANRIL,48,atherosclerosis,5
+circARHGAP5,49,colon cancer,15
+CircARSP91,50,hepatocellular carcinoma,34
+circATP2B1,51,clear cell renal cell carcinoma,14
+circ-BANP,52,colorectal cancer,16
+circBC048201,53,bladder cancer,7
+circBCL11B,54,breast cancer,9
+circBRAF,55,glioblastoma,28
+circBRIP,56,breast cancer,9
+circC3P1,57,hepatocellular carcinoma,34
+circCCDC66,58,breast cancer,9
+circCCDC66,58,cervical cancer,11
+circCCDC66,58,colorectal cancer,16
+circCCDC66,58,pancreatic cancer,58
+circ-CER,59,non-small cell lung cancer,53
+circ-CER,59,osteoarthritis,55
+circCRIM1,60,pre-eclampsia,61
+circDENND4C,61,breast cancer,9
+CircDOCK1,62,oral squamous cell carcinoma,54
+circEKL4,63,lupus nephritis,45
+circETFA,64,breast cancer,9
+circFAM120A,65,pre-eclampsia,61
+circFAM169A,66,bladder cancer,7
+circFAM188A,67,lupus nephritis,45
+circFAT1,68,colon cancer,15
+circ-FBXW7,69,glioma,30
+circ-Foxo3,70,breast cancer,9
+circ-Foxo3,70,non-small cell lung cancer,53
+circFUT8,71,liver cancer,42
+circ-GRB10,72,intervertebral disc degeneration,40
+circHECTD1,73,silicosis,66
+circHIAT1,74,clear cell renal cell carcinoma,14
+circHIAT1,74,gastric cancer,26
+circHIPK3,75,bladder cancer,7
+circHIPK3,75,bladder urothelial carcinoma,8
+circHIPK3,75,breast cancer,9
+circHIPK3,75,colorectal cancer,16
+circHIPK3,75,diabetes mellitus,19
+circHIPK3,75,gastric cancer,26
+circHIPK3,75,hepatocellular carcinoma,34
+circHIPK3,75,non-small cell lung cancer,53
+circHIPK3,75,pre-eclampsia,61
+circHIPK3,75,prostate adenocarcinoma,62
+circHLA-C,76,lupus nephritis,45
+circIPO11,77,liver cancer,42
+circ-KLDHC10,78,colorectal cancer,16
+circLARP4,79,gastric cancer,26
+circ-LDLRAD3,80,pancreatic cancer,58
+circMAN2B2,81,lung cancer,44
+circMED13,82,breast cancer,9
+circMTO1,83,hepatocellular carcinoma,34
+circMylk,84,bladder cancer,7
+circNPM1,85,acute myeloid leukemia,1
+circ-NT5C2,86,osteosarcoma,56
+circOLA,87,breast cancer,9
+circPABPN1,88,cervical carcinoma,12
+circPDE4B,89,lupus nephritis,45
+circPRKCI,90,lung adenocarcinoma,43
+circPRRC2B,91,gastric cancer,26
+circPTK2,92,bladder cancer,7
+circPVT1,93,breast cancer,9
+circPVT1,93,gastric cancer,26
+circPVT1,93,lung cancer,44
+circPVT1,93,osteosarcoma,56
+circRHOBTB3,94,colon cancer,15
+circRNA BCRC4,95,bladder cancer,7
+circRNA.1030,96,gestational diabetes mellitus,27
+circRNA.20159,97,gestational diabetes mellitus,27
+circRNA.22054,98,gestational diabetes mellitus,27
+circRNA.33299,99,gestational diabetes mellitus,27
+circRNA.37134,100,gestational diabetes mellitus,27
+circRNA.5333,101,gestational diabetes mellitus,27
+circRNA_0001073,102,acne,0
+circRNA_000167,103,esophageal cancer,23
+circRNA_0005941,104,acne,0
+circRNA_000695,105,esophageal cancer,23
+circRNA_00074,106,pulmonary tuberculosis,64
+circRNA_000839,107,hepatocellular carcinoma,34
+circRNA_001059,108,esophageal cancer,23
+circRNA_0018168,109,acne,0
+circRNA_002279,110,nonalcoholic steatohepatitis,52
+circRNA_002581,111,nonalcoholic steatohepatitis,52
+circRNA_003524,112,rheumatoid arthritis,65
+circRNA_0046366,113,hepatic steatosis,32
+circRNA_004772,114,nonalcoholic steatohepatitis,52
+circRNA_007585,115,nonalcoholic steatohepatitis,52
+circRNA_008472,116,nonalcoholic steatohepatitis,52
+circRNA_0084927,117,acne,0
+circRNA_0086376,118,acne,0
+circRNA_012164,119,nonalcoholic steatohepatitis,52
+circRNA_05538,120,pulmonary tuberculosis,64
+circRNA_081881,121,myocardial infarction,50
+circRNA_092516,122,rheumatoid arthritis,65
+circRNA_09585,123,pulmonary tuberculosis,64
+circRNA_09993,124,pulmonary tuberculosis,64
+circRNA_100269,125,gastric cancer,26
+circRNA_100367,126,esophageal cancer,23
+circRNA_100782,127,pancreatic ductal adenocarcinoma,59
+circRNA_100876,128,non-small cell lung cancer,53
+circRNA_100876,128,osteoarthritis,55
+circRNA_100984,129,esophageal cancer,23
+circRNA_101419,130,esophageal cancer,23
+circRNA_101873,131,rheumatoid arthritis,65
+circRNA_101877,132,esophageal cancer,23
+circRNA_102231,133,lung cancer,44
+circRNA_102913,134,esophageal cancer,23
+circRNA_103047,135,rheumatoid arthritis,65
+circRNA_104871,136,rheumatoid arthritis,65
+circRNA_104983,137,esophageal cancer,23
+circRNA_13478,138,pulmonary tuberculosis,64
+circRNA_14623,139,pulmonary tuberculosis,64
+circRNA_Atp9b,140,osteoarthritis,55
+circRNA-000284,141,cervical cancer,11
+circRNA0003906,142,colorectal cancer,16
+circRNA-000911,143,breast cancer,9
+circRNA-001175,144,breast cancer,9
+circRNA-001283,145,breast cancer,9
+circRNA0047905,146,gastric cancer,26
+circRNA0138960,147,gastric cancer,26
+circRNA-100438,148,breast cancer,9
+circRNA120,149,esophageal squamous cell carcinoma,24
+circRNA167,150,esophageal squamous cell carcinoma,24
+circRNA2918,151,esophageal squamous cell carcinoma,24
+circRNA3341,152,esophageal squamous cell carcinoma,24
+circRNA3594,153,esophageal squamous cell carcinoma,24
+circRNA3703,154,esophageal squamous cell carcinoma,24
+circRNA3706,155,esophageal squamous cell carcinoma,24
+circRNA3707,156,esophageal squamous cell carcinoma,24
+circRNA378,157,esophageal squamous cell carcinoma,24
+circRNA4628,158,esophageal squamous cell carcinoma,24
+circRNA5669,159,esophageal squamous cell carcinoma,24
+circRNA666,160,esophageal squamous cell carcinoma,24
+circRNA7534,161,esophageal squamous cell carcinoma,24
+circRNA7535,162,esophageal squamous cell carcinoma,24
+circRNA7536,163,esophageal squamous cell carcinoma,24
+circRNA7537,164,esophageal squamous cell carcinoma,24
+circRNA7673,165,esophageal squamous cell carcinoma,24
+circRNA7674,166,esophageal squamous cell carcinoma,24
+circRNA7675,167,esophageal squamous cell carcinoma,24
+circRNA7676,168,esophageal squamous cell carcinoma,24
+circRNA7679,169,esophageal squamous cell carcinoma,24
+circRNA8505,170,esophageal squamous cell carcinoma,24
+circRNA8506,171,esophageal squamous cell carcinoma,24
+circRNA8507,172,esophageal squamous cell carcinoma,24
+circRNA904,173,esophageal squamous cell carcinoma,24
+circRNA9227,174,esophageal squamous cell carcinoma,24
+circRNA9652,175,esophageal squamous cell carcinoma,24
+circRNA9656,176,esophageal squamous cell carcinoma,24
+circRNA9658,177,esophageal squamous cell carcinoma,24
+circRNA9671,178,esophageal squamous cell carcinoma,24
+circRNA9771,179,esophageal squamous cell carcinoma,24
+circRNA9777,180,esophageal squamous cell carcinoma,24
+circRNA-MSR,181,osteoarthritis,55
+circRNA-MYLK,182,bladder cancer,7
+circRTN4,183,colon cancer,15
+circ-SHKBP1,184,glioma,30
+CircSLC8A1-1,185,heart disease,31
+circSMARC1A,186,colon cancer,15
+circSMARCA5,187,glioblastoma multiforme,29
+circSMARCA5,187,hepatocellular carcinoma,34
+circSMARCA5,187,prostate cancer,63
+circSNX27,188,hepatocellular carcinoma,34
+circSP100,189,lupus nephritis,45
+circTCF25,190,bladder cancer,7
+circTRIM24,191,bladder cancer,7
+circTTBK2,192,glioma,30
+circUBAP2,193,lung cancer,44
+circUBAP2,193,osteosarcoma,56
+circUBR5,194,lupus nephritis,45
+circVMA21,195,intervertebral disc degeneration,40
+circVRK1,196,breast cancer,9
+circWDR77,197,cardiovascular disease,10
+circZC3H4,198,silicosis,66
+circZFR,199,bladder cancer,7
+circZFR,199,liver cancer,42
+circ-ZFR,200,gastric cancer,26
+circZKSCAN1,201,hepatocellular carcinoma,34
+circZNF609,202,lupus nephritis,45
+Circ-ZNF609,203,hirschsprung disease,35
+cir-GLI2,204,osteosarcoma,56
+Cir-ITCH,205,bladder cancer,7
+Cir-ITCH,205,colorectal cancer,16
+Cir-ITCH,205,esophageal squamous cell carcinoma,24
+Cir-ITCH,205,hepatocellular carcinoma,34
+Cir-ITCH,205,lung cancer,44
+ciRS-7,206,alzheimer's disease,4
+ciRS-7,206,colorectal cancer,16
+ciRS-7,206,diabetes mellitus,19
+ciRS-7,206,gastric cancer,26
+ciRS-7,206,glioblastoma,28
+ciRS-7,206,hepatocellular carcinoma,34
+ciRS-7,206,myocardial infarction,50
+cTtns,207,dilated cardiomyopathy,21
+cZNF292,208,glioma,30
+cZNF609,209,coronary artery disease,17
+cZNF609,209,diabetic retinopathy,20
+cZNF609,209,hypertension,36
+DTNA,210,multiple system atrophy,49
+EFCAB11,211,multiple system atrophy,49
+f-circRNA(f-circPR，f-circM9),212,acute promyelocytic leukemia,2
+Fusion-circRNAs,213,acute promyelocytic leukemia,2
+GSDMB ecircRNA,214,multiple sclerosis,48
+has-circRNA_0046367,215,hepatic steatosis,32
+has-circRNA7690-15,216,gastric cancer,26
+HRCR,217,hypertrophic cardiomyopathy,37
+hsa circ 0031288,218,cervical carcinoma,12
+hsa_ circRNA_005086,219,tuberculosis,69
+hsa_ circRNA_104387,220,diabetic retinopathy,20
+hsa_circ_0000026,221,gastric cancer,26
+hsa_circ_0000064,222,lung cancer,44
+hsa_circ_0000069,223,colorectal cancer,16
+hsa_circ_0000096,224,clear cell renal cell carcinoma,14
+hsa_circ_0000096,224,gastric cancer,26
+hsa_circ_0000098,225,breast cancer,9
+hsa_circ_0000140,226,gastric cancer,26
+hsa_circ_0000144,227,gastric cancer,26
+hsa_circ_0000172,228,bladder cancer,7
+hsa_circ_0000175,229,lupus nephritis,45
+hsa_circ_0000181,230,gastric cancer,26
+hsa_circ_0000190,231,gastric cancer,26
+hsa_circ_0000199,232,glioblastoma,28
+hsa_circ_0000219,233,lupus nephritis,45
+hsa_circ_0000257,234,pancreatic ductal adenocarcinoma,59
+hsa_circ_0000284,235,bladder cancer,7
+hsa_circ_0000284,235,bladder urothelial carcinoma,8
+hsa_circ_0000284,235,breast cancer,9
+hsa_circ_0000284,235,colorectal cancer,16
+hsa_circ_0000284,235,diabetes mellitus,19
+hsa_circ_0000284,235,gastric cancer,26
+hsa_circ_0000284,235,hepatocellular carcinoma,34
+hsa_circ_0000284,235,non-small cell lung cancer,53
+hsa_circ_0000284,235,pre-eclampsia,61
+hsa_circ_0000284,235,prostate adenocarcinoma,62
+hsa_circ_0000414,236,pulmonary tuberculosis,64
+hsa_circ_0000426,237,clear cell renal cell carcinoma,14
+hsa_circ_0000504,238,colorectal cancer,16
+hsa_circ_0000516,239,papillary thyroid carcinoma,60
+hsa_circ_0000517,240,multiple sclerosis,48
+hsa_circ_0000518,241,esophageal cancer,23
+hsa_circ_0000518,241,multiple sclerosis,48
+hsa_circ_0000519,242,multiple sclerosis,48
+hsa_circ_0000520,243,gastric cancer,26
+hsa_circ_0000520,243,multiple sclerosis,48
+hsa_circ_0000554,244,esophageal cancer,23
+hsa_circ_0000567,245,colorectal cancer,16
+hsa_circ_0000594,246,glioma,30
+hsa_circ_0000615,247,coronary artery disease,17
+hsa_circ_0000615,247,diabetic retinopathy,20
+hsa_circ_0000615,247,hirschsprung disease,35
+hsa_circ_0000615,247,hypertension,36
+hsa_circ_0000615,247,lupus nephritis,45
+hsa_circ_0000615,247,myocardial infarction,50
+hsa_circ_0000673,248,ovarian endometriosis,57
+hsa_circ_0000677,249,colorectal cancer,16
+hsa_circ_0000681,250,pulmonary tuberculosis,64
+hsa_circ_0000732,251,breast cancer,9
+hsa_circ_0000745,252,gastric cancer,26
+hsa_circ_0000893,253,breast cancer,9
+hsa_circ_0000911,254,breast cancer,9
+hsa_circ_0000977,255,pancreatic ductal adenocarcinoma,59
+hsa_circ_0000981,256,breast cancer,9
+hsa_circ_0001017,257,gastric cancer,26
+hsa_circ_0001073,258,acne,0
+hsa_circ_0001141,259,bladder cancer,7
+hsa_circ_0001141,259,colorectal cancer,16
+hsa_circ_0001141,259,esophageal squamous cell carcinoma,24
+hsa_circ_0001141,259,hepatocellular carcinoma,34
+hsa_circ_0001141,259,lung cancer,44
+hsa_circ_0001187,260,cervical carcinoma,12
+hsa_circ_0001189,261,hypopharyngeal squamous cell carcinoma,38
+hsa_circ_0001204 ,262,tuberculosis,69
+hsa_circ_0001212,263,cervical carcinoma,12
+hsa_circ_0001283,264,breast cancer,9
+hsa_circ_0001313,265,breast cancer,9
+hsa_circ_0001313,265,cervical cancer,11
+hsa_circ_0001313,265,colorectal cancer,16
+hsa_circ_0001313,265,pancreatic cancer,58
+hsa_circ_0001336,266,esophageal cancer,23
+hsa_circ_0001400,267,multiple sclerosis,48
+hsa_circ_0001410,268,major depressive disorder,46
+hsa_circ_0001417,269,tuberculosis,69
+hsa_circ_0001445,270,glioblastoma multiforme,29
+hsa_circ_0001445,270,hepatocellular carcinoma,34
+hsa_circ_0001445,270,prostate cancer,63
+hsa_circ_0001451,271,colorectal cancer,16
+hsa_circ_0001561,272,gastric cancer,26
+hsa_circ_0001564,273,osteosarcoma,56
+hsa_circ_0001566,274,glioblastoma,28
+hsa_circ_0001577,275,bladder cancer,7
+hsa_circ_0001649,276,cholangiocarcinoma,13
+hsa_circ_0001649,276,colorectal cancer,16
+hsa_circ_0001649,276,gastric cancer,26
+hsa_circ_0001649,276,glioma,30
+hsa_circ_0001649,276,hepatocellular carcinoma,34
+hsa_circ_0001666,277,pancreatic ductal adenocarcinoma,59
+hsa_circ_0001667,278,breast cancer,9
+hsa_circ_0001721,279,breast cancer,9
+hsa_circ_0001724,280,colorectal cancer,16
+hsa_circ_0001727,281,hepatocellular carcinoma,34
+hsa_circ_0001785,282,breast cancer,9
+hsa_circ_0001819,283,lupus nephritis,45
+hsa_circ_0001821,284,breast cancer,9
+hsa_circ_0001821,284,gastric cancer,26
+hsa_circ_0001821,284,lung cancer,44
+hsa_circ_0001821,284,osteosarcoma,56
+hsa_circ_0001824,285,breast cancer,9
+hsa_circ_0001859,286,rheumatoid arthritis,65
+hsa_circ_0001866,287,systemic lupus erythematosus,67
+hsa_circ_0001875,288,breast cancer,9
+hsa_circ_0001895,289,gastric cancer,26
+hsa_circ_0001907,290,major depressive disorder,46
+hsa_circ_0001946,291,alzheimer's disease,4
+hsa_circ_0001946,291,colorectal cancer,16
+hsa_circ_0001946,291,gastric cancer,26
+hsa_circ_0001946,291,glioblastoma,28
+hsa_circ_0001946,291,hepatocellular carcinoma,34
+hsa_circ_0001946,291,pancreatic ductal adenocarcinoma,59
+hsa_circ_0001955,292,cutaneous squamous cell carcinoma,18
+hsa_circ_0001982,293,breast cancer,9
+hsa_circ_0002019,294,esophageal cancer,23
+hsa_circ_0002024,295,bladder cancer,7
+hsa_circ_0002078,296,moyamoya disease,47
+hsa_circ_0002111,297,papillary thyroid carcinoma,60
+hsa_circ_0002113,298,breast cancer,9
+hsa_circ_0002113,298,pulmonary tuberculosis,64
+hsa_circ_0002161,299,essential hypertension,25
+hsa_circ_0002198,300,ovarian endometriosis,57
+hsa_circ_0002260,301,hypopharyngeal squamous cell carcinoma,38
+hsa_circ_0002271,302,thoracic aortic dissection,68
+hsa_circ_0002343,303,cervical carcinoma,12
+hsa_circ_0002362,304,pulmonary tuberculosis,64
+hsa_circ_0002495,305,bladder cancer,7
+hsa_circ_0002569,306,moyamoya disease,47
+hsa_circ_0002577,307,endometrial cancer,22
+hsa_circ_0002768,308,bladder cancer,7
+hsa_circ_0002874,309,breast cancer,9
+hsa_circ_0002908,310,pulmonary tuberculosis,64
+hsa_circ_0002968,311,glioblastoma,28
+hsa_circ_0003028,312,liver cancer,42
+hsa_circ_0003146,313,systemic lupus erythematosus,67
+hsa_circ_0003159,314,gastric cancer,26
+hsa_circ_0003221,315,bladder cancer,7
+hsa_circ_0003258,316,infantile hemangioma,39
+hsa_circ_0003505,317,papillary thyroid carcinoma,60
+hsa_circ_0003570,318,hepatocellular carcinoma,34
+hsa_circ_0003570,318,infantile hemangioma,39
+hsa_circ_0003575,319,atherosclerosis,5
+hsa_circ_0003586,320,glioblastoma,28
+hsa_circ_0003707,321,gastric cancer,26
+hsa_circ_0003838,322,breast cancer,9
+hsa_circ_0003922,323,lupus nephritis,45
+hsa_circ_0004018,324,hepatocellular carcinoma,34
+hsa_circ_0004136,325,acute myeloid leukemia,1
+hsa_circ_0004214,326,breast cancer,9
+hsa_circ_0004277,327,acute myeloid leukemia,1
+hsa_circ_0004372,328,thoracic aortic dissection,68
+hsa_circ_0004383,329,glioma,30
+hsa_circ_0004458,330,papillary thyroid carcinoma,60
+hsa_circ_0004519,331,esophageal cancer,23
+hsa_circ_0004619,332,breast cancer,9
+hsa_circ_0004712,333,ovarian endometriosis,57
+hsa_circ_0004712,333,rheumatoid arthritis,65
+hsa_circ_0004771,334,breast cancer,9
+hsa_circ_0004771,334,papillary thyroid carcinoma,60
+hsa_circ_0004846,335,papillary thyroid carcinoma,60
+hsa_circ_0004872,336,glioblastoma,28
+hsa_circ_0005075,337,hepatocellular carcinoma,34
+hsa_circ_0005105,338,osteoarthritis,55
+hsa_circ_0005218,339,pre-eclampsia,61
+hsa_circ_0005273,340,bladder cancer,7
+hsa_circ_0005397,341,pancreatic ductal adenocarcinoma,59
+hsa_circ_0005402,342,multiple sclerosis,48
+hsa_circ_0005442,343,pre-eclampsia,61
+hsa_circ_0005525,344,thoracic aortic dissection,68
+hsa_circ_0005529,345,gastric cancer,26
+hsa_circ_0005540,346,multiple system atrophy,49
+hsa_circ_0005567,347,osteoarthritis,55
+hsa_circ_0005603,348,glioblastoma,28
+hsa_circ_0005620 ,349,major depressive disorder,46
+hsa_circ_0005785,350,pancreatic ductal adenocarcinoma,59
+hsa_circ_0005870,351,hypertension,36
+hsa_circ_0005912,352,basal cell carcinoma,6
+hsa_circ_0005927,353,gastric cancer,26
+hsa_circ_0005931,354,hepatoblastoma,33
+hsa_circ_0005941,355,acne,0
+hsa_circ_0005986,356,hepatocellular carcinoma,34
+hsa_circ_0006022,357,gastric cancer,26
+hsa_circ_0006054,358,breast cancer,9
+hsa_circ_0006127,359,gastric cancer,26
+hsa_circ_0006174,360,colorectal cancer,16
+hsa_circ_0006220,361,pancreatic ductal adenocarcinoma,59
+hsa_circ_0006411,362,glioblastoma,28
+hsa_circ_0006460,363,glioblastoma,28
+hsa_circ_0006528,364,breast cancer,9
+hsa_circ_0006633,365,gastric cancer,26
+hsa_circ_0006913,366,pancreatic ductal adenocarcinoma,59
+hsa_circ_0006988,367,pancreatic cancer,58
+hsa_circ_0007006,368,colorectal cancer,16
+hsa_circ_0007031,369,colorectal cancer,16
+hsa_circ_0007158,370,bladder cancer,7
+hsa_circ_0007385,371,non-small cell lung cancer,53
+hsa_circ_0007386,372,cervical carcinoma,12
+hsa_circ_0007386,372,thoracic aortic dissection,68
+hsa_circ_0007534,373,breast cancer,9
+hsa_circ_0007534,373,colorectal cancer,16
+hsa_circ_0007534,373,glioma,30
+hsa_circ_000760,374,gastric cancer,26
+hsa_circ_0007915,375,liver cancer,42
+hsa_circ_0007928,376,cervical carcinoma,12
+hsa_circ_0008016,377,papillary thyroid carcinoma,60
+hsa_circ_000826,378,clear cell renal cell carcinoma,14
+hsa_circ_0008305,379,intervertebral disc degeneration,40
+hsa_circ_0008345,380,glioblastoma,28
+hsa_circ_0008433,381,lupus nephritis,45
+hsa_circ_0008509,382,colorectal cancer,16
+hsa_circ_0008615,383,systemic lupus erythematosus,67
+hsa_circ_0008717,384,breast cancer,9
+hsa_circ_0008719,385,pancreatic ductal adenocarcinoma,59
+hsa_circ_0008732,386,basal cell carcinoma,6
+hsa_circ_0008797,387,pulmonary tuberculosis,64
+hsa_circ_0008844,388,cervical carcinoma,12
+hsa_circ_0008945,389,breast cancer,9
+hsa_circ_000984,390,colorectal cancer,16
+hsa_circ_0009910,391,osteosarcoma,56
+hsa_circ_001013,392,clear cell renal cell carcinoma,14
+hsa_circ_001013,392,gastric cancer,26
+hsa_circ_0011021,393,cervical cancer,11
+hsa_circ_0011946,394,breast cancer,9
+hsa_circ_0012673,395,lung adenocarcinoma,43
+hsa_circ_0013509,396,cardiovascular disease,10
+hsa_circ_0013958,397,lung adenocarcinoma,43
+hsa_circ_0014130,398,non-small cell lung cancer,53
+hsa_circ_0014717,399,colorectal cancer,16
+hsa_circ_0014717,399,gastric cancer,26
+hsa_circ_0014879,400,esophageal cancer,23
+hsa_circ_0015278,401,papillary thyroid carcinoma,60
+hsa_circ_001569,402,colorectal cancer,16
+hsa_circ_0015756,403,hepatoblastoma,33
+hsa_circ_001598,404,bladder cancer,7
+hsa_circ_0016347,405,osteosarcoma,56
+hsa_circ_0016760,406,non-small cell lung cancer,53
+hsa_circ_0017446,407,acute myeloid leukemia,1
+hsa_circ_0017515,408,hepatoblastoma,33
+hsa_circ_001763,409,bladder cancer,7
+hsa_circ_001763,409,colorectal cancer,16
+hsa_circ_001763,409,esophageal squamous cell carcinoma,24
+hsa_circ_001763,409,hepatocellular carcinoma,34
+hsa_circ_001763,409,lung cancer,44
+hsa_circ_0018168,410,acne,0
+hsa_circ_0018289,411,cervical cancer,11
+hsa_circ_0018293,412,breast cancer,9
+hsa_circ_0018508,413,type 2 diabetes mellitus,70
+hsa_circ_001988,414,colorectal cancer,16
+hsa_circ_0020397,415,colorectal cancer,16
+hsa_circ_002059,416,gastric cancer,26
+hsa_circ_0021549,417,systemic lupus erythematosus,67
+hsa_circ_0021553,418,papillary thyroid carcinoma,60
+hsa_circ_0023110,419,hepatoblastoma,33
+hsa_circ_0023114,420,hepatoblastoma,33
+hsa_circ_0023115,421,ovarian endometriosis,57
+hsa_circ_0023117,422,hepatoblastoma,33
+hsa_circ_0023404,423,non-small cell lung cancer,53
+hsa_circ_0023404,423,osteoarthritis,55
+hsa_circ_0023903,424,moyamoya disease,47
+hsa_circ_0023984,425,infantile hemangioma,39
+hsa_circ_0024108,426,hypopharyngeal squamous cell carcinoma,38
+hsa_circ_0024892,427,multiple sclerosis,48
+hsa_circ_0026143,428,ovarian endometriosis,57
+hsa_circ_0029601,429,pre-eclampsia,61
+hsa_circ_0030045,430,tuberculosis,69
+hsa_circ_0030569,431,tuberculosis,69
+hsa_circ_0031979,432,gastric cancer,26
+hsa_circ_0032683,433,rheumatoid arthritis,65
+hsa_circ_0032821,434,gastric cancer,26
+hsa_circ_0032832,435,esophageal cancer,23
+hsa_circ_0032891,436,multiple system atrophy,49
+hsa_circ_0034398,437,systemic lupus erythematosus,67
+hsa_circ_0034912,438,cervical cancer,11
+hsa_circ_0035381,439,acute myeloid leukemia,1
+hsa_circ_0035431,440,gastric cancer,26
+hsa_circ_0035560,441,multiple sclerosis,48
+hsa_circ_0036722,442,hypopharyngeal squamous cell carcinoma,38
+hsa_circ_0037911,443,essential hypertension,25
+hsa_circ_0038374,444,multiple system atrophy,49
+hsa_circ_0040081,445,hepatoblastoma,33
+hsa_circ_0040705,446,systemic lupus erythematosus,67
+hsa_circ_0041103,447,bladder cancer,7
+hsa_circ_0041150,448,pancreatic ductal adenocarcinoma,59
+hsa_circ_0041731,449,hepatoblastoma,33
+hsa_circ_0041946,450,intervertebral disc degeneration,40
+hsa_circ_0043138,451,infantile hemangioma,39
+hsa_circ_0043256,452,non-small cell lung cancer,53
+hsa_circ_0043278,453,pancreatic ductal adenocarcinoma,59
+hsa_circ_0043497,454,tuberculosis,69
+hsa_circ_0043534,455,hepatoblastoma,33
+hsa_circ_0045510,456,hepatoblastoma,33
+hsa_circ_0045714,457,osteoarthritis,55
+hsa_circ_0046599,458,systemic lupus erythematosus,67
+hsa_circ_0046701,459,glioma,30
+hsa_circ_0047905,460,gastric cancer,26
+hsa_circ_0048232,461,colorectal cancer,16
+hsa_circ_0050898,462,moyamoya disease,47
+hsa_circ_0051239,463,infantile hemangioma,39
+hsa_circ_0052012,464,rheumatoid arthritis,65
+hsa_circ_0054211,465,multiple system atrophy,49
+hsa_circ_0054633,466,type 2 diabetes mellitus,70
+hsa_circ_0055377,467,thoracic aortic dissection,68
+hsa_circ_0056048,468,major depressive disorder,46
+hsa_circ_0056288,469,osteosarcoma,56
+hsa_circ_0056731,470,multiple sclerosis,48
+hsa_circ_0057336,471,hepatoblastoma,33
+hsa_circ_0058058,472,acute myeloid leukemia,1
+hsa_circ_0058058,472,esophageal cancer,23
+hsa_circ_0058106,473,hypopharyngeal squamous cell carcinoma,38
+hsa_circ_0058107,474,hypopharyngeal squamous cell carcinoma,38
+hsa_circ_0058246,475,gastric cancer,26
+hsa_circ_006054,476,breast cancer,9
+hsa_circ_0061265,477,bladder cancer,7
+hsa_circ_0061274,478,gastric cancer,26
+hsa_circ_0061276,479,gastric cancer,26
+hsa_circ_0062163,480,hepatoblastoma,33
+hsa_circ_0062557,481,ovarian endometriosis,57
+hsa_circ_0063179,482,pulmonary tuberculosis,64
+hsa_circ_0064557,483,papillary thyroid carcinoma,60
+hsa_circ_0064996,484,rheumatoid arthritis,65
+hsa_circ_0066077,485,hepatoblastoma,33
+hsa_circ_0067103,486,papillary thyroid carcinoma,60
+hsa_circ_0067175,487,thoracic aortic dissection,68
+hsa_circ_0067209,488,moyamoya disease,47
+hsa_circ_0067531,489,hepatocellular carcinoma,34
+hsa_circ_0067745,490,hepatoblastoma,33
+hsa_circ_0067934,491,esophageal squamous cell carcinoma,24
+hsa_circ_0067934,491,hepatocellular carcinoma,34
+hsa_circ_0067934,491,lung adenocarcinoma,43
+hsa_circ_0068033,492,breast cancer,9
+hsa_circ_0068087,493,type 2 diabetes mellitus,70
+hsa_circ_0069131,494,gastric cancer,26
+hsa_circ_0069399,495,cervical carcinoma,12
+hsa_circ_0070933,496,cutaneous squamous cell carcinoma,18
+hsa_circ_0070934,497,cutaneous squamous cell carcinoma,18
+hsa_circ_0072088,498,bladder cancer,7
+hsa_circ_0072359,499,hepatoblastoma,33
+hsa_circ_0074362,500,gastric cancer,26
+hsa_circ_0074930,501,colorectal cancer,16
+hsa_circ_0075001,502,acute myeloid leukemia,1
+hsa_circ_0075829,503,basal cell carcinoma,6
+hsa_circ_0076304,504,gastric cancer,26
+hsa_circ_0076305,505,gastric cancer,26
+hsa_circ_0078297,506,pancreatic ductal adenocarcinoma,59
+hsa_circ_0078710,507,hepatoblastoma,33
+hsa_circ_0078738,508,papillary thyroid carcinoma,60
+hsa_circ_0079385,509,infantile hemangioma,39
+hsa_circ_0079549,510,hepatoblastoma,33
+hsa_circ_0079891,511,papillary thyroid carcinoma,60
+hsa_circ_0079929,512,thoracic aortic dissection,68
+hsa_circ_0080210,513,intervertebral disc degeneration,40
+hsa_circ_0081342,514,papillary thyroid carcinoma,60
+hsa_circ_0082081,515,coronary artery disease,17
+hsa_circ_0082333,516,colorectal cancer,16
+hsa_circ_0082582,517,bladder cancer,7
+hsa_circ_0083964,518,rheumatoid arthritis,65
+hsa_circ_0084021,519,colorectal cancer,16
+hsa_circ_0084615,520,thoracic aortic dissection,68
+hsa_circ_0084927,521,acne,0
+hsa_circ_0085154,522,hepatocellular carcinoma,34
+hsa_circ_0085495,523,breast cancer,9
+hsa_circ_0085553,524,gastric cancer,26
+hsa_circ_0085616,525,gastric cancer,26
+hsa_circ_0086241,526,breast cancer,9
+hsa_circ_0086376,527,acne,0
+hsa_circ_0087432,528,cervical cancer,11
+hsa_circ_0089231,529,cervical cancer,11
+hsa_circ_0089310,530,major depressive disorder,46
+hsa_circ_0089548,531,gastric cancer,26
+hsa_circ_0089974,532,esophageal cancer,23
+hsa_circ_0091017,533,bladder cancer,7
+hsa_circ_0091702,534,intervertebral disc degeneration,40
+hsa_circ_0091742,535,gastric cancer,26
+hsa_circ_0091822,536,cervical cancer,11
+hsa_circ_0091894,537,papillary thyroid carcinoma,60
+hsa_circ_0092276,538,breast cancer,9
+hsa_circ_0092315,539,papillary thyroid carcinoma,60
+hsa_circ_0092341,540,gastric cancer,26
+hsa_circ_0092374,541,systemic lupus erythematosus,67
+hsa_circ_0092509,542,osteosarcoma,56
+hsa_circ_0093859,543,breast cancer,9
+hsa_circ_0098964,544,coronary artery disease,17
+hsa_circ_0106803,545,multiple sclerosis,48
+hsa_circ_0108308,546,multiple system atrophy,49
+hsa_circ_0108942,547,breast cancer,9
+hsa_circ_0109046,548,endometrial cancer,22
+hsa_circ_0113854,549,coronary artery disease,17
+hsa_circ_0124644,550,coronary artery disease,17
+hsa_circ_0138960,551,gastric cancer,26
+hsa_circ_100219,552,breast cancer,9
+hsa_circ_100226,553,systemic lupus erythematosus,67
+hsa_circ_10072088,554,liver cancer,42
+hsa_circ_100721,555,oral squamous cell carcinoma,54
+hsa_circ_100775,556,systemic lupus erythematosus,67
+hsa_circ_101222,557,pre-eclampsia,61
+hsa_circ_101396,558,leukoaraiosis,41
+hsa_circ_101471,559,systemic lupus erythematosus,67
+hsa_circ_101555,560,cutaneous squamous cell carcinoma,18
+hsa_circ_101889,561,systemic lupus erythematosus,67
+hsa_circ_102470,562,leukoaraiosis,41
+hsa_circ_102533 ,563,leukoaraiosis,41
+hsa_circ_102571,564,systemic lupus erythematosus,67
+hsa_circ_102584,565,systemic lupus erythematosus,67
+hsa_circ_103110,566,breast cancer,9
+hsa_circ_103736,567,cutaneous squamous cell carcinoma,18
+hsa_circ_103737,568,cutaneous squamous cell carcinoma,18
+hsa_circ_103783,569,leukoaraiosis,41
+hsa_circ_104689,570,breast cancer,9
+hsa_circ_104807,571,systemic lupus erythematosus,67
+hsa_circ_104821,572,breast cancer,9
+hsa_circ_400011,573,systemic lupus erythematosus,67
+hsa_circ_406697,574,breast cancer,9
+hsa_circRNA 102049,575,hepatocellular carcinoma,34
+hsa_circRNA_ 100192,576,diabetic retinopathy,20
+hsa_circRNA_ 404457,577,diabetic retinopathy,20
+hsa_circRNA_000167,578,pancreatic cancer,58
+hsa_circRNA_000367,579,hepatic steatosis,32
+hsa_circRNA_000543,580,gastric cancer,26
+hsa_circRNA_000598,581,osteoarthritis,55
+hsa_circRNA_0007874,582,hepatocellular carcinoma,34
+hsa_circRNA_000792,583,gastric cancer,26
+hsa_circRNA_001066,584,gastric cancer,26
+hsa_circRNA_001379,585,papillary thyroid carcinoma,60
+hsa_circRNA_001937,586,tuberculosis,69
+hsa_circRNA_001959,587,gastric cancer,26
+hsa_circRNA_002082,588,hepatic steatosis,32
+hsa_circRNA_002143,589,major depressive disorder,46
+hsa_circRNA_002271,590,thoracic aortic dissection,68
+hsa_circRNA_004121,591,hepatic steatosis,32
+hsa_circRNA_004183,592,hepatic steatosis,32
+hsa_circRNA_005525,593,thoracic aortic dissection,68
+hsa_circRNA_006411,594,lung adenocarcinoma,43
+hsa_circRNA_007850,595,hepatic steatosis,32
+hsa_circRNA_009024,596,tuberculosis,69
+hsa_circRNA_014724,597,hepatic steatosis,32
+hsa_circRNA_050898,598,moyamoya disease,47
+hsa_circRNA_051239,599,infantile hemangioma,39
+hsa_circRNA_063981,600,diabetic retinopathy,20
+hsa_circRNA_067209,601,moyamoya disease,47
+hsa_circRNA_100241,602,osteosarcoma,56
+hsa_circRNA_100258,603,osteosarcoma,56
+hsa_circRNA_100269,604,gastric cancer,26
+hsa_circRNA_100338,605,hepatocellular carcinoma,34
+hsa_circRNA_100395,606,papillary thyroid carcinoma,60
+hsa_circRNA_100433,607,pancreatic cancer,58
+hsa_circRNA_100679,608,major depressive disorder,46
+hsa_circRNA_100709,609,infantile hemangioma,39
+hsa_circRNA_100750,610,diabetic retinopathy,20
+hsa_circRNA_100777,611,papillary thyroid carcinoma,60
+hsa_circRNA_100782,612,non-small cell lung cancer,53
+hsa_circRNA_100782,612,pre-eclampsia,61
+hsa_circRNA_100914,613,moyamoya disease,47
+hsa_circRNA_100933,614,infantile hemangioma,39
+hsa_circRNA_101113,615,osteosarcoma,56
+hsa_circRNA_101238,616,thoracic aortic dissection,68
+hsa_circRNA_101308,617,gastric cancer,26
+hsa_circRNA_101356,618,papillary thyroid carcinoma,60
+hsa_circRNA_101368,619,liver cancer,42
+hsa_circRNA_101407,620,rheumatoid arthritis,65
+hsa_circRNA_101717,621,pancreatic cancer,58
+hsa_circRNA_101720,622,moyamoya disease,47
+hsa_circRNA_101975,623,osteoarthritis,55
+hsa_circRNA_102002,624,papillary thyroid carcinoma,60
+hsa_circRNA_102039,625,infantile hemangioma,39
+hsa_circRNA_102049,626,osteosarcoma,56
+hsa_circRNA_102049,626,pancreatic cancer,58
+hsa_circRNA_102051,627,pancreatic cancer,58
+hsa_circRNA_102101,628,tuberculosis,69
+hsa_circRNA_102116,629,infantile hemangioma,39
+hsa_circRNA_102485,630,osteosarcoma,56
+hsa_circRNA_102594,631,rheumatoid arthritis,65
+hsa_circRNA_102619,632,pancreatic cancer,58
+hsa_circRNA_102678,633,osteosarcoma,56
+hsa_circRNA_102682,634,pre-eclampsia,61
+hsa_circRNA_102683,635,thoracic aortic dissection,68
+hsa_circRNA_102771,636,thoracic aortic dissection,68
+hsa_circRNA_102802,637,major depressive disorder,46
+hsa_circRNA_103076,638,pancreatic cancer,58
+hsa_circRNA_103110,639,osteosarcoma,56
+hsa_circRNA_103110,639,papillary thyroid carcinoma,60
+hsa_circRNA_103307,640,papillary thyroid carcinoma,60
+hsa_circRNA_103309,641,osteosarcoma,56
+hsa_circRNA_103334,642,rheumatoid arthritis,65
+hsa_circRNA_103343,643,moyamoya disease,47
+hsa_circRNA_103387,644,osteoarthritis,55
+hsa_circRNA_103390,645,pancreatic cancer,58
+hsa_circRNA_103410,646,diabetic retinopathy,20
+hsa_circRNA_103454,647,papillary thyroid carcinoma,60
+hsa_circRNA_103458,648,thoracic aortic dissection,68
+hsa_circRNA_103595,649,lung cancer,44
+hsa_circRNA_103636,650,major depressive disorder,46
+hsa_circRNA_103801,651,osteosarcoma,56
+hsa_circRNA_103809,652,colorectal cancer,16
+hsa_circRNA_103809,652,liver cancer,42
+hsa_circRNA_103847,653,liver cancer,42
+hsa_circRNA_104075,654,hepatocellular carcinoma,34
+hsa_circRNA_104084,655,pancreatic cancer,58
+hsa_circRNA_104135,656,hepatocellular carcinoma,34
+hsa_circRNA_104194,657,rheumatoid arthritis,65
+hsa_circRNA_104268,658,papillary thyroid carcinoma,60
+hsa_circRNA_104270,659,pancreatic cancer,58
+hsa_circRNA_104296,660,tuberculosis,69
+hsa_circRNA_104310,661,infantile hemangioma,39
+hsa_circRNA_104348,662,papillary thyroid carcinoma,60
+hsa_circRNA_104349,663,thoracic aortic dissection,68
+hsa_circRNA_104423,664,gastric cancer,26
+hsa_circRNA_104433,665,papillary thyroid carcinoma,60
+hsa_circRNA_104565,666,papillary thyroid carcinoma,60
+hsa_circRNA_104566,667,papillary thyroid carcinoma,60
+hsa_circRNA_104593,668,rheumatoid arthritis,65
+hsa_circRNA_104595,669,papillary thyroid carcinoma,60
+hsa_circRNA_104634,670,thoracic aortic dissection,68
+hsa_circRNA_104692,671,osteosarcoma,56
+hsa_circRNA_104700,672,colorectal cancer,16
+hsa_circRNA_104820,673,pre-eclampsia,61
+hsa_circRNA_104892,674,osteosarcoma,56
+hsa_circRNA_104916,675,gastric cancer,26
+hsa_circRNA_104953,676,major depressive disorder,46
+hsa_circRNA_104964,677,tuberculosis,69
+hsa_circRNA_104980,678,osteosarcoma,56
+hsa_circRNA_105038,679,papillary thyroid carcinoma,60
+hsa_circRNA_400064,680,papillary thyroid carcinoma,60
+hsa_circRNA_400066,681,gastric cancer,26
+hsa_circRNA_400071,682,gastric cancer,26
+hsa_circRNA_401977,683,lung adenocarcinoma,43
+hsa_circRNA_404833,684,lung adenocarcinoma,43
+hsa_circRNA_406918,685,diabetic retinopathy,20
+hsa-circRNA11783-2,686,coronary artery disease,17
+hsa-circRNA11783-2,686,type 2 diabetes mellitus,70
+hsa-circRNA11806-28,687,coronary artery disease,17
+hsa-circRNA11806-28,687,type 2 diabetes mellitus,70
+hsa-circRNA5974-1,688,coronary artery disease,17
+hsa-circRNA6510-1,689,coronary artery disease,17
+hsa-circRNA6510-1,689,type 2 diabetes mellitus,70
+IQCK,690,multiple system atrophy,49
+MAP4K3,691,multiple system atrophy,49
+MCF7_circ_000595,692,breast cancer,9
+MCTP1,693,multiple system atrophy,49
+MFACR,694,cardiovascular disease,10
+MICRA,695,myocardial infarction,50
+mm9_circ_002279,696,nonalcoholic steatohepatitis,52
+mm9_circ_002581,697,nonalcoholic steatohepatitis,52
+mm9_circ_002888,698,silicosis,66
+mm9_circ_004772,699,nonalcoholic steatohepatitis,52
+mm9_circ_007585,700,nonalcoholic steatohepatitis,52
+mm9_circ_008472,701,nonalcoholic steatohepatitis,52
+mm9_circ_012164,702,nonalcoholic steatohepatitis,52
+mm9-circ-012559,703,hypertrophic cardiomyopathy,37
+mm9-circ-016597,704,cardiovascular disease,10
+mmu_circ_0000254,705,hypertrophic cardiomyopathy,37
+mmu_circ_0000290,706,cardiovascular disease,10
+mmu_circ_0000375,707,silicosis,66
+mmu_circ_0001046,708,nonalcoholic steatohepatitis,52
+mmu_circ_0001052,709,diabetes mellitus,19
+mmu_circ_0001351,710,nonalcoholic steatohepatitis,52
+mmu_circ_0001544,711,silicosis,66
+mmu_circ_0001878,712,diabetes mellitus,19
+mmu_circ_0001878,712,myocardial infarction,50
+mmu_circRNA_003540,713,alzheimer's disease,4
+mmu_circRNA_006173,714,alzheimer's disease,4
+mmu_circRNA_006229,715,alzheimer's disease,4
+mmu_circRNA_012180,716,alzheimer's disease,4
+mmu_circRNA_013699,717,alzheimer's disease,4
+mmu_circRNA_017963,718,alzheimer's disease,4
+mmu_circRNA_19423,719,acute respiratory distress syndrome,3
+mmu_circRNA_30664,720,acute respiratory distress syndrome,3
+mmu-circRNA-2443,721,osteoarthritis,55
+mmu-circRNA-2483,722,osteoarthritis,55
+mmu-circRNA-30365 ,723,osteoarthritis,55
+mmu-circRNA-33186,724,osteoarthritis,55
+mmu-circRNA-33736,725,osteoarthritis,55
+mmu-circRNA-36866,726,osteoarthritis,55
+mmu-circRNA-7063,727,osteoarthritis,55
+RBM20-dependent TTN circRNAs,728,dilated cardiomyopathy,21
+rno_circRNA_005564 ,729,acute respiratory distress syndrome,3
+rno_circRNA_006016,730,hypertension,36
+rno_circRNA_007419,731,neuropathic pain,51
+rno_circRNA_007512,732,neuropathic pain,51
+rno_circRNA_008646,733,neuropathic pain,51
+rno_circRNA_008973,734,neuropathic pain,51
+rno_circRNA_010489,735,acute respiratory distress syndrome,3
+rno_circRNA_010913,736,neuropathic pain,51
+rno_circRNA_011111,737,neuropathic pain,51
+rno_circRNA_011426,738,acute respiratory distress syndrome,3
+rno_circRNA_013779,739,neuropathic pain,51
+rno_circRNA_35215,740,neuropathic pain,51
+Titin circRNAs,741,dilated cardiomyopathy,21
